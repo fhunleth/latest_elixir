@@ -1,0 +1,5 @@
+/_build/
+/deps/
+/_site/
+*.beam
+erl_crash.dump
