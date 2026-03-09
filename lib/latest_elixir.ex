@@ -6,17 +6,32 @@ defmodule LatestElixir do
 
   @docker_hub_url "https://hub.docker.com/v2/repositories/hexpm/elixir/tags"
   @page_size 100
-  @max_pages 50
+  @max_pages 200
+  @cache_path "_cache/tags.txt"
 
   @tag_regex ~r/^(\d+\.\d+\.\d+(?:-rc\.\d+)?)-erlang-(\d+(?:\.\d+)*)-(\w+)-(.+?)(-slim)?$/
 
   def run do
     IO.puts("Fetching tags from Docker Hub...")
-    tags = fetch_all_tags()
-    IO.puts("Fetched #{length(tags)} tags")
+    cached_tags = load_cache()
+    IO.puts("Loaded #{MapSet.size(cached_tags)} cached tags")
+
+    IO.puts("Fetching newest tags first...")
+    newest_tags = fetch_tags(cached_tags, "last_updated")
+
+    merged = MapSet.union(cached_tags, MapSet.new(newest_tags))
+
+    IO.puts("Fetching oldest tags (backfill)...")
+    oldest_tags = fetch_tags(merged, "-last_updated")
+
+    all_new = newest_tags ++ oldest_tags
+    IO.puts("Fetched #{length(all_new)} new tags from Docker Hub")
+    all_tags = MapSet.to_list(MapSet.union(merged, MapSet.new(oldest_tags)))
+    save_cache(all_tags)
+    IO.puts("Total: #{length(all_tags)} tags")
 
     parsed =
-      tags
+      all_tags
       |> Enum.map(&parse_tag/1)
       |> Enum.reject(&is_nil/1)
       |> Enum.filter(&(&1.os in ~w(alpine debian ubuntu)))
@@ -31,13 +46,30 @@ defmodule LatestElixir do
     IO.puts("Generated _site/index.html")
   end
 
-  defp fetch_all_tags do
-    fetch_page("#{@docker_hub_url}?page_size=#{@page_size}&ordering=last_updated", [], 1)
+  defp load_cache do
+    case File.read(@cache_path) do
+      {:ok, contents} ->
+        contents
+        |> String.split("\n", trim: true)
+        |> MapSet.new()
+
+      {:error, _} ->
+        MapSet.new()
+    end
   end
 
-  defp fetch_page(_url, acc, page) when page > @max_pages, do: acc
+  defp save_cache(tags) do
+    File.mkdir_p!(Path.dirname(@cache_path))
+    File.write!(@cache_path, Enum.join(Enum.sort(tags), "\n"))
+  end
 
-  defp fetch_page(url, acc, page) do
+  defp fetch_tags(cached_tags, ordering) do
+    fetch_page("#{@docker_hub_url}?page_size=#{@page_size}&ordering=#{ordering}", [], 1, cached_tags)
+  end
+
+  defp fetch_page(_url, acc, page, _cached) when page > @max_pages, do: acc
+
+  defp fetch_page(url, acc, page, cached_tags) do
     IO.puts("  Fetching page #{page}...")
 
     case Req.get(url, receive_timeout: 30_000) do
@@ -45,9 +77,19 @@ defmodule LatestElixir do
         results = body["results"] || []
         tag_names = Enum.map(results, & &1["name"])
 
-        case body["next"] do
-          nil -> acc ++ tag_names
-          next_url -> fetch_page(next_url, acc ++ tag_names, page + 1)
+        # If every tag on this page is already cached, we've caught up
+        all_cached? = tag_names != [] and Enum.all?(tag_names, &MapSet.member?(cached_tags, &1))
+
+        if all_cached? do
+          IO.puts("  All tags on page #{page} already cached, stopping")
+          acc
+        else
+          new_on_page = Enum.reject(tag_names, &MapSet.member?(cached_tags, &1))
+
+          case body["next"] do
+            nil -> acc ++ new_on_page
+            next_url -> fetch_page(next_url, acc ++ new_on_page, page + 1, cached_tags)
+          end
         end
 
       {:ok, %{status: status}} ->

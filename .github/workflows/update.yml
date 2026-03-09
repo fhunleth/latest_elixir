@@ -28,6 +28,13 @@ jobs:
       - name: Install dependencies
         run: mix deps.get
 
+      - name: Restore tag cache
+        uses: actions/cache@v4
+        with:
+          path: _cache
+          key: docker-tags-${{ github.run_id }}
+          restore-keys: docker-tags-
+
       - name: Generate site
         run: mix run -e "LatestElixir.run()"
 
