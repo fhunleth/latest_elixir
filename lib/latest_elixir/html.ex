@@ -6,6 +6,7 @@ defmodule LatestElixir.Html do
 
   def generate(parsed, prominent) do
     json_data = Jason.encode!(Enum.map(parsed, &tag_to_map/1))
+    tag_count = length(parsed)
     timestamp = DateTime.utc_now() |> Calendar.strftime("%Y-%m-%d %H:%M UTC")
 
     elixir_versions = LatestElixir.unique_sorted(parsed, :elixir)
@@ -89,7 +90,7 @@ defmodule LatestElixir.Html do
       </table>
 
       <footer>
-        <p>Last updated: #{timestamp}</p>
+        <p>#{tag_count} tags | Last updated: #{timestamp}</p>
         <p>Data from <a href="https://hub.docker.com/r/hexpm/elixir/tags">Docker Hub</a>.
            Source on <a href="https://github.com/fhunleth/latest_elixir">GitHub</a>.</p>
       </footer>
@@ -117,7 +118,7 @@ defmodule LatestElixir.Html do
 
   defp prominent_html(prominent) do
     cards =
-      Enum.map(prominent, fn %{elixir: elixir, erlang: erlang, os_tags: os_tags} ->
+      Enum.map(prominent, fn %{elixir_minor: elixir_minor, os_tags: os_tags} ->
         os_items =
           os_tags
           |> Enum.sort_by(fn {os, _} -> os end)
@@ -132,8 +133,7 @@ defmodule LatestElixir.Html do
 
         """
         <div class="card">
-          <h3>Elixir #{elixir}</h3>
-          <p class="card-sub">Erlang #{erlang}</p>
+          <h3>Elixir #{elixir_minor}</h3>
           #{os_items}
         </div>
         """
