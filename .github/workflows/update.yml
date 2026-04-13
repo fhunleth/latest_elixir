@@ -35,8 +35,11 @@ jobs:
           key: docker-tags-${{ github.run_id }}
           restore-keys: docker-tags-
 
-      - name: Generate site
+      - name: Generate Elixir tags
         run: mix run -e "LatestElixir.run()"
+
+      - name: Generate Erlang tags
+        run: mix run -e "LatestErlang.run()"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

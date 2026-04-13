@@ -1,7 +1,7 @@
-defmodule LatestElixir.Html do
+defmodule LatestErlang.Html do
   @moduledoc """
   Generates a self-contained HTML page with embedded CSS/JS for browsing
-  hexpm/elixir Docker tags.
+  hexpm/erlang Docker tags.
   """
 
   def generate(parsed, prominent) do
@@ -9,8 +9,7 @@ defmodule LatestElixir.Html do
     tag_count = length(parsed)
     timestamp = DateTime.utc_now() |> Calendar.strftime("%Y-%m-%d %H:%M UTC")
 
-    elixir_versions = LatestElixir.unique_sorted(parsed, :elixir)
-    erlang_versions = LatestElixir.unique_sorted(parsed, :erlang)
+    erlang_versions = LatestErlang.unique_sorted(parsed, :erlang)
     os_list = parsed |> Enum.map(& &1.os) |> Enum.uniq() |> Enum.sort()
 
     """
@@ -19,7 +18,7 @@ defmodule LatestElixir.Html do
     <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>hexpm/elixir Docker Tags</title>
+    <title>hexpm/erlang Docker Tags</title>
     <style>
     #{css()}
     </style>
@@ -27,14 +26,14 @@ defmodule LatestElixir.Html do
     <body>
     <div class="container">
       <nav class="nav-bar">
-        <a href="index.html" class="nav-link active">Elixir Tags</a>
-        <a href="erlang.html" class="nav-link">Erlang Tags</a>
+        <a href="index.html" class="nav-link">Elixir Tags</a>
+        <a href="erlang.html" class="nav-link active">Erlang Tags</a>
       </nav>
 
       <header>
-        <h1>hexpm/elixir Docker Tags</h1>
+        <h1>hexpm/erlang Docker Tags</h1>
         <p class="subtitle">
-          A browsable listing of <a href="https://hub.docker.com/r/hexpm/elixir">hexpm/elixir</a>
+          A browsable listing of <a href="https://hub.docker.com/r/hexpm/erlang">hexpm/erlang</a>
           tags, updated nightly.
         </p>
       </header>
@@ -47,13 +46,6 @@ defmodule LatestElixir.Html do
       <section class="filters">
         <h2>All Tags</h2>
         <div class="filter-row">
-          <label>
-            Elixir
-            <select id="filter-elixir">
-              <option value="">All</option>
-              #{options_html(elixir_versions)}
-            </select>
-          </label>
           <label>
             Erlang
             <select id="filter-erlang">
@@ -84,8 +76,7 @@ defmodule LatestElixir.Html do
         <thead>
           <tr>
             <th class="sortable" data-col="tag">Tag</th>
-            <th class="sortable sort-desc" data-col="elixir">Elixir <span class="sort-arrow">&#9660;</span></th>
-            <th class="sortable" data-col="erlang">Erlang <span class="sort-arrow"></span></th>
+            <th class="sortable sort-desc" data-col="erlang">Erlang <span class="sort-arrow">&#9660;</span></th>
             <th class="sortable" data-col="os">OS <span class="sort-arrow"></span></th>
             <th class="sortable" data-col="os_version">OS Version <span class="sort-arrow"></span></th>
             <th class="sortable" data-col="slim">Slim <span class="sort-arrow"></span></th>
@@ -96,9 +87,9 @@ defmodule LatestElixir.Html do
 
       <footer>
         <p>#{tag_count} tags | Last updated: #{timestamp}</p>
-        <p>Data from <a href="https://hub.docker.com/r/hexpm/elixir/tags">Docker Hub</a>.
+        <p>Data from <a href="https://hub.docker.com/r/hexpm/erlang/tags">Docker Hub</a>.
            Source on <a href="https://github.com/fhunleth/latest_elixir">GitHub</a>.
-           <a href="elixir-tags.txt">Download tags as text</a>.</p>
+           <a href="erlang-tags.txt">Download tags as text</a>.</p>
       </footer>
     </div>
 
@@ -114,7 +105,6 @@ defmodule LatestElixir.Html do
   defp tag_to_map(t) do
     %{
       tag: t.tag,
-      elixir: t.elixir,
       erlang: t.erlang,
       os: t.os,
       os_version: t.os_version,
@@ -124,13 +114,13 @@ defmodule LatestElixir.Html do
 
   defp prominent_html(prominent) do
     cards =
-      Enum.map(prominent, fn %{elixir_minor: elixir_minor, os_tags: os_tags} ->
+      Enum.map(prominent, fn %{erlang_major: erlang_major, os_tags: os_tags} ->
         os_items =
           os_tags
           |> Enum.sort_by(fn {os, _} -> os end)
           |> Enum.map(fn {_os, tag} ->
             """
-            <div class="tag-chip" onclick="copyTag(this)" title="Copy hexpm/elixir:#{tag.tag}">
+            <div class="tag-chip" onclick="copyTag(this)" title="Copy hexpm/erlang:#{tag.tag}">
               <code>#{tag.tag}</code>
             </div>
             """
@@ -139,7 +129,7 @@ defmodule LatestElixir.Html do
 
         """
         <div class="card">
-          <h3>Elixir #{elixir_minor}</h3>
+          <h3>OTP #{erlang_major}</h3>
           #{os_items}
         </div>
         """
@@ -163,14 +153,13 @@ defmodule LatestElixir.Html do
   defp css do
     ~S"""
     :root {
-      --purple: #4e2a8e;
-      --purple-light: #7c5cbf;
-      --bg: #f8f7fc;
+      --accent: #a0230a;
+      --accent-light: #c94c33;
+      --bg: #fdf7f6;
       --card-bg: #fff;
-      --border: #e0dce8;
+      --border: #e8dcd9;
       --text: #1a1a2e;
       --text-muted: #6b6b80;
-      --accent: #4e2a8e;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -189,16 +178,16 @@ defmodule LatestElixir.Html do
       text-decoration: none; color: var(--text-muted); font-weight: 600;
       font-size: 0.95rem;
     }
-    .nav-link:hover { color: var(--accent); background: rgba(78,42,142,0.05); }
+    .nav-link:hover { color: var(--accent); background: rgba(160,35,10,0.05); }
     .nav-link.active {
       color: var(--accent); border-bottom: 2px solid var(--accent);
       margin-bottom: -2px;
     }
     header { text-align: center; margin-bottom: 2rem; }
-    h1 { color: var(--purple); font-size: 2rem; }
+    h1 { color: var(--accent); font-size: 2rem; }
     .subtitle { color: var(--text-muted); margin-top: 0.5rem; }
-    .subtitle a { color: var(--purple-light); }
-    h2 { color: var(--purple); margin-bottom: 1rem; font-size: 1.3rem; }
+    .subtitle a { color: var(--accent-light); }
+    h2 { color: var(--accent); margin-bottom: 1rem; font-size: 1.3rem; }
     .hero { margin-bottom: 2.5rem; }
     .card-grid {
       display: grid;
@@ -211,7 +200,7 @@ defmodule LatestElixir.Html do
       border-radius: 8px;
       padding: 1.25rem;
     }
-    .card h3 { color: var(--purple); margin-bottom: 0.25rem; }
+    .card h3 { color: var(--accent); margin-bottom: 0.25rem; }
     .card-sub { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.75rem; }
     .tag-chip {
       display: inline-block;
@@ -224,7 +213,7 @@ defmodule LatestElixir.Html do
       transition: background 0.15s;
       font-size: 0.85rem;
     }
-    .tag-chip:hover { background: #ede8f5; }
+    .tag-chip:hover { background: #f5e0dc; }
     .tag-chip.copied { background: #d4edda; border-color: #a3d9b1; }
     .copy-hint { color: var(--text-muted); font-size: 0.8rem; margin-top: 0.5rem; }
     .filters { margin-bottom: 1.5rem; }
@@ -245,11 +234,11 @@ defmodule LatestElixir.Html do
       border: 1px solid var(--border); border-radius: 8px; overflow: hidden;
     }
     th {
-      background: var(--purple); color: #fff; padding: 0.6rem 0.75rem;
+      background: var(--accent); color: #fff; padding: 0.6rem 0.75rem;
       text-align: left; font-size: 0.85rem; font-weight: 600;
     }
     th.sortable { cursor: pointer; user-select: none; white-space: nowrap; }
-    th.sortable:hover { background: var(--purple-light); }
+    th.sortable:hover { background: var(--accent-light); }
     .sort-arrow { font-size: 0.7rem; margin-left: 0.25rem; opacity: 0.6; }
     th.sort-asc .sort-arrow, th.sort-desc .sort-arrow { opacity: 1; }
     td {
@@ -257,12 +246,12 @@ defmodule LatestElixir.Html do
       font-size: 0.85rem;
     }
     td:first-child { font-family: monospace; font-size: 0.8rem; }
-    tr:hover td { background: #f3f0fa; }
+    tr:hover td { background: #faf0ee; }
     footer {
       margin-top: 2.5rem; text-align: center; color: var(--text-muted);
       font-size: 0.8rem;
     }
-    footer a { color: var(--purple-light); }
+    footer a { color: var(--accent-light); }
     @media (max-width: 600px) {
       .card-grid { grid-template-columns: 1fr; }
       .filter-row { flex-direction: column; }
@@ -273,10 +262,7 @@ defmodule LatestElixir.Html do
 
   defp js do
     ~S"""
-    // Sort state: array of {col, dir} for multi-key sorting
-    // Default: elixir desc, erlang desc, os asc, os_version desc, slim asc
     let sortKeys = [
-      {col: 'elixir', dir: 'desc'},
       {col: 'erlang', dir: 'desc'},
       {col: 'os', dir: 'asc'},
       {col: 'os_version', dir: 'desc'},
@@ -296,7 +282,7 @@ defmodule LatestElixir.Html do
       return 0;
     }
 
-    const versionCols = new Set(['elixir', 'erlang', 'os_version']);
+    const versionCols = new Set(['erlang', 'os_version']);
 
     function cmpField(a, b, col) {
       const va = a[col], vb = b[col];
@@ -333,10 +319,8 @@ defmodule LatestElixir.Html do
     function handleSort(col) {
       const existing = sortKeys.findIndex(k => k.col === col);
       if (existing === 0) {
-        // Toggle direction of primary sort
         sortKeys[0].dir = sortKeys[0].dir === 'asc' ? 'desc' : 'asc';
       } else {
-        // Move/add this column to primary position
         if (existing > 0) sortKeys.splice(existing, 1);
         sortKeys.unshift({col, dir: 'desc'});
       }
@@ -345,13 +329,11 @@ defmodule LatestElixir.Html do
     }
 
     function applyFilters() {
-      const elixir = document.getElementById('filter-elixir').value;
       const erlang = document.getElementById('filter-erlang').value;
       const os = document.getElementById('filter-os').value;
       const slim = document.getElementById('filter-slim').value;
 
       let filtered = ALL_TAGS.filter(t => {
-        if (elixir && t.elixir !== elixir) return false;
         if (erlang && t.erlang !== erlang) return false;
         if (os && t.os !== os) return false;
         if (slim !== '' && String(t.slim) !== slim) return false;
@@ -364,7 +346,6 @@ defmodule LatestElixir.Html do
       tbody.innerHTML = filtered.slice(0, 500).map(t =>
         `<tr>
           <td>${t.tag}</td>
-          <td>${t.elixir}</td>
           <td>${t.erlang}</td>
           <td>${t.os}</td>
           <td>${t.os_version}</td>
@@ -380,7 +361,7 @@ defmodule LatestElixir.Html do
 
     function copyTag(el) {
       const text = el.querySelector('code').textContent;
-      navigator.clipboard.writeText('hexpm/elixir:' + text).then(() => {
+      navigator.clipboard.writeText('hexpm/erlang:' + text).then(() => {
         el.classList.add('copied');
         setTimeout(() => el.classList.remove('copied'), 1500);
       });
