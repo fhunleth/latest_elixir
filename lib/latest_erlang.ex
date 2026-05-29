@@ -16,40 +16,39 @@ defmodule LatestErlang do
   def run do
     IO.puts("Fetching Erlang tags from Docker Hub...")
     cached_tags = load_cache()
-    IO.puts("Loaded #{MapSet.size(cached_tags)} cached tags")
+    IO.puts("Loaded #{map_size(cached_tags)} cached tags")
 
     IO.puts("Fetching newest tags first...")
     newest_tags = fetch_tags(cached_tags, "last_updated")
-    merged = MapSet.union(cached_tags, MapSet.new(newest_tags))
+    merged = Enum.into(newest_tags, cached_tags)
     IO.puts("Fetched #{length(newest_tags)} new tags")
 
     IO.puts("Backfilling per Erlang version...")
     backfill_tags = backfill_by_version(merged)
-    merged = MapSet.union(merged, MapSet.new(backfill_tags))
+    merged = Enum.into(backfill_tags, merged)
     IO.puts("Backfilled #{length(backfill_tags)} new tags")
 
-    all_tags = MapSet.to_list(merged)
-    save_cache(all_tags)
-    IO.puts("Total: #{length(all_tags)} tags")
+    save_cache(merged)
+    IO.puts("Total: #{map_size(merged)} tags")
 
-    generate_html(all_tags)
+    generate_html(merged)
   end
 
   def generate do
     cached_tags = load_cache()
 
-    if MapSet.size(cached_tags) == 0 do
+    if map_size(cached_tags) == 0 do
       IO.puts("No cached tags found. Run LatestErlang.run() first to fetch tags.")
     else
-      IO.puts("Using #{MapSet.size(cached_tags)} cached tags")
-      generate_html(MapSet.to_list(cached_tags))
+      IO.puts("Using #{map_size(cached_tags)} cached tags")
+      generate_html(cached_tags)
     end
   end
 
-  defp generate_html(all_tags) do
+  defp generate_html(tags_map) do
     parsed =
-      all_tags
-      |> Enum.map(&parse_tag/1)
+      tags_map
+      |> Enum.map(fn {name, arches} -> parse_tag(name, arches) end)
       |> Enum.reject(&is_nil/1)
       |> Enum.filter(&(&1.os in ~w(alpine debian ubuntu)))
 
@@ -67,31 +66,53 @@ defmodule LatestErlang do
     IO.puts("Generated _site/erlang-tags.txt")
   end
 
+  # The cache stores one tag per line as "name<TAB>arch1,arch2". Older caches
+  # written before architectures were captured have no tab; those tags load
+  # with an empty architecture list and get refreshed as they're re-fetched.
   defp load_cache do
     case File.read(@cache_path) do
       {:ok, contents} ->
         contents
         |> String.split("\n", trim: true)
-        |> MapSet.new()
+        |> Map.new(&parse_cache_line/1)
 
       {:error, _} ->
-        MapSet.new()
+        %{}
     end
   end
 
-  defp save_cache(tags) do
+  defp parse_cache_line(line) do
+    case String.split(line, "\t", parts: 2) do
+      [name, arches] -> {name, String.split(arches, ",", trim: true)}
+      [name] -> {name, []}
+    end
+  end
+
+  defp save_cache(tags_map) do
     File.mkdir_p!(Path.dirname(@cache_path))
-    File.write!(@cache_path, Enum.join(Enum.sort(tags), "\n"))
+
+    contents =
+      tags_map
+      |> Enum.sort_by(fn {name, _arches} -> name end)
+      |> Enum.map_join("\n", fn {name, arches} -> "#{name}\t#{Enum.join(arches, ",")}" end)
+
+    File.write!(@cache_path, contents)
   end
 
   defp fetch_tags(cached_tags, ordering) do
-    fetch_page("#{@docker_hub_url}?page_size=#{@page_size}&ordering=#{ordering}", [], 1, cached_tags, @max_pages)
+    fetch_page(
+      "#{@docker_hub_url}?page_size=#{@page_size}&ordering=#{ordering}",
+      [],
+      1,
+      cached_tags,
+      @max_pages
+    )
   end
 
   defp backfill_by_version(cached_tags) do
     known_versions =
       cached_tags
-      |> MapSet.to_list()
+      |> Map.keys()
       |> Enum.map(&parse_tag/1)
       |> Enum.reject(&is_nil/1)
       |> Enum.map(& &1.erlang)
@@ -108,13 +129,15 @@ defmodule LatestErlang do
         IO.puts("  #{version}: #{length(new_tags)} new tags")
       end
 
-      {acc ++ new_tags, MapSet.union(cached, MapSet.new(new_tags))}
+      {acc ++ new_tags, Enum.into(new_tags, cached)}
     end)
     |> elem(0)
   end
 
   defp fetch_by_name(name_prefix, cached_tags) do
-    url = "#{@docker_hub_url}?page_size=#{@page_size}&ordering=name&name=#{URI.encode(name_prefix)}"
+    url =
+      "#{@docker_hub_url}?page_size=#{@page_size}&ordering=name&name=#{URI.encode(name_prefix)}"
+
     fetch_page(url, [], 1, cached_tags, @max_pages_per_version)
   end
 
@@ -128,12 +151,15 @@ defmodule LatestErlang do
         results = body["results"] || []
         tag_names = Enum.map(results, & &1["name"])
 
-        all_cached? = tag_names != [] and Enum.all?(tag_names, &MapSet.member?(cached_tags, &1))
+        all_cached? = tag_names != [] and Enum.all?(tag_names, &Map.has_key?(cached_tags, &1))
 
         if all_cached? do
           acc
         else
-          new_on_page = Enum.reject(tag_names, &MapSet.member?(cached_tags, &1))
+          new_on_page =
+            results
+            |> Enum.reject(&Map.has_key?(cached_tags, &1["name"]))
+            |> Enum.map(&{&1["name"], extract_arches(&1)})
 
           case body["next"] do
             nil -> acc ++ new_on_page
@@ -151,7 +177,18 @@ defmodule LatestErlang do
     end
   end
 
-  def parse_tag(tag_name) do
+  # Architectures Docker Hub reports for a tag. The images list can include
+  # attestation manifests with architecture "unknown"; those are dropped.
+  defp extract_arches(result) do
+    (result["images"] || [])
+    |> Enum.filter(&(&1["status"] == "active"))
+    |> Enum.map(& &1["architecture"])
+    |> Enum.reject(&(&1 in [nil, "", "unknown"]))
+    |> Enum.uniq()
+    |> Enum.sort()
+  end
+
+  def parse_tag(tag_name, arches \\ []) do
     case Regex.run(@tag_regex, tag_name) do
       [_full, erlang_v, os, os_version, slim] ->
         %{
@@ -161,7 +198,8 @@ defmodule LatestErlang do
           os_version: os_version,
           slim: slim == "-slim",
           erlang_major: erlang_major(erlang_v),
-          rc: String.contains?(erlang_v, "-rc")
+          rc: String.contains?(erlang_v, "-rc"),
+          arches: arches
         }
 
       [_full, erlang_v, os, os_version] ->
@@ -172,7 +210,8 @@ defmodule LatestErlang do
           os_version: os_version,
           slim: false,
           erlang_major: erlang_major(erlang_v),
-          rc: String.contains?(erlang_v, "-rc")
+          rc: String.contains?(erlang_v, "-rc"),
+          arches: arches
         }
 
       _ ->
@@ -191,7 +230,9 @@ defmodule LatestErlang do
   Compute the prominent tags to display in the hero section.
   Returns the top 3 Erlang major versions. For each major version and OS,
   independently picks the latest Erlang version, then the latest OS version
-  (non-slim).
+  (non-slim). Only multi-arch (amd64 + arm64) builds are considered so the
+  highlighted tags run everywhere; falls back to all tags if none are
+  multi-arch.
   """
   def compute_prominent(parsed) do
     stable = Enum.reject(parsed, & &1.rc)
@@ -212,15 +253,18 @@ defmodule LatestErlang do
         major_tags
         |> Enum.group_by(& &1.os)
         |> Enum.map(fn {os, tags} ->
+          multi_arch = Enum.filter(tags, &multi_arch?/1)
+          candidates = if multi_arch == [], do: tags, else: multi_arch
+
           best_erlang =
-            tags
+            candidates
             |> Enum.map(& &1.erlang)
             |> Enum.uniq()
             |> Enum.sort(&version_gte?/2)
             |> List.first()
 
           best =
-            tags
+            candidates
             |> Enum.filter(&(&1.erlang == best_erlang))
             |> Enum.sort_by(& &1.os_version, :desc)
             |> List.first()
@@ -235,6 +279,9 @@ defmodule LatestErlang do
       }
     end
   end
+
+  # A tag is multi-arch when it has both amd64 and arm64 builds.
+  defp multi_arch?(t), do: "amd64" in t.arches and "arm64" in t.arches
 
   @doc """
   Compare two version strings. Returns true if a >= b.

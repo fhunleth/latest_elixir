@@ -42,6 +42,12 @@ defmodule LatestElixir.Html do
       <section class="hero">
         <h2>Latest Releases</h2>
         #{prominent_html(prominent)}
+        <p class="note">
+          These highlight the latest stable builds available for both
+          <code>amd64</code> and <code>arm64</code>. Release candidates and
+          images built for only one architecture aren't shown here &mdash;
+          find them by searching all tags below.
+        </p>
       </section>
 
       <section class="filters">
@@ -76,6 +82,15 @@ defmodule LatestElixir.Html do
               <option value="true">Slim</option>
             </select>
           </label>
+          <label>
+            Architecture
+            <select id="filter-arch">
+              <option value="">All</option>
+              <option value="multi">amd64 + arm64</option>
+              <option value="amd64-only">amd64 only</option>
+              <option value="arm64-only">arm64 only</option>
+            </select>
+          </label>
         </div>
         <p class="result-count">Showing <span id="count">0</span> tags</p>
       </section>
@@ -89,6 +104,7 @@ defmodule LatestElixir.Html do
             <th class="sortable" data-col="os">OS <span class="sort-arrow"></span></th>
             <th class="sortable" data-col="os_version">OS Version <span class="sort-arrow"></span></th>
             <th class="sortable" data-col="slim">Slim <span class="sort-arrow"></span></th>
+            <th class="sortable" data-col="arches">Arch <span class="sort-arrow"></span></th>
           </tr>
         </thead>
         <tbody id="tag-body"></tbody>
@@ -118,7 +134,8 @@ defmodule LatestElixir.Html do
       erlang: t.erlang,
       os: t.os,
       os_version: t.os_version,
-      slim: t.slim
+      slim: t.slim,
+      arches: t.arches
     }
   end
 
@@ -227,6 +244,15 @@ defmodule LatestElixir.Html do
     .tag-chip:hover { background: #ede8f5; }
     .tag-chip.copied { background: #d4edda; border-color: #a3d9b1; }
     .copy-hint { color: var(--text-muted); font-size: 0.8rem; margin-top: 0.5rem; }
+    .note {
+      margin-top: 1rem; padding: 0.75rem 1rem; font-size: 0.85rem;
+      color: var(--text-muted); background: rgba(78,42,142,0.05);
+      border-left: 3px solid var(--purple-light); border-radius: 0 4px 4px 0;
+    }
+    .note code {
+      background: var(--bg); padding: 0.05rem 0.3rem; border-radius: 3px;
+      font-size: 0.8rem;
+    }
     .filters { margin-bottom: 1.5rem; }
     .filter-row {
       display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 0.75rem;
@@ -301,8 +327,21 @@ defmodule LatestElixir.Html do
     function cmpField(a, b, col) {
       const va = a[col], vb = b[col];
       if (col === 'slim') return (va === vb) ? 0 : va ? 1 : -1;
+      if (col === 'arches') {
+        const sa = (va || []).join(','), sb = (vb || []).join(',');
+        return sa < sb ? -1 : sa > sb ? 1 : 0;
+      }
       if (versionCols.has(col)) return cmpVersion(va, vb);
       return va < vb ? -1 : va > vb ? 1 : 0;
+    }
+
+    function matchArch(arches, filter) {
+      arches = arches || [];
+      const amd64 = arches.includes('amd64'), arm64 = arches.includes('arm64');
+      if (filter === 'multi') return amd64 && arm64;
+      if (filter === 'amd64-only') return amd64 && !arm64;
+      if (filter === 'arm64-only') return arm64 && !amd64;
+      return true;
     }
 
     function sortData(data) {
@@ -349,12 +388,14 @@ defmodule LatestElixir.Html do
       const erlang = document.getElementById('filter-erlang').value;
       const os = document.getElementById('filter-os').value;
       const slim = document.getElementById('filter-slim').value;
+      const arch = document.getElementById('filter-arch').value;
 
       let filtered = ALL_TAGS.filter(t => {
         if (elixir && t.elixir !== elixir) return false;
         if (erlang && t.erlang !== erlang) return false;
         if (os && t.os !== os) return false;
         if (slim !== '' && String(t.slim) !== slim) return false;
+        if (arch && !matchArch(t.arches, arch)) return false;
         return true;
       });
 
@@ -369,6 +410,7 @@ defmodule LatestElixir.Html do
           <td>${t.os}</td>
           <td>${t.os_version}</td>
           <td>${t.slim ? 'Yes' : ''}</td>
+          <td>${(t.arches || []).join(', ')}</td>
         </tr>`
       ).join('');
 

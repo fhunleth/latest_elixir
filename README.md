@@ -17,7 +17,7 @@ mix run -e "LatestElixir.run()"
 open _site/index.html
 ```
 
-This fetches ~5,000 recent tags from Docker Hub and writes `_site/index.html`.
+This fetches tags from Docker Hub and writes `_site/index.html`.
 
 ## Automatic updates
 
