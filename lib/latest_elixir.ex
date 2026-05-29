@@ -4,6 +4,8 @@ defmodule LatestElixir do
   showing the most useful tags prominently.
   """
 
+  import Bitwise
+
   @docker_hub_url "https://hub.docker.com/v2/repositories/hexpm/elixir/tags"
   @page_size 100
   @max_pages 200
@@ -23,12 +25,12 @@ defmodule LatestElixir do
     IO.puts("Fetching newest tags first...")
     newest_tags = fetch_tags(cached_tags, "last_updated")
     merged = Enum.into(newest_tags, cached_tags)
-    IO.puts("Fetched #{length(newest_tags)} new tags")
+    IO.puts("Fetched #{length(newest_tags)} new/updated tags")
 
     IO.puts("Backfilling per Elixir version...")
     backfill_tags = backfill_by_version(merged)
     merged = Enum.into(backfill_tags, merged)
-    IO.puts("Backfilled #{length(backfill_tags)} new tags")
+    IO.puts("Backfilled #{length(backfill_tags)} new/updated tags")
 
     save_cache(merged)
     IO.puts("Total: #{map_size(merged)} tags")
@@ -63,9 +65,40 @@ defmodule LatestElixir do
     File.write!("_site/index.html", html)
     IO.puts("Generated _site/index.html")
 
+    # Tag data is served as a separate compact file the page fetches on load,
+    # rather than inlined into the HTML, so the initial page stays tiny.
+    write_data_file("_site/elixir-data.txt", parsed)
+    IO.puts("Generated _site/elixir-data.txt")
+
     tags_txt = parsed |> Enum.map(& &1.tag) |> Enum.sort() |> Enum.join("\n")
     File.write!("_site/elixir-tags.txt", tags_txt <> "\n")
     IO.puts("Generated _site/elixir-tags.txt")
+  end
+
+  # Compact data file consumed by the page's JavaScript. Line 1 is the
+  # architecture dictionary (comma-separated, defines bit positions); each
+  # remaining line is "tag<TAB>bitmask". The page reconstructs the Elixir,
+  # Erlang, OS, etc. columns from the tag string, so only the tag and its
+  # architecture bits need to be shipped.
+  defp write_data_file(path, parsed) do
+    arch_dict =
+      parsed
+      |> Enum.flat_map(& &1.arches)
+      |> Enum.uniq()
+      |> Enum.sort()
+
+    arch_index = arch_dict |> Enum.with_index() |> Map.new()
+
+    rows =
+      parsed
+      |> Enum.sort_by(& &1.tag)
+      |> Enum.map(fn t -> "#{t.tag}\t#{arch_bitmask(t.arches, arch_index)}" end)
+
+    File.write!(path, Enum.join([Enum.join(arch_dict, ",") | rows], "\n") <> "\n")
+  end
+
+  defp arch_bitmask(arches, arch_index) do
+    Enum.reduce(arches, 0, fn arch, acc -> acc ||| 1 <<< Map.fetch!(arch_index, arch) end)
   end
 
   # The cache stores one tag per line as "name<TAB>arch1,arch2". Older caches
@@ -132,7 +165,7 @@ defmodule LatestElixir do
       new_tags = fetch_by_name(prefix, cached)
 
       if new_tags != [] do
-        IO.puts("  #{version}: #{length(new_tags)} new tags")
+        IO.puts("  #{version}: #{length(new_tags)} new/updated tags")
       end
 
       {acc ++ new_tags, Enum.into(new_tags, cached)}
@@ -155,22 +188,25 @@ defmodule LatestElixir do
     case Req.get(url, receive_timeout: 30_000) do
       {:ok, %{status: 200, body: body}} ->
         results = body["results"] || []
-        tag_names = Enum.map(results, & &1["name"])
 
-        # If every tag on this page is already cached, we've caught up
-        all_cached? = tag_names != [] and Enum.all?(tag_names, &Map.has_key?(cached_tags, &1))
+        # Tags that are new, or whose architecture set has changed since we
+        # cached them. The latter matters because a tag is often published for
+        # one architecture first and gains a second one after a later scan;
+        # that re-push bumps the tag's last_updated, so the last_updated
+        # ordering re-surfaces it here and we refresh its architectures.
+        changed =
+          results
+          |> Enum.map(&{&1["name"], extract_arches(&1)})
+          |> Enum.reject(fn {name, arches} -> Map.get(cached_tags, name) == arches end)
 
-        if all_cached? do
+        # Caught up once a full page shows no new tags and no architecture
+        # changes, so steady-state runs still stop early.
+        if results != [] and changed == [] do
           acc
         else
-          new_on_page =
-            results
-            |> Enum.reject(&Map.has_key?(cached_tags, &1["name"]))
-            |> Enum.map(&{&1["name"], extract_arches(&1)})
-
           case body["next"] do
-            nil -> acc ++ new_on_page
-            next_url -> fetch_page(next_url, acc ++ new_on_page, page + 1, cached_tags, max_pages)
+            nil -> acc ++ changed
+            next_url -> fetch_page(next_url, acc ++ changed, page + 1, cached_tags, max_pages)
           end
         end
 

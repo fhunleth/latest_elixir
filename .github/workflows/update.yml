@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -28,18 +28,24 @@ jobs:
       - name: Install dependencies
         run: mix deps.get
 
-      - name: Restore tag cache
-        uses: actions/cache@v5
-        with:
-          path: _cache
-          key: docker-tags-${{ github.run_id }}
-          restore-keys: docker-tags-
+      # The tag cache (_cache/*.txt) is committed to the repo, so checkout
+      # restores it. Tags only ever get added, so this stays monotonic and
+      # survives across runs without relying on the ephemeral Actions cache.
+      - name: Fetch tags and build site
+        run: mix site
 
-      - name: Generate Elixir tags
-        run: mix run -e "LatestElixir.run()"
-
-      - name: Generate Erlang tags
-        run: mix run -e "LatestErlang.run()"
+      - name: Commit updated tag cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _cache
+          if git diff --staged --quiet; then
+            echo "No cache changes to commit"
+          else
+            git commit -m "Update tag cache"
+            git pull --rebase --autostash
+            git push
+          fi
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5

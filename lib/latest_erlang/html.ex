@@ -5,7 +5,6 @@ defmodule LatestErlang.Html do
   """
 
   def generate(parsed, prominent) do
-    json_data = Jason.encode!(Enum.map(parsed, &tag_to_map/1))
     tag_count = length(parsed)
     timestamp = DateTime.utc_now() |> Calendar.strftime("%Y-%m-%d %H:%M UTC")
 
@@ -90,7 +89,7 @@ defmodule LatestErlang.Html do
       <table id="tag-table">
         <thead>
           <tr>
-            <th class="sortable" data-col="tag">Tag</th>
+            <th class="sortable" data-col="tag">Tag <span class="sort-arrow"></span></th>
             <th class="sortable sort-desc" data-col="erlang">Erlang <span class="sort-arrow">&#9660;</span></th>
             <th class="sortable" data-col="os">OS <span class="sort-arrow"></span></th>
             <th class="sortable" data-col="os_version">OS Version <span class="sort-arrow"></span></th>
@@ -110,23 +109,11 @@ defmodule LatestErlang.Html do
     </div>
 
     <script>
-    const ALL_TAGS = #{json_data};
     #{js()}
     </script>
     </body>
     </html>
     """
-  end
-
-  defp tag_to_map(t) do
-    %{
-      tag: t.tag,
-      erlang: t.erlang,
-      os: t.os,
-      os_version: t.os_version,
-      slim: t.slim,
-      arches: t.arches
-    }
   end
 
   defp prominent_html(prominent) do
@@ -288,6 +275,36 @@ defmodule LatestErlang.Html do
 
   defp js do
     ~S"""
+    // Tag data is fetched from a separate compact file rather than inlined,
+    // keeping this page small. Each data line is "tag<TAB>bitmask"; the Erlang,
+    // OS, OS-version and slim columns are reconstructed from the tag.
+    let ALL_TAGS = [];
+    const TAG_RE = /^(\d+\.\d+(?:\.\d+)*(?:-rc\d+)?)-(\w+)-(.+?)(-slim)?$/;
+
+    async function loadData() {
+      const resp = await fetch('erlang-data.txt');
+      const text = await resp.text();
+      const lines = text.split('\n');
+      const archDict = lines[0] ? lines[0].split(',').filter(Boolean) : [];
+      const tags = [];
+      for (let i = 1; i < lines.length; i++) {
+        const line = lines[i];
+        if (!line) continue;
+        const tab = line.indexOf('\t');
+        const name = tab === -1 ? line : line.slice(0, tab);
+        const bits = tab === -1 ? 0 : (parseInt(line.slice(tab + 1), 10) || 0);
+        const m = TAG_RE.exec(name);
+        if (!m) continue;
+        const arches = [];
+        for (let b = 0; b < archDict.length; b++) if (bits & (1 << b)) arches.push(archDict[b]);
+        tags.push({
+          tag: name, erlang: m[1], os: m[2],
+          os_version: m[3], slim: !!m[4], arches: arches
+        });
+      }
+      ALL_TAGS = tags;
+    }
+
     let sortKeys = [
       {col: 'erlang', dir: 'desc'},
       {col: 'os', dir: 'asc'},
@@ -343,7 +360,8 @@ defmodule LatestErlang.Html do
     function updateSortUI() {
       document.querySelectorAll('th.sortable').forEach(th => {
         th.classList.remove('sort-asc', 'sort-desc');
-        th.querySelector('.sort-arrow').textContent = '';
+        const arrow = th.querySelector('.sort-arrow');
+        if (arrow) arrow.textContent = '';
       });
       if (sortKeys.length > 0) {
         const primary = sortKeys[0];
@@ -418,7 +436,12 @@ defmodule LatestErlang.Html do
     });
 
     updateSortUI();
-    applyFilters();
+    document.getElementById('count').textContent = 'loading…';
+    loadData()
+      .then(applyFilters)
+      .catch(() => {
+        document.getElementById('count').textContent = 'failed to load tag data';
+      });
     """
   end
 end
