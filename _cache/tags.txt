@@ -179043,7 +179043,7 @@
 1.17.3-erlang-27.3-debian-bookworm-20260518-slim	amd64,arm64
 1.17.3-erlang-27.3-debian-bullseye-20250224	
 1.17.3-erlang-27.3-debian-bullseye-20250224-slim	amd64,arm64
-1.17.3-erlang-27.3-debian-bullseye-20250317	
+1.17.3-erlang-27.3-debian-bullseye-20250317	amd64
 1.17.3-erlang-27.3-debian-bullseye-20250317-slim	amd64,arm64
 1.17.3-erlang-27.3-debian-bullseye-20250929	
 1.17.3-erlang-27.3-debian-bullseye-20250929-slim	
