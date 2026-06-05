@@ -16865,7 +16865,7 @@
 25.0-rc2-debian-bullseye-20251020	amd64,arm64
 25.0-rc2-debian-bullseye-20251020-slim	amd64,arm64
 25.0-rc2-debian-bullseye-20251103	amd64,arm64
-25.0-rc2-debian-bullseye-20251103-slim	amd64,arm64
+25.0-rc2-debian-bullseye-20251103-slim	amd64
 25.0-rc2-debian-bullseye-20251117	amd64,arm64
 25.0-rc2-debian-bullseye-20251117-slim	amd64,arm64
 25.0-rc2-debian-bullseye-20251208	amd64,arm64
