@@ -138898,7 +138898,7 @@
 1.15.7-erlang-26.2-debian-bookworm-20260518	amd64,arm64
 1.15.7-erlang-26.2-debian-bookworm-20260518-slim	amd64,arm64
 1.15.7-erlang-26.2-debian-bullseye-20231009	
-1.15.7-erlang-26.2-debian-bullseye-20231009-slim	amd64,arm64
+1.15.7-erlang-26.2-debian-bullseye-20231009-slim	amd64
 1.15.7-erlang-26.2-debian-bullseye-20250929	
 1.15.7-erlang-26.2-debian-bullseye-20250929-slim	
 1.15.7-erlang-26.2-debian-bullseye-20251020	
