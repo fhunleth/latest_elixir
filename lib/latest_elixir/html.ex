@@ -38,6 +38,10 @@ defmodule LatestElixir.Html do
         </p>
       </header>
 
+      <div class="banner">
+        Important: The most up to date list of tags is now at <a href="https://bob.hex.pm/docker">https://bob.hex.pm/docker</a>.
+      </div>
+
       <section class="hero">
         <h2>Latest Releases</h2>
         #{prominent_html(prominent)}
@@ -202,6 +206,12 @@ defmodule LatestElixir.Html do
     .subtitle { color: var(--text-muted); margin-top: 0.5rem; }
     .subtitle a { color: var(--purple-light); }
     h2 { color: var(--purple); margin-bottom: 1rem; font-size: 1.3rem; }
+    .banner {
+      margin-bottom: 2rem; padding: 0.9rem 1.25rem; font-size: 1rem;
+      background: #fff8e1; border: 1px solid #f0d98c;
+      border-left: 4px solid #e6b800; border-radius: 6px;
+    }
+    .banner a { color: var(--purple); font-weight: 600; }
     .hero { margin-bottom: 2.5rem; }
     .card-grid {
       display: grid;

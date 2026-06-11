@@ -1,5 +1,7 @@
 # latest_elixir
 
+> The most up to date list of tags is now at <https://bob.hex.pm/docker>.
+
 A browsable listing of [hexpm/elixir](https://hub.docker.com/r/hexpm/elixir)
 Docker tags, generated as a static site and deployed to GitHub Pages nightly.
 
