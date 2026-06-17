@@ -173650,7 +173650,7 @@
 1.16.0-erlang-26.2-ubuntu-bionic-20230530	amd64,arm64
 1.16.0-erlang-26.2-ubuntu-focal-20231003	
 1.16.0-erlang-26.2-ubuntu-focal-20250404	
-1.16.0-erlang-26.2-ubuntu-jammy-20231004	amd64,arm64
+1.16.0-erlang-26.2-ubuntu-jammy-20231004	
 1.16.0-erlang-26.2-ubuntu-jammy-20251001	
 1.16.0-erlang-26.2-ubuntu-jammy-20251013	amd64,arm64
 1.16.0-erlang-26.2-ubuntu-jammy-20260109	amd64,arm64
