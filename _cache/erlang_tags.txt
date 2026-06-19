@@ -24306,6 +24306,7 @@
 26.0.2-ubuntu-noble-20260509.1	amd64,arm64
 26.0.2-ubuntu-resolute-20260413	amd64,arm64
 26.0.2-ubuntu-resolute-20260421	amd64,arm64
+26.0.2-ubuntu-resolute-20260610	amd64,arm64
 26.1-alpine-3.16.6	amd64,arm64
 26.1-alpine-3.17.4	amd64,arm64
 26.1-alpine-3.18.2	amd64,arm64
@@ -24924,6 +24925,7 @@
 26.1.2-ubuntu-noble-20260509.1	amd64,arm64
 26.1.2-ubuntu-resolute-20260413	amd64,arm64
 26.1.2-ubuntu-resolute-20260421	amd64,arm64
+26.1.2-ubuntu-resolute-20260610	amd64,arm64
 26.2-alpine-3.16.7	amd64,arm64
 26.2-alpine-3.17.5	amd64,arm64
 26.2-alpine-3.18.4	amd64,arm64
@@ -27268,6 +27270,7 @@
 26.2.5.21-ubuntu-noble-20260410	amd64,arm64
 26.2.5.21-ubuntu-noble-20260509.1	amd64,arm64
 26.2.5.21-ubuntu-resolute-20260421	amd64,arm64
+26.2.5.21-ubuntu-resolute-20260610	amd64,arm64
 26.2.5.3-alpine-3.17.9	amd64,arm64
 26.2.5.3-alpine-3.18.8	amd64,arm64
 26.2.5.3-alpine-3.18.9	amd64,arm64
@@ -29078,6 +29081,7 @@
 27.0.1-ubuntu-noble-20260509.1	amd64,arm64
 27.0.1-ubuntu-resolute-20260413	amd64,arm64
 27.0.1-ubuntu-resolute-20260421	amd64,arm64
+27.0.1-ubuntu-resolute-20260610	amd64,arm64
 27.1-alpine-3.17.9	amd64,arm64
 27.1-alpine-3.18.9	amd64,arm64
 27.1-alpine-3.19.3	amd64,arm64
@@ -29723,6 +29727,7 @@
 27.1.3-ubuntu-noble-20260509.1	amd64,arm64
 27.1.3-ubuntu-resolute-20260413	amd64,arm64
 27.1.3-ubuntu-resolute-20260421	amd64,arm64
+27.1.3-ubuntu-resolute-20260610	amd64,arm64
 27.2-alpine-3.17.9	amd64,arm64
 27.2-alpine-3.18.9	amd64,arm64
 27.2-alpine-3.19.4	amd64,arm64
@@ -30476,6 +30481,7 @@
 27.2.4-ubuntu-noble-20260509.1	amd64,arm64
 27.2.4-ubuntu-resolute-20260413	amd64,arm64
 27.2.4-ubuntu-resolute-20260421	amd64,arm64
+27.2.4-ubuntu-resolute-20260610	amd64,arm64
 27.3-alpine-3.18.9	amd64,arm64
 27.3-alpine-3.19.7	amd64,arm64
 27.3-alpine-3.19.9	amd64,arm64
@@ -31435,6 +31441,7 @@
 27.3.4.13-ubuntu-jammy-20260509	amd64,arm64
 27.3.4.13-ubuntu-noble-20260509.1	amd64,arm64
 27.3.4.13-ubuntu-resolute-20260421	amd64,arm64
+27.3.4.13-ubuntu-resolute-20260610	amd64,arm64
 27.3.4.2-alpine-3.19.8	amd64,arm64
 27.3.4.2-alpine-3.19.9	amd64,arm64
 27.3.4.2-alpine-3.20.7	amd64,arm64
@@ -33502,6 +33509,7 @@
 28.0.4-ubuntu-noble-20260509.1	amd64,arm64
 28.0.4-ubuntu-resolute-20260413	amd64,arm64
 28.0.4-ubuntu-resolute-20260421	amd64,arm64
+28.0.4-ubuntu-resolute-20260610	amd64,arm64
 28.1-alpine-3.19.8	amd64,arm64
 28.1-alpine-3.19.9	amd64,arm64
 28.1-alpine-3.20.7	amd64,arm64
@@ -33755,6 +33763,7 @@
 28.1.1-ubuntu-noble-20260509.1	amd64,arm64
 28.1.1-ubuntu-resolute-20260413	amd64,arm64
 28.1.1-ubuntu-resolute-20260421	amd64,arm64
+28.1.1-ubuntu-resolute-20260610	amd64,arm64
 28.2-alpine-3.19.9	amd64,arm64
 28.2-alpine-3.20.8	amd64,arm64
 28.2-alpine-3.20.9	amd64,arm64
@@ -33855,6 +33864,7 @@
 28.2-ubuntu-noble-20260509.1	amd64,arm64
 28.2-ubuntu-resolute-20260413	amd64,arm64
 28.2-ubuntu-resolute-20260421	amd64,arm64
+28.2-ubuntu-resolute-20260610	amd64,arm64
 28.3-alpine-3.19.9	amd64,arm64
 28.3-alpine-3.20.8	amd64,arm64
 28.3-alpine-3.20.9	amd64,arm64
@@ -34157,6 +34167,7 @@
 28.3.3-ubuntu-noble-20260509.1	amd64,arm64
 28.3.3-ubuntu-resolute-20260413	amd64,arm64
 28.3.3-ubuntu-resolute-20260421	amd64,arm64
+28.3.3-ubuntu-resolute-20260610	amd64,arm64
 28.4-alpine-3.20.9	amd64,arm64
 28.4-alpine-3.21.6	amd64,arm64
 28.4-alpine-3.21.7	amd64,arm64
@@ -34366,6 +34377,7 @@
 28.4.3-ubuntu-noble-20260509.1	amd64,arm64
 28.4.3-ubuntu-resolute-20260413	amd64,arm64
 28.4.3-ubuntu-resolute-20260421	amd64,arm64
+28.4.3-ubuntu-resolute-20260610	amd64,arm64
 28.5-alpine-3.20.9	amd64,arm64
 28.5-alpine-3.21.7	amd64,arm64
 28.5-alpine-3.22.4	amd64,arm64
@@ -34439,6 +34451,7 @@
 28.5.0.2-ubuntu-jammy-20260509	amd64,arm64
 28.5.0.2-ubuntu-noble-20260509.1	amd64,arm64
 28.5.0.2-ubuntu-resolute-20260421	amd64,arm64
+28.5.0.2-ubuntu-resolute-20260610	amd64,arm64
 29.0-alpine-3.20.9	amd64,arm64
 29.0-alpine-3.21.7	amd64,arm64
 29.0-alpine-3.22.4	amd64,arm64
@@ -34672,3 +34685,4 @@
 29.0.2-ubuntu-jammy-20260509	amd64,arm64
 29.0.2-ubuntu-noble-20260509.1	amd64,arm64
 29.0.2-ubuntu-resolute-20260421	amd64,arm64
+29.0.2-ubuntu-resolute-20260610	amd64,arm64
