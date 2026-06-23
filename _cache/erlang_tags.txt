@@ -13840,6 +13840,7 @@
 24.2.2-alpine-3.22.2	
 24.2.2-alpine-3.22.3	
 24.2.2-alpine-3.22.4	
+24.2.2-alpine-3.22.5	amd64,arm64
 24.2.2-debian-bookworm-20230522	
 24.2.2-debian-bookworm-20230522-slim	
 24.2.2-debian-bookworm-20230612	
@@ -15902,6 +15903,7 @@
 24.3.4.17-alpine-3.22.2	
 24.3.4.17-alpine-3.22.3	
 24.3.4.17-alpine-3.22.4	
+24.3.4.17-alpine-3.22.5	amd64,arm64
 24.3.4.17-debian-bookworm-20240311	
 24.3.4.17-debian-bookworm-20240311-slim	
 24.3.4.17-debian-bookworm-20240408	
@@ -18213,6 +18215,7 @@
 25.0.4-alpine-3.22.2	
 25.0.4-alpine-3.22.3	
 25.0.4-alpine-3.22.4	
+25.0.4-alpine-3.22.5	amd64,arm64
 25.0.4-debian-bookworm-20230522	
 25.0.4-debian-bookworm-20230522-slim	
 25.0.4-debian-bookworm-20230612	
@@ -18965,6 +18968,7 @@
 25.1.2.1-alpine-3.22.2	
 25.1.2.1-alpine-3.22.3	
 25.1.2.1-alpine-3.22.4	
+25.1.2.1-alpine-3.22.5	amd64,arm64
 25.1.2.1-debian-bookworm-20230522	
 25.1.2.1-debian-bookworm-20230522-slim	
 25.1.2.1-debian-bookworm-20230612	
@@ -19714,6 +19718,7 @@
 25.2.3-alpine-3.22.2	
 25.2.3-alpine-3.22.3	
 25.2.3-alpine-3.22.4	
+25.2.3-alpine-3.22.5	amd64,arm64
 25.2.3-debian-bookworm-20230522	
 25.2.3-debian-bookworm-20230522-slim	
 25.2.3-debian-bookworm-20230612	
@@ -20580,8 +20585,8 @@
 25.3.2.10-debian-bookworm-20260421-slim	
 25.3.2.10-debian-bookworm-20260505	
 25.3.2.10-debian-bookworm-20260505-slim	
-25.3.2.10-debian-bookworm-20260518	amd64,arm64
-25.3.2.10-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.10-debian-bookworm-20260518	arm64
+25.3.2.10-debian-bookworm-20260518-slim	arm64
 25.3.2.10-debian-bookworm-20260610	amd64,arm64
 25.3.2.10-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.10-debian-bullseye-20240130	
@@ -20616,8 +20621,8 @@
 25.3.2.10-debian-bullseye-20260421-slim	
 25.3.2.10-debian-bullseye-20260505	
 25.3.2.10-debian-bullseye-20260505-slim	
-25.3.2.10-debian-bullseye-20260518	amd64,arm64
-25.3.2.10-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.10-debian-bullseye-20260518	arm64
+25.3.2.10-debian-bullseye-20260518-slim	arm64
 25.3.2.10-debian-bullseye-20260610	amd64,arm64
 25.3.2.10-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.10-debian-buster-20240130	
@@ -20652,7 +20657,7 @@
 25.3.2.10-debian-trixie-20260421-slim	
 25.3.2.10-debian-trixie-20260505	
 25.3.2.10-debian-trixie-20260505-slim	
-25.3.2.10-debian-trixie-20260518	amd64,arm64
+25.3.2.10-debian-trixie-20260518	arm64
 25.3.2.10-debian-trixie-20260518-slim	amd64,arm64
 25.3.2.10-debian-trixie-20260610	amd64,arm64
 25.3.2.10-debian-trixie-20260610-slim	amd64,arm64
@@ -20719,8 +20724,8 @@
 25.3.2.11-debian-bookworm-20260421-slim	
 25.3.2.11-debian-bookworm-20260505	
 25.3.2.11-debian-bookworm-20260505-slim	
-25.3.2.11-debian-bookworm-20260518	amd64,arm64
-25.3.2.11-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.11-debian-bookworm-20260518	arm64
+25.3.2.11-debian-bookworm-20260518-slim	arm64
 25.3.2.11-debian-bookworm-20260610	amd64,arm64
 25.3.2.11-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.11-debian-bullseye-20240408	
@@ -20753,8 +20758,8 @@
 25.3.2.11-debian-bullseye-20260421-slim	
 25.3.2.11-debian-bullseye-20260505	
 25.3.2.11-debian-bullseye-20260505-slim	
-25.3.2.11-debian-bullseye-20260518	amd64,arm64
-25.3.2.11-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.11-debian-bullseye-20260518	arm64
+25.3.2.11-debian-bullseye-20260518-slim	arm64
 25.3.2.11-debian-bullseye-20260610	amd64,arm64
 25.3.2.11-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.11-debian-buster-20240408	
@@ -20787,8 +20792,8 @@
 25.3.2.11-debian-trixie-20260421-slim	
 25.3.2.11-debian-trixie-20260505	
 25.3.2.11-debian-trixie-20260505-slim	
-25.3.2.11-debian-trixie-20260518	amd64,arm64
-25.3.2.11-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.11-debian-trixie-20260518	arm64
+25.3.2.11-debian-trixie-20260518-slim	arm64
 25.3.2.11-debian-trixie-20260610	amd64,arm64
 25.3.2.11-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.11-ubuntu-focal-20240216	
@@ -20891,8 +20896,8 @@
 25.3.2.12-debian-bullseye-20260421-slim	
 25.3.2.12-debian-bullseye-20260505	
 25.3.2.12-debian-bullseye-20260505-slim	
-25.3.2.12-debian-bullseye-20260518	amd64,arm64
-25.3.2.12-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.12-debian-bullseye-20260518	arm64
+25.3.2.12-debian-bullseye-20260518-slim	arm64
 25.3.2.12-debian-bullseye-20260610	amd64,arm64
 25.3.2.12-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.12-debian-buster-20240423	
@@ -20988,8 +20993,8 @@
 25.3.2.13-debian-bookworm-20260421-slim	
 25.3.2.13-debian-bookworm-20260505	
 25.3.2.13-debian-bookworm-20260505-slim	
-25.3.2.13-debian-bookworm-20260518	amd64,arm64
-25.3.2.13-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.13-debian-bookworm-20260518	arm64
+25.3.2.13-debian-bookworm-20260518-slim	arm64
 25.3.2.13-debian-bookworm-20260610	amd64,arm64
 25.3.2.13-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.13-debian-bullseye-20240904	
@@ -21020,8 +21025,8 @@
 25.3.2.13-debian-bullseye-20260421-slim	
 25.3.2.13-debian-bullseye-20260505	
 25.3.2.13-debian-bullseye-20260505-slim	amd64,arm64
-25.3.2.13-debian-bullseye-20260518	amd64,arm64
-25.3.2.13-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.13-debian-bullseye-20260518	arm64
+25.3.2.13-debian-bullseye-20260518-slim	arm64
 25.3.2.13-debian-bullseye-20260610	amd64,arm64
 25.3.2.13-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.13-debian-buster-20240612	
@@ -21118,8 +21123,8 @@
 25.3.2.14-debian-bookworm-20260421-slim	
 25.3.2.14-debian-bookworm-20260505	
 25.3.2.14-debian-bookworm-20260505-slim	
-25.3.2.14-debian-bookworm-20260518	amd64,arm64
-25.3.2.14-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.14-debian-bookworm-20260518	arm64
+25.3.2.14-debian-bookworm-20260518-slim	arm64
 25.3.2.14-debian-bookworm-20260610	amd64,arm64
 25.3.2.14-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.14-debian-bullseye-20240904	
@@ -21153,7 +21158,7 @@
 25.3.2.14-debian-bullseye-20260505	
 25.3.2.14-debian-bullseye-20260505-slim	
 25.3.2.14-debian-bullseye-20260518	amd64,arm64
-25.3.2.14-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.14-debian-bullseye-20260518-slim	arm64
 25.3.2.14-debian-bullseye-20260610	amd64,arm64
 25.3.2.14-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.14-debian-buster-20240612	
@@ -21184,8 +21189,8 @@
 25.3.2.14-debian-trixie-20260421-slim	
 25.3.2.14-debian-trixie-20260505	
 25.3.2.14-debian-trixie-20260505-slim	
-25.3.2.14-debian-trixie-20260518	amd64,arm64
-25.3.2.14-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.14-debian-trixie-20260518	arm64
+25.3.2.14-debian-trixie-20260518-slim	arm64
 25.3.2.14-debian-trixie-20260610	amd64,arm64
 25.3.2.14-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.14-ubuntu-focal-20240530	
@@ -21255,8 +21260,8 @@
 25.3.2.15-debian-bookworm-20260421-slim	
 25.3.2.15-debian-bookworm-20260505	
 25.3.2.15-debian-bookworm-20260505-slim	
-25.3.2.15-debian-bookworm-20260518	amd64,arm64
-25.3.2.15-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.15-debian-bookworm-20260518	arm64
+25.3.2.15-debian-bookworm-20260518-slim	arm64
 25.3.2.15-debian-bookworm-20260610	amd64,arm64
 25.3.2.15-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.15-debian-bullseye-20240926	
@@ -21293,8 +21298,8 @@
 25.3.2.15-debian-bullseye-20260421-slim	
 25.3.2.15-debian-bullseye-20260505	
 25.3.2.15-debian-bullseye-20260505-slim	
-25.3.2.15-debian-bullseye-20260518	amd64,arm64
-25.3.2.15-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.15-debian-bullseye-20260518	arm64
+25.3.2.15-debian-bullseye-20260518-slim	arm64
 25.3.2.15-debian-bullseye-20260610	amd64,arm64
 25.3.2.15-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.15-debian-buster-20240612	
@@ -21325,8 +21330,8 @@
 25.3.2.15-debian-trixie-20260421-slim	
 25.3.2.15-debian-trixie-20260505	
 25.3.2.15-debian-trixie-20260505-slim	amd64,arm64
-25.3.2.15-debian-trixie-20260518	amd64,arm64
-25.3.2.15-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.15-debian-trixie-20260518	arm64
+25.3.2.15-debian-trixie-20260518-slim	arm64
 25.3.2.15-debian-trixie-20260610	amd64,arm64
 25.3.2.15-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.15-ubuntu-focal-20240918	
@@ -21404,8 +21409,8 @@
 25.3.2.16-debian-bookworm-20260421-slim	
 25.3.2.16-debian-bookworm-20260505	
 25.3.2.16-debian-bookworm-20260505-slim	
-25.3.2.16-debian-bookworm-20260518	amd64,arm64
-25.3.2.16-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.16-debian-bookworm-20260518	arm64
+25.3.2.16-debian-bookworm-20260518-slim	arm64
 25.3.2.16-debian-bookworm-20260610	amd64,arm64
 25.3.2.16-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.16-debian-bullseye-20241202	
@@ -21442,8 +21447,8 @@
 25.3.2.16-debian-bullseye-20260421-slim	
 25.3.2.16-debian-bullseye-20260505	
 25.3.2.16-debian-bullseye-20260505-slim	
-25.3.2.16-debian-bullseye-20260518	amd64,arm64
-25.3.2.16-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.16-debian-bullseye-20260518	arm64
+25.3.2.16-debian-bullseye-20260518-slim	arm64
 25.3.2.16-debian-bullseye-20260610	amd64,arm64
 25.3.2.16-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.16-debian-buster-20240612	
@@ -21474,8 +21479,8 @@
 25.3.2.16-debian-trixie-20260421-slim	
 25.3.2.16-debian-trixie-20260505	
 25.3.2.16-debian-trixie-20260505-slim	
-25.3.2.16-debian-trixie-20260518	amd64,arm64
-25.3.2.16-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.16-debian-trixie-20260518	arm64
+25.3.2.16-debian-trixie-20260518-slim	arm64
 25.3.2.16-debian-trixie-20260610	amd64,arm64
 25.3.2.16-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.16-ubuntu-focal-20241011	
@@ -21543,8 +21548,8 @@
 25.3.2.17-debian-bookworm-20260421-slim	
 25.3.2.17-debian-bookworm-20260505	
 25.3.2.17-debian-bookworm-20260505-slim	
-25.3.2.17-debian-bookworm-20260518	amd64,arm64
-25.3.2.17-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.17-debian-bookworm-20260518	arm64
+25.3.2.17-debian-bookworm-20260518-slim	arm64
 25.3.2.17-debian-bookworm-20260610	amd64,arm64
 25.3.2.17-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.17-debian-bullseye-20250203	
@@ -21575,8 +21580,8 @@
 25.3.2.17-debian-bullseye-20260421-slim	
 25.3.2.17-debian-bullseye-20260505	
 25.3.2.17-debian-bullseye-20260505-slim	
-25.3.2.17-debian-bullseye-20260518	amd64,arm64
-25.3.2.17-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.17-debian-bullseye-20260518	arm64
+25.3.2.17-debian-bullseye-20260518-slim	arm64
 25.3.2.17-debian-bullseye-20260610	amd64,arm64
 25.3.2.17-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.17-debian-buster-20240612	
@@ -21607,8 +21612,8 @@
 25.3.2.17-debian-trixie-20260421-slim	
 25.3.2.17-debian-trixie-20260505	
 25.3.2.17-debian-trixie-20260505-slim	
-25.3.2.17-debian-trixie-20260518	amd64,arm64
-25.3.2.17-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.17-debian-trixie-20260518	arm64
+25.3.2.17-debian-trixie-20260518-slim	arm64
 25.3.2.17-debian-trixie-20260610	amd64,arm64
 25.3.2.17-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.17-ubuntu-focal-20241011	
@@ -21674,8 +21679,8 @@
 25.3.2.18-debian-bookworm-20260421-slim	
 25.3.2.18-debian-bookworm-20260505	
 25.3.2.18-debian-bookworm-20260505-slim	
-25.3.2.18-debian-bookworm-20260518	amd64,arm64
-25.3.2.18-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.18-debian-bookworm-20260518	arm64
+25.3.2.18-debian-bookworm-20260518-slim	arm64
 25.3.2.18-debian-bookworm-20260610	amd64,arm64
 25.3.2.18-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.18-debian-bullseye-20250203	
@@ -21710,8 +21715,8 @@
 25.3.2.18-debian-bullseye-20260421-slim	
 25.3.2.18-debian-bullseye-20260505	
 25.3.2.18-debian-bullseye-20260505-slim	
-25.3.2.18-debian-bullseye-20260518	amd64,arm64
-25.3.2.18-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.18-debian-bullseye-20260518	arm64
+25.3.2.18-debian-bullseye-20260518-slim	arm64
 25.3.2.18-debian-bullseye-20260610	amd64,arm64
 25.3.2.18-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.18-debian-buster-20240612	
@@ -21742,8 +21747,8 @@
 25.3.2.18-debian-trixie-20260421-slim	
 25.3.2.18-debian-trixie-20260505	
 25.3.2.18-debian-trixie-20260505-slim	
-25.3.2.18-debian-trixie-20260518	amd64,arm64
-25.3.2.18-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.18-debian-trixie-20260518	arm64
+25.3.2.18-debian-trixie-20260518-slim	arm64
 25.3.2.18-debian-trixie-20260610	amd64,arm64
 25.3.2.18-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.18-ubuntu-focal-20241011	
@@ -21807,8 +21812,8 @@
 25.3.2.19-debian-bookworm-20260421-slim	
 25.3.2.19-debian-bookworm-20260505	
 25.3.2.19-debian-bookworm-20260505-slim	
-25.3.2.19-debian-bookworm-20260518	amd64,arm64
-25.3.2.19-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.19-debian-bookworm-20260518	arm64
+25.3.2.19-debian-bookworm-20260518-slim	arm64
 25.3.2.19-debian-bookworm-20260610	amd64,arm64
 25.3.2.19-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.19-debian-bullseye-20250317	
@@ -21841,8 +21846,8 @@
 25.3.2.19-debian-bullseye-20260421-slim	
 25.3.2.19-debian-bullseye-20260505	
 25.3.2.19-debian-bullseye-20260505-slim	
-25.3.2.19-debian-bullseye-20260518	amd64,arm64
-25.3.2.19-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.19-debian-bullseye-20260518	arm64
+25.3.2.19-debian-bullseye-20260518-slim	arm64
 25.3.2.19-debian-bullseye-20260610	amd64,arm64
 25.3.2.19-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.19-debian-buster-20240612	
@@ -21873,8 +21878,8 @@
 25.3.2.19-debian-trixie-20260421-slim	
 25.3.2.19-debian-trixie-20260505	
 25.3.2.19-debian-trixie-20260505-slim	
-25.3.2.19-debian-trixie-20260518	amd64,arm64
-25.3.2.19-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.19-debian-trixie-20260518	arm64
+25.3.2.19-debian-trixie-20260518-slim	arm64
 25.3.2.19-debian-trixie-20260610	amd64,arm64
 25.3.2.19-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.19-ubuntu-focal-20241011	
@@ -22075,8 +22080,8 @@
 25.3.2.20-debian-bookworm-20260421-slim	
 25.3.2.20-debian-bookworm-20260505	
 25.3.2.20-debian-bookworm-20260505-slim	
-25.3.2.20-debian-bookworm-20260518	amd64,arm64
-25.3.2.20-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.20-debian-bookworm-20260518	arm64
+25.3.2.20-debian-bookworm-20260518-slim	arm64
 25.3.2.20-debian-bookworm-20260610	amd64,arm64
 25.3.2.20-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.20-debian-bullseye-20250407	
@@ -22109,8 +22114,8 @@
 25.3.2.20-debian-bullseye-20260421-slim	
 25.3.2.20-debian-bullseye-20260505	
 25.3.2.20-debian-bullseye-20260505-slim	
-25.3.2.20-debian-bullseye-20260518	amd64,arm64
-25.3.2.20-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.20-debian-bullseye-20260518	arm64
+25.3.2.20-debian-bullseye-20260518-slim	arm64
 25.3.2.20-debian-bullseye-20260610	amd64,arm64
 25.3.2.20-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.20-debian-buster-20240612	
@@ -22141,8 +22146,8 @@
 25.3.2.20-debian-trixie-20260421-slim	
 25.3.2.20-debian-trixie-20260505	
 25.3.2.20-debian-trixie-20260505-slim	
-25.3.2.20-debian-trixie-20260518	amd64,arm64
-25.3.2.20-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.20-debian-trixie-20260518	arm64
+25.3.2.20-debian-trixie-20260518-slim	arm64
 25.3.2.20-debian-trixie-20260610	amd64,arm64
 25.3.2.20-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.20-ubuntu-focal-20250404	
@@ -22181,6 +22186,7 @@
 25.3.2.21-alpine-3.22.2	
 25.3.2.21-alpine-3.22.3	
 25.3.2.21-alpine-3.22.4	
+25.3.2.21-alpine-3.22.5	amd64,arm64
 25.3.2.21-debian-bookworm-20250428	
 25.3.2.21-debian-bookworm-20250428-slim	
 25.3.2.21-debian-bookworm-20250520	
@@ -22221,8 +22227,8 @@
 25.3.2.21-debian-bookworm-20260421-slim	
 25.3.2.21-debian-bookworm-20260505	
 25.3.2.21-debian-bookworm-20260505-slim	
-25.3.2.21-debian-bookworm-20260518	amd64,arm64
-25.3.2.21-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.21-debian-bookworm-20260518	arm64
+25.3.2.21-debian-bookworm-20260518-slim	arm64
 25.3.2.21-debian-bookworm-20260610	amd64,arm64
 25.3.2.21-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.21-debian-bullseye-20250428	
@@ -22265,8 +22271,8 @@
 25.3.2.21-debian-bullseye-20260421-slim	
 25.3.2.21-debian-bullseye-20260505	
 25.3.2.21-debian-bullseye-20260505-slim	
-25.3.2.21-debian-bullseye-20260518	amd64,arm64
-25.3.2.21-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.21-debian-bullseye-20260518	arm64
+25.3.2.21-debian-bullseye-20260518-slim	arm64
 25.3.2.21-debian-bullseye-20260610	amd64,arm64
 25.3.2.21-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.21-debian-buster-20240612	
@@ -22303,8 +22309,8 @@
 25.3.2.21-debian-trixie-20260421-slim	
 25.3.2.21-debian-trixie-20260505	
 25.3.2.21-debian-trixie-20260505-slim	
-25.3.2.21-debian-trixie-20260518	amd64,arm64
-25.3.2.21-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.21-debian-trixie-20260518	arm64
+25.3.2.21-debian-trixie-20260518-slim	arm64
 25.3.2.21-debian-trixie-20260610	amd64,arm64
 25.3.2.21-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.21-ubuntu-focal-20250404	
@@ -22440,8 +22446,8 @@
 25.3.2.3-debian-trixie-20260421-slim	
 25.3.2.3-debian-trixie-20260505	
 25.3.2.3-debian-trixie-20260505-slim	
-25.3.2.3-debian-trixie-20260518	amd64,arm64
-25.3.2.3-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.3-debian-trixie-20260518	arm64
+25.3.2.3-debian-trixie-20260518-slim	arm64
 25.3.2.3-debian-trixie-20260610	amd64,arm64
 25.3.2.3-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.3-ubuntu-bionic-20230126	
@@ -22502,8 +22508,8 @@
 25.3.2.4-debian-bookworm-20260421-slim	
 25.3.2.4-debian-bookworm-20260505	
 25.3.2.4-debian-bookworm-20260505-slim	
-25.3.2.4-debian-bookworm-20260518	amd64,arm64
-25.3.2.4-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.4-debian-bookworm-20260518	arm64
+25.3.2.4-debian-bookworm-20260518-slim	arm64
 25.3.2.4-debian-bookworm-20260610	amd64,arm64
 25.3.2.4-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.4-debian-bullseye-20230612	
@@ -22534,8 +22540,8 @@
 25.3.2.4-debian-bullseye-20260421-slim	
 25.3.2.4-debian-bullseye-20260505	
 25.3.2.4-debian-bullseye-20260505-slim	
-25.3.2.4-debian-bullseye-20260518	amd64,arm64
-25.3.2.4-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.4-debian-bullseye-20260518	arm64
+25.3.2.4-debian-bullseye-20260518-slim	arm64
 25.3.2.4-debian-bullseye-20260610	amd64,arm64
 25.3.2.4-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.4-debian-buster-20230612	
@@ -22566,8 +22572,8 @@
 25.3.2.4-debian-trixie-20260421-slim	
 25.3.2.4-debian-trixie-20260505	
 25.3.2.4-debian-trixie-20260505-slim	
-25.3.2.4-debian-trixie-20260518	amd64,arm64
-25.3.2.4-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.4-debian-trixie-20260518	arm64
+25.3.2.4-debian-trixie-20260518-slim	arm64
 25.3.2.4-debian-trixie-20260610	amd64,arm64
 25.3.2.4-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.4-ubuntu-bionic-20230126	
@@ -22628,8 +22634,8 @@
 25.3.2.5-debian-bookworm-20260421-slim	
 25.3.2.5-debian-bookworm-20260505	
 25.3.2.5-debian-bookworm-20260505-slim	amd64,arm64
-25.3.2.5-debian-bookworm-20260518	amd64,arm64
-25.3.2.5-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.5-debian-bookworm-20260518	arm64
+25.3.2.5-debian-bookworm-20260518-slim	arm64
 25.3.2.5-debian-bookworm-20260610	amd64,arm64
 25.3.2.5-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.5-debian-bullseye-20230612	
@@ -22660,8 +22666,8 @@
 25.3.2.5-debian-bullseye-20260421-slim	
 25.3.2.5-debian-bullseye-20260505	
 25.3.2.5-debian-bullseye-20260505-slim	amd64,arm64
-25.3.2.5-debian-bullseye-20260518	amd64,arm64
-25.3.2.5-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.5-debian-bullseye-20260518	arm64
+25.3.2.5-debian-bullseye-20260518-slim	arm64
 25.3.2.5-debian-bullseye-20260610	amd64,arm64
 25.3.2.5-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.5-debian-buster-20230612	
@@ -22692,8 +22698,8 @@
 25.3.2.5-debian-trixie-20260421-slim	
 25.3.2.5-debian-trixie-20260505	
 25.3.2.5-debian-trixie-20260505-slim	
-25.3.2.5-debian-trixie-20260518	amd64,arm64
-25.3.2.5-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.5-debian-trixie-20260518	arm64
+25.3.2.5-debian-trixie-20260518-slim	arm64
 25.3.2.5-debian-trixie-20260610	amd64,arm64
 25.3.2.5-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.5-ubuntu-bionic-20230126	
@@ -22757,8 +22763,8 @@
 25.3.2.6-debian-bookworm-20260421-slim	
 25.3.2.6-debian-bookworm-20260505	
 25.3.2.6-debian-bookworm-20260505-slim	
-25.3.2.6-debian-bookworm-20260518	amd64,arm64
-25.3.2.6-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.6-debian-bookworm-20260518	arm64
+25.3.2.6-debian-bookworm-20260518-slim	arm64
 25.3.2.6-debian-bookworm-20260610	amd64,arm64
 25.3.2.6-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.6-debian-bullseye-20230612	
@@ -22789,8 +22795,8 @@
 25.3.2.6-debian-bullseye-20260421-slim	
 25.3.2.6-debian-bullseye-20260505	
 25.3.2.6-debian-bullseye-20260505-slim	
-25.3.2.6-debian-bullseye-20260518	amd64,arm64
-25.3.2.6-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.6-debian-bullseye-20260518	arm64
+25.3.2.6-debian-bullseye-20260518-slim	arm64
 25.3.2.6-debian-bullseye-20260610	amd64,arm64
 25.3.2.6-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.6-debian-buster-20230612	
@@ -22821,8 +22827,8 @@
 25.3.2.6-debian-trixie-20260421-slim	
 25.3.2.6-debian-trixie-20260505	
 25.3.2.6-debian-trixie-20260505-slim	
-25.3.2.6-debian-trixie-20260518	amd64,arm64
-25.3.2.6-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.6-debian-trixie-20260518	arm64
+25.3.2.6-debian-trixie-20260518-slim	arm64
 25.3.2.6-debian-trixie-20260610	amd64,arm64
 25.3.2.6-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.6-ubuntu-bionic-20230126	
@@ -22885,8 +22891,8 @@
 25.3.2.7-debian-bookworm-20260421-slim	
 25.3.2.7-debian-bookworm-20260505	
 25.3.2.7-debian-bookworm-20260505-slim	
-25.3.2.7-debian-bookworm-20260518	amd64,arm64
-25.3.2.7-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.7-debian-bookworm-20260518	arm64
+25.3.2.7-debian-bookworm-20260518-slim	arm64
 25.3.2.7-debian-bookworm-20260610	amd64,arm64
 25.3.2.7-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.7-debian-bullseye-20230612	
@@ -22919,12 +22925,12 @@
 25.3.2.7-debian-bullseye-20260421-slim	
 25.3.2.7-debian-bullseye-20260505	
 25.3.2.7-debian-bullseye-20260505-slim	
-25.3.2.7-debian-bullseye-20260518	amd64,arm64
-25.3.2.7-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.7-debian-bullseye-20260518	arm64
+25.3.2.7-debian-bullseye-20260518-slim	arm64
 25.3.2.7-debian-bullseye-20260610	amd64,arm64
 25.3.2.7-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.7-debian-buster-20230612	
-25.3.2.7-debian-buster-20230612-slim	amd64
+25.3.2.7-debian-buster-20230612-slim	
 25.3.2.7-debian-buster-20231009	
 25.3.2.7-debian-buster-20231009-slim	
 25.3.2.7-debian-trixie-20250929	
@@ -22953,8 +22959,8 @@
 25.3.2.7-debian-trixie-20260421-slim	
 25.3.2.7-debian-trixie-20260505	
 25.3.2.7-debian-trixie-20260505-slim	
-25.3.2.7-debian-trixie-20260518	amd64,arm64
-25.3.2.7-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.7-debian-trixie-20260518	arm64
+25.3.2.7-debian-trixie-20260518-slim	arm64
 25.3.2.7-debian-trixie-20260610	amd64,arm64
 25.3.2.7-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.7-ubuntu-bionic-20230126	
@@ -23030,8 +23036,8 @@
 25.3.2.8-debian-bookworm-20260421-slim	
 25.3.2.8-debian-bookworm-20260505	
 25.3.2.8-debian-bookworm-20260505-slim	
-25.3.2.8-debian-bookworm-20260518	amd64,arm64
-25.3.2.8-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.8-debian-bookworm-20260518	arm64
+25.3.2.8-debian-bookworm-20260518-slim	arm64
 25.3.2.8-debian-bookworm-20260610	amd64,arm64
 25.3.2.8-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.8-debian-bullseye-20231009	
@@ -23066,8 +23072,8 @@
 25.3.2.8-debian-bullseye-20260421-slim	
 25.3.2.8-debian-bullseye-20260505	
 25.3.2.8-debian-bullseye-20260505-slim	
-25.3.2.8-debian-bullseye-20260518	amd64,arm64
-25.3.2.8-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.8-debian-bullseye-20260518	arm64
+25.3.2.8-debian-bullseye-20260518-slim	arm64
 25.3.2.8-debian-bullseye-20260610	amd64,arm64
 25.3.2.8-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.8-debian-buster-20231009	
@@ -23102,8 +23108,8 @@
 25.3.2.8-debian-trixie-20260421-slim	
 25.3.2.8-debian-trixie-20260505	amd64,arm64
 25.3.2.8-debian-trixie-20260505-slim	
-25.3.2.8-debian-trixie-20260518	amd64,arm64
-25.3.2.8-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.8-debian-trixie-20260518	arm64
+25.3.2.8-debian-trixie-20260518-slim	arm64
 25.3.2.8-debian-trixie-20260610	amd64,arm64
 25.3.2.8-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.8-ubuntu-bionic-20230530	amd64
@@ -23193,8 +23199,8 @@
 25.3.2.9-debian-bookworm-20260421-slim	
 25.3.2.9-debian-bookworm-20260505	
 25.3.2.9-debian-bookworm-20260505-slim	
-25.3.2.9-debian-bookworm-20260518	amd64,arm64
-25.3.2.9-debian-bookworm-20260518-slim	amd64,arm64
+25.3.2.9-debian-bookworm-20260518	arm64
+25.3.2.9-debian-bookworm-20260518-slim	arm64
 25.3.2.9-debian-bookworm-20260610	amd64,arm64
 25.3.2.9-debian-bookworm-20260610-slim	amd64,arm64
 25.3.2.9-debian-bullseye-20240130	
@@ -23237,8 +23243,8 @@
 25.3.2.9-debian-bullseye-20260421-slim	
 25.3.2.9-debian-bullseye-20260505	
 25.3.2.9-debian-bullseye-20260505-slim	
-25.3.2.9-debian-bullseye-20260518	amd64,arm64
-25.3.2.9-debian-bullseye-20260518-slim	amd64,arm64
+25.3.2.9-debian-bullseye-20260518	arm64
+25.3.2.9-debian-bullseye-20260518-slim	arm64
 25.3.2.9-debian-bullseye-20260610	amd64,arm64
 25.3.2.9-debian-bullseye-20260610-slim	amd64,arm64
 25.3.2.9-debian-buster-20240130	
@@ -23273,8 +23279,8 @@
 25.3.2.9-debian-trixie-20260421-slim	
 25.3.2.9-debian-trixie-20260505	
 25.3.2.9-debian-trixie-20260505-slim	
-25.3.2.9-debian-trixie-20260518	amd64,arm64
-25.3.2.9-debian-trixie-20260518-slim	amd64,arm64
+25.3.2.9-debian-trixie-20260518	arm64
+25.3.2.9-debian-trixie-20260518-slim	arm64
 25.3.2.9-debian-trixie-20260610	amd64,arm64
 25.3.2.9-debian-trixie-20260610-slim	amd64,arm64
 25.3.2.9-ubuntu-focal-20240123	
@@ -23445,8 +23451,8 @@
 26.0-rc1-debian-bookworm-20260421-slim	
 26.0-rc1-debian-bookworm-20260505	
 26.0-rc1-debian-bookworm-20260505-slim	
-26.0-rc1-debian-bookworm-20260518	amd64,arm64
-26.0-rc1-debian-bookworm-20260518-slim	amd64,arm64
+26.0-rc1-debian-bookworm-20260518	arm64
+26.0-rc1-debian-bookworm-20260518-slim	arm64
 26.0-rc1-debian-bookworm-20260610	amd64,arm64
 26.0-rc1-debian-bookworm-20260610-slim	amd64,arm64
 26.0-rc1-debian-bullseye-20230202	
@@ -23477,8 +23483,8 @@
 26.0-rc1-debian-bullseye-20260421-slim	
 26.0-rc1-debian-bullseye-20260505	
 26.0-rc1-debian-bullseye-20260505-slim	
-26.0-rc1-debian-bullseye-20260518	amd64,arm64
-26.0-rc1-debian-bullseye-20260518-slim	amd64,arm64
+26.0-rc1-debian-bullseye-20260518	arm64
+26.0-rc1-debian-bullseye-20260518-slim	arm64
 26.0-rc1-debian-bullseye-20260610	amd64,arm64
 26.0-rc1-debian-bullseye-20260610-slim	amd64,arm64
 26.0-rc1-debian-buster-20230202	
@@ -23509,8 +23515,8 @@
 26.0-rc1-debian-trixie-20260421-slim	
 26.0-rc1-debian-trixie-20260505	
 26.0-rc1-debian-trixie-20260505-slim	
-26.0-rc1-debian-trixie-20260518	amd64,arm64
-26.0-rc1-debian-trixie-20260518-slim	amd64,arm64
+26.0-rc1-debian-trixie-20260518	arm64
+26.0-rc1-debian-trixie-20260518-slim	arm64
 26.0-rc1-debian-trixie-20260610	amd64,arm64
 26.0-rc1-debian-trixie-20260610-slim	amd64,arm64
 26.0-rc1-ubuntu-bionic-20221130	
@@ -23572,8 +23578,8 @@
 26.0-rc2-debian-bookworm-20260421-slim	
 26.0-rc2-debian-bookworm-20260505	
 26.0-rc2-debian-bookworm-20260505-slim	
-26.0-rc2-debian-bookworm-20260518	amd64,arm64
-26.0-rc2-debian-bookworm-20260518-slim	amd64,arm64
+26.0-rc2-debian-bookworm-20260518	arm64
+26.0-rc2-debian-bookworm-20260518-slim	arm64
 26.0-rc2-debian-bookworm-20260610	amd64,arm64
 26.0-rc2-debian-bookworm-20260610-slim	amd64,arm64
 26.0-rc2-debian-bullseye-20230227	
@@ -23604,8 +23610,8 @@
 26.0-rc2-debian-bullseye-20260421-slim	
 26.0-rc2-debian-bullseye-20260505	
 26.0-rc2-debian-bullseye-20260505-slim	
-26.0-rc2-debian-bullseye-20260518	amd64,arm64
-26.0-rc2-debian-bullseye-20260518-slim	amd64,arm64
+26.0-rc2-debian-bullseye-20260518	arm64
+26.0-rc2-debian-bullseye-20260518-slim	arm64
 26.0-rc2-debian-bullseye-20260610	amd64,arm64
 26.0-rc2-debian-bullseye-20260610-slim	amd64,arm64
 26.0-rc2-debian-buster-20230227	
@@ -23636,8 +23642,8 @@
 26.0-rc2-debian-trixie-20260421-slim	
 26.0-rc2-debian-trixie-20260505	
 26.0-rc2-debian-trixie-20260505-slim	
-26.0-rc2-debian-trixie-20260518	amd64,arm64
-26.0-rc2-debian-trixie-20260518-slim	amd64,arm64
+26.0-rc2-debian-trixie-20260518	arm64
+26.0-rc2-debian-trixie-20260518-slim	arm64
 26.0-rc2-debian-trixie-20260610	amd64,arm64
 26.0-rc2-debian-trixie-20260610-slim	amd64,arm64
 26.0-rc2-ubuntu-bionic-20230126	
@@ -23699,8 +23705,8 @@
 26.0-rc3-debian-bookworm-20260421-slim	
 26.0-rc3-debian-bookworm-20260505	
 26.0-rc3-debian-bookworm-20260505-slim	
-26.0-rc3-debian-bookworm-20260518	amd64,arm64
-26.0-rc3-debian-bookworm-20260518-slim	amd64,arm64
+26.0-rc3-debian-bookworm-20260518	arm64
+26.0-rc3-debian-bookworm-20260518-slim	arm64
 26.0-rc3-debian-bookworm-20260610	amd64,arm64
 26.0-rc3-debian-bookworm-20260610-slim	amd64,arm64
 26.0-rc3-debian-bullseye-20230227	
@@ -23733,8 +23739,8 @@
 26.0-rc3-debian-bullseye-20260421-slim	
 26.0-rc3-debian-bullseye-20260505	
 26.0-rc3-debian-bullseye-20260505-slim	
-26.0-rc3-debian-bullseye-20260518	amd64,arm64
-26.0-rc3-debian-bullseye-20260518-slim	amd64,arm64
+26.0-rc3-debian-bullseye-20260518	arm64
+26.0-rc3-debian-bullseye-20260518-slim	arm64
 26.0-rc3-debian-bullseye-20260610	amd64,arm64
 26.0-rc3-debian-bullseye-20260610-slim	amd64,arm64
 26.0-rc3-debian-buster-20230227	
@@ -23767,8 +23773,8 @@
 26.0-rc3-debian-trixie-20260421-slim	
 26.0-rc3-debian-trixie-20260505	
 26.0-rc3-debian-trixie-20260505-slim	
-26.0-rc3-debian-trixie-20260518	amd64,arm64
-26.0-rc3-debian-trixie-20260518-slim	amd64,arm64
+26.0-rc3-debian-trixie-20260518	arm64
+26.0-rc3-debian-trixie-20260518-slim	arm64
 26.0-rc3-debian-trixie-20260610	amd64,arm64
 26.0-rc3-debian-trixie-20260610-slim	amd64,arm64
 26.0-rc3-ubuntu-bionic-20230126	
@@ -23862,8 +23868,8 @@
 26.0.1-debian-bookworm-20260421-slim	
 26.0.1-debian-bookworm-20260505	
 26.0.1-debian-bookworm-20260505-slim	
-26.0.1-debian-bookworm-20260518	amd64,arm64
-26.0.1-debian-bookworm-20260518-slim	amd64,arm64
+26.0.1-debian-bookworm-20260518	arm64
+26.0.1-debian-bookworm-20260518-slim	arm64
 26.0.1-debian-bookworm-20260610	amd64,arm64
 26.0.1-debian-bookworm-20260610-slim	amd64,arm64
 26.0.1-debian-bullseye-20230522	
@@ -23896,8 +23902,8 @@
 26.0.1-debian-bullseye-20260421-slim	
 26.0.1-debian-bullseye-20260505	
 26.0.1-debian-bullseye-20260505-slim	
-26.0.1-debian-bullseye-20260518	amd64,arm64
-26.0.1-debian-bullseye-20260518-slim	amd64,arm64
+26.0.1-debian-bullseye-20260518	arm64
+26.0.1-debian-bullseye-20260518-slim	arm64
 26.0.1-debian-bullseye-20260610	amd64,arm64
 26.0.1-debian-bullseye-20260610-slim	amd64,arm64
 26.0.1-debian-buster-20230522	
@@ -23930,8 +23936,8 @@
 26.0.1-debian-trixie-20260421-slim	
 26.0.1-debian-trixie-20260505	
 26.0.1-debian-trixie-20260505-slim	
-26.0.1-debian-trixie-20260518	amd64,arm64
-26.0.1-debian-trixie-20260518-slim	amd64,arm64
+26.0.1-debian-trixie-20260518	arm64
+26.0.1-debian-trixie-20260518-slim	arm64
 26.0.1-debian-trixie-20260610	amd64,arm64
 26.0.1-debian-trixie-20260610-slim	amd64,arm64
 26.0.1-ubuntu-bionic-20230126	
@@ -24004,10 +24010,12 @@
 26.0.2-alpine-3.22.2	
 26.0.2-alpine-3.22.3	
 26.0.2-alpine-3.22.4	
+26.0.2-alpine-3.22.5	amd64,arm64
 26.0.2-alpine-3.23.0	
 26.0.2-alpine-3.23.2	
 26.0.2-alpine-3.23.3	
 26.0.2-alpine-3.23.4	
+26.0.2-alpine-3.23.5	amd64,arm64
 26.0.2-debian-bookworm-20230612	
 26.0.2-debian-bookworm-20230612-slim	
 26.0.2-debian-bookworm-20231009	
@@ -24094,8 +24102,8 @@
 26.0.2-debian-bookworm-20260421-slim	
 26.0.2-debian-bookworm-20260505	
 26.0.2-debian-bookworm-20260505-slim	
-26.0.2-debian-bookworm-20260518	amd64,arm64
-26.0.2-debian-bookworm-20260518-slim	amd64,arm64
+26.0.2-debian-bookworm-20260518	arm64
+26.0.2-debian-bookworm-20260518-slim	arm64
 26.0.2-debian-bookworm-20260610	amd64,arm64
 26.0.2-debian-bookworm-20260610-slim	amd64,arm64
 26.0.2-debian-bullseye-20230612	
@@ -24184,8 +24192,8 @@
 26.0.2-debian-bullseye-20260421-slim	
 26.0.2-debian-bullseye-20260505	
 26.0.2-debian-bullseye-20260505-slim	
-26.0.2-debian-bullseye-20260518	amd64,arm64
-26.0.2-debian-bullseye-20260518-slim	amd64,arm64
+26.0.2-debian-bullseye-20260518	arm64
+26.0.2-debian-bullseye-20260518-slim	arm64
 26.0.2-debian-bullseye-20260610	amd64,arm64
 26.0.2-debian-bullseye-20260610-slim	amd64,arm64
 26.0.2-debian-buster-20230612	
@@ -24238,8 +24246,8 @@
 26.0.2-debian-trixie-20260421-slim	
 26.0.2-debian-trixie-20260505	
 26.0.2-debian-trixie-20260505-slim	
-26.0.2-debian-trixie-20260518	amd64,arm64
-26.0.2-debian-trixie-20260518-slim	amd64,arm64
+26.0.2-debian-trixie-20260518	arm64
+26.0.2-debian-trixie-20260518-slim	arm64
 26.0.2-debian-trixie-20260610	amd64,arm64
 26.0.2-debian-trixie-20260610-slim	amd64,arm64
 26.0.2-ubuntu-bionic-20230126	
@@ -24351,8 +24359,8 @@
 26.1-debian-bookworm-20260421-slim	
 26.1-debian-bookworm-20260505	
 26.1-debian-bookworm-20260505-slim	
-26.1-debian-bookworm-20260518	amd64,arm64
-26.1-debian-bookworm-20260518-slim	amd64,arm64
+26.1-debian-bookworm-20260518	arm64
+26.1-debian-bookworm-20260518-slim	arm64
 26.1-debian-bookworm-20260610	amd64,arm64
 26.1-debian-bookworm-20260610-slim	amd64,arm64
 26.1-debian-bullseye-20230612	
@@ -24383,8 +24391,8 @@
 26.1-debian-bullseye-20260421-slim	
 26.1-debian-bullseye-20260505	
 26.1-debian-bullseye-20260505-slim	
-26.1-debian-bullseye-20260518	amd64,arm64
-26.1-debian-bullseye-20260518-slim	amd64,arm64
+26.1-debian-bullseye-20260518	arm64
+26.1-debian-bullseye-20260518-slim	arm64
 26.1-debian-bullseye-20260610	amd64,arm64
 26.1-debian-bullseye-20260610-slim	amd64,arm64
 26.1-debian-buster-20230612	
@@ -24415,8 +24423,8 @@
 26.1-debian-trixie-20260421-slim	
 26.1-debian-trixie-20260505	
 26.1-debian-trixie-20260505-slim	
-26.1-debian-trixie-20260518	amd64,arm64
-26.1-debian-trixie-20260518-slim	amd64,arm64
+26.1-debian-trixie-20260518	arm64
+26.1-debian-trixie-20260518-slim	arm64
 26.1-debian-trixie-20260610	amd64,arm64
 26.1-debian-trixie-20260610-slim	amd64,arm64
 26.1-ubuntu-bionic-20230126	
@@ -24486,8 +24494,8 @@
 26.1.1-debian-bookworm-20260421-slim	
 26.1.1-debian-bookworm-20260505	
 26.1.1-debian-bookworm-20260505-slim	
-26.1.1-debian-bookworm-20260518	amd64,arm64
-26.1.1-debian-bookworm-20260518-slim	amd64,arm64
+26.1.1-debian-bookworm-20260518	arm64
+26.1.1-debian-bookworm-20260518-slim	arm64
 26.1.1-debian-bookworm-20260610	amd64,arm64
 26.1.1-debian-bookworm-20260610-slim	amd64,arm64
 26.1.1-debian-bullseye-20230612	
@@ -24518,8 +24526,8 @@
 26.1.1-debian-bullseye-20260421-slim	
 26.1.1-debian-bullseye-20260505	
 26.1.1-debian-bullseye-20260505-slim	
-26.1.1-debian-bullseye-20260518	amd64,arm64
-26.1.1-debian-bullseye-20260518-slim	amd64,arm64
+26.1.1-debian-bullseye-20260518	arm64
+26.1.1-debian-bullseye-20260518-slim	arm64
 26.1.1-debian-bullseye-20260610	amd64,arm64
 26.1.1-debian-bullseye-20260610-slim	amd64,arm64
 26.1.1-debian-buster-20230612	
@@ -24550,8 +24558,8 @@
 26.1.1-debian-trixie-20260421-slim	
 26.1.1-debian-trixie-20260505	
 26.1.1-debian-trixie-20260505-slim	
-26.1.1-debian-trixie-20260518	amd64,arm64
-26.1.1-debian-trixie-20260518-slim	amd64,arm64
+26.1.1-debian-trixie-20260518	
+26.1.1-debian-trixie-20260518-slim	arm64
 26.1.1-debian-trixie-20260610	amd64,arm64
 26.1.1-debian-trixie-20260610-slim	amd64,arm64
 26.1.1-ubuntu-bionic-20230126	
@@ -24621,10 +24629,12 @@
 26.1.2-alpine-3.22.2	
 26.1.2-alpine-3.22.3	
 26.1.2-alpine-3.22.4	
+26.1.2-alpine-3.22.5	amd64,arm64
 26.1.2-alpine-3.23.0	
 26.1.2-alpine-3.23.2	
 26.1.2-alpine-3.23.3	
 26.1.2-alpine-3.23.4	
+26.1.2-alpine-3.23.5	amd64,arm64
 26.1.2-debian-bookworm-20230612	
 26.1.2-debian-bookworm-20230612-slim	
 26.1.2-debian-bookworm-20231009	
@@ -24711,8 +24721,8 @@
 26.1.2-debian-bookworm-20260421-slim	
 26.1.2-debian-bookworm-20260505	
 26.1.2-debian-bookworm-20260505-slim	
-26.1.2-debian-bookworm-20260518	amd64,arm64
-26.1.2-debian-bookworm-20260518-slim	amd64,arm64
+26.1.2-debian-bookworm-20260518	
+26.1.2-debian-bookworm-20260518-slim	
 26.1.2-debian-bookworm-20260610	amd64,arm64
 26.1.2-debian-bookworm-20260610-slim	amd64,arm64
 26.1.2-debian-bullseye-20230612	
@@ -24801,8 +24811,8 @@
 26.1.2-debian-bullseye-20260421-slim	
 26.1.2-debian-bullseye-20260505	
 26.1.2-debian-bullseye-20260505-slim	
-26.1.2-debian-bullseye-20260518	amd64,arm64
-26.1.2-debian-bullseye-20260518-slim	amd64,arm64
+26.1.2-debian-bullseye-20260518	
+26.1.2-debian-bullseye-20260518-slim	
 26.1.2-debian-bullseye-20260610	amd64,arm64
 26.1.2-debian-bullseye-20260610-slim	amd64,arm64
 26.1.2-debian-buster-20230612	
@@ -24855,8 +24865,8 @@
 26.1.2-debian-trixie-20260421-slim	
 26.1.2-debian-trixie-20260505	
 26.1.2-debian-trixie-20260505-slim	
-26.1.2-debian-trixie-20260518	amd64,arm64
-26.1.2-debian-trixie-20260518-slim	amd64,arm64
+26.1.2-debian-trixie-20260518	
+26.1.2-debian-trixie-20260518-slim	
 26.1.2-debian-trixie-20260610	amd64,arm64
 26.1.2-debian-trixie-20260610-slim	amd64,arm64
 26.1.2-ubuntu-bionic-20230126	
@@ -24970,8 +24980,8 @@
 26.2-debian-bookworm-20260421-slim	
 26.2-debian-bookworm-20260505	
 26.2-debian-bookworm-20260505-slim	
-26.2-debian-bookworm-20260518	amd64,arm64
-26.2-debian-bookworm-20260518-slim	amd64,arm64
+26.2-debian-bookworm-20260518	
+26.2-debian-bookworm-20260518-slim	
 26.2-debian-bookworm-20260610	amd64,arm64
 26.2-debian-bookworm-20260610-slim	amd64,arm64
 26.2-debian-bullseye-20231009	
@@ -25002,8 +25012,8 @@
 26.2-debian-bullseye-20260421-slim	
 26.2-debian-bullseye-20260505	
 26.2-debian-bullseye-20260505-slim	
-26.2-debian-bullseye-20260518	amd64,arm64
-26.2-debian-bullseye-20260518-slim	amd64,arm64
+26.2-debian-bullseye-20260518	
+26.2-debian-bullseye-20260518-slim	
 26.2-debian-bullseye-20260610	amd64,arm64
 26.2-debian-bullseye-20260610-slim	amd64,arm64
 26.2-debian-buster-20231009	
@@ -25034,8 +25044,8 @@
 26.2-debian-trixie-20260421-slim	
 26.2-debian-trixie-20260505	
 26.2-debian-trixie-20260505-slim	
-26.2-debian-trixie-20260518	amd64,arm64
-26.2-debian-trixie-20260518-slim	amd64,arm64
+26.2-debian-trixie-20260518	
+26.2-debian-trixie-20260518-slim	
 26.2-debian-trixie-20260610	amd64,arm64
 26.2-debian-trixie-20260610-slim	amd64,arm64
 26.2-ubuntu-bionic-20230530	
@@ -25114,8 +25124,8 @@
 26.2.1-debian-bookworm-20260421-slim	
 26.2.1-debian-bookworm-20260505	
 26.2.1-debian-bookworm-20260505-slim	
-26.2.1-debian-bookworm-20260518	amd64,arm64
-26.2.1-debian-bookworm-20260518-slim	amd64,arm64
+26.2.1-debian-bookworm-20260518	
+26.2.1-debian-bookworm-20260518-slim	
 26.2.1-debian-bookworm-20260610	amd64,arm64
 26.2.1-debian-bookworm-20260610-slim	amd64,arm64
 26.2.1-debian-bullseye-20231009	
@@ -25150,8 +25160,8 @@
 26.2.1-debian-bullseye-20260421-slim	
 26.2.1-debian-bullseye-20260505	
 26.2.1-debian-bullseye-20260505-slim	
-26.2.1-debian-bullseye-20260518	amd64,arm64
-26.2.1-debian-bullseye-20260518-slim	amd64,arm64
+26.2.1-debian-bullseye-20260518	
+26.2.1-debian-bullseye-20260518-slim	
 26.2.1-debian-bullseye-20260610	amd64,arm64
 26.2.1-debian-bullseye-20260610-slim	amd64,arm64
 26.2.1-debian-buster-20231009	
@@ -25186,8 +25196,8 @@
 26.2.1-debian-trixie-20260421-slim	
 26.2.1-debian-trixie-20260505	
 26.2.1-debian-trixie-20260505-slim	
-26.2.1-debian-trixie-20260518	amd64,arm64
-26.2.1-debian-trixie-20260518-slim	amd64,arm64
+26.2.1-debian-trixie-20260518	
+26.2.1-debian-trixie-20260518-slim	
 26.2.1-debian-trixie-20260610	amd64,arm64
 26.2.1-debian-trixie-20260610-slim	amd64,arm64
 26.2.1-ubuntu-bionic-20230530	
@@ -25259,8 +25269,8 @@
 26.2.2-debian-bookworm-20260421-slim	
 26.2.2-debian-bookworm-20260505	
 26.2.2-debian-bookworm-20260505-slim	
-26.2.2-debian-bookworm-20260518	amd64,arm64
-26.2.2-debian-bookworm-20260518-slim	amd64,arm64
+26.2.2-debian-bookworm-20260518	
+26.2.2-debian-bookworm-20260518-slim	
 26.2.2-debian-bookworm-20260610	amd64,arm64
 26.2.2-debian-bookworm-20260610-slim	amd64,arm64
 26.2.2-debian-bullseye-20240130	
@@ -25291,8 +25301,8 @@
 26.2.2-debian-bullseye-20260421-slim	
 26.2.2-debian-bullseye-20260505	
 26.2.2-debian-bullseye-20260505-slim	
-26.2.2-debian-bullseye-20260518	amd64,arm64
-26.2.2-debian-bullseye-20260518-slim	amd64,arm64
+26.2.2-debian-bullseye-20260518	
+26.2.2-debian-bullseye-20260518-slim	
 26.2.2-debian-bullseye-20260610	amd64,arm64
 26.2.2-debian-bullseye-20260610-slim	amd64,arm64
 26.2.2-debian-buster-20240130	
@@ -25323,8 +25333,8 @@
 26.2.2-debian-trixie-20260421-slim	
 26.2.2-debian-trixie-20260505	
 26.2.2-debian-trixie-20260505-slim	
-26.2.2-debian-trixie-20260518	amd64,arm64
-26.2.2-debian-trixie-20260518-slim	amd64,arm64
+26.2.2-debian-trixie-20260518	
+26.2.2-debian-trixie-20260518-slim	
 26.2.2-debian-trixie-20260610	amd64,arm64
 26.2.2-debian-trixie-20260610-slim	amd64,arm64
 26.2.2-ubuntu-focal-20240123	
@@ -25395,8 +25405,8 @@
 26.2.3-debian-bookworm-20260421-slim	
 26.2.3-debian-bookworm-20260505	
 26.2.3-debian-bookworm-20260505-slim	
-26.2.3-debian-bookworm-20260518	amd64,arm64
-26.2.3-debian-bookworm-20260518-slim	amd64,arm64
+26.2.3-debian-bookworm-20260518	
+26.2.3-debian-bookworm-20260518-slim	
 26.2.3-debian-bookworm-20260610	amd64,arm64
 26.2.3-debian-bookworm-20260610-slim	amd64,arm64
 26.2.3-debian-bullseye-20240130	
@@ -25431,8 +25441,8 @@
 26.2.3-debian-bullseye-20260421-slim	
 26.2.3-debian-bullseye-20260505	
 26.2.3-debian-bullseye-20260505-slim	
-26.2.3-debian-bullseye-20260518	amd64,arm64
-26.2.3-debian-bullseye-20260518-slim	amd64,arm64
+26.2.3-debian-bullseye-20260518	
+26.2.3-debian-bullseye-20260518-slim	
 26.2.3-debian-bullseye-20260610	amd64,arm64
 26.2.3-debian-bullseye-20260610-slim	amd64,arm64
 26.2.3-debian-buster-20240130	
@@ -25467,8 +25477,8 @@
 26.2.3-debian-trixie-20260421-slim	
 26.2.3-debian-trixie-20260505	
 26.2.3-debian-trixie-20260505-slim	
-26.2.3-debian-trixie-20260518	amd64,arm64
-26.2.3-debian-trixie-20260518-slim	amd64,arm64
+26.2.3-debian-trixie-20260518	
+26.2.3-debian-trixie-20260518-slim	
 26.2.3-debian-trixie-20260610	amd64,arm64
 26.2.3-debian-trixie-20260610-slim	amd64,arm64
 26.2.3-ubuntu-focal-20240123	
@@ -25540,8 +25550,8 @@
 26.2.4-debian-bookworm-20260421-slim	
 26.2.4-debian-bookworm-20260505	
 26.2.4-debian-bookworm-20260505-slim	
-26.2.4-debian-bookworm-20260518	amd64,arm64
-26.2.4-debian-bookworm-20260518-slim	amd64,arm64
+26.2.4-debian-bookworm-20260518	
+26.2.4-debian-bookworm-20260518-slim	
 26.2.4-debian-bookworm-20260610	amd64,arm64
 26.2.4-debian-bookworm-20260610-slim	amd64,arm64
 26.2.4-debian-bullseye-20240408	
@@ -25574,8 +25584,8 @@
 26.2.4-debian-bullseye-20260421-slim	
 26.2.4-debian-bullseye-20260505	
 26.2.4-debian-bullseye-20260505-slim	
-26.2.4-debian-bullseye-20260518	amd64,arm64
-26.2.4-debian-bullseye-20260518-slim	amd64,arm64
+26.2.4-debian-bullseye-20260518	
+26.2.4-debian-bullseye-20260518-slim	
 26.2.4-debian-bullseye-20260610	amd64,arm64
 26.2.4-debian-bullseye-20260610-slim	amd64,arm64
 26.2.4-debian-buster-20240408	
@@ -25608,8 +25618,8 @@
 26.2.4-debian-trixie-20260421-slim	
 26.2.4-debian-trixie-20260505	
 26.2.4-debian-trixie-20260505-slim	
-26.2.4-debian-trixie-20260518	amd64,arm64
-26.2.4-debian-trixie-20260518-slim	amd64,arm64
+26.2.4-debian-trixie-20260518	
+26.2.4-debian-trixie-20260518-slim	
 26.2.4-debian-trixie-20260610	amd64,arm64
 26.2.4-debian-trixie-20260610-slim	amd64,arm64
 26.2.4-ubuntu-focal-20240216	
@@ -25690,8 +25700,8 @@
 26.2.5-debian-bookworm-20260421-slim	
 26.2.5-debian-bookworm-20260505	
 26.2.5-debian-bookworm-20260505-slim	
-26.2.5-debian-bookworm-20260518	amd64,arm64
-26.2.5-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5-debian-bookworm-20260518	
+26.2.5-debian-bookworm-20260518-slim	
 26.2.5-debian-bookworm-20260610	amd64,arm64
 26.2.5-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5-debian-bullseye-20240423	
@@ -25726,8 +25736,8 @@
 26.2.5-debian-bullseye-20260421-slim	
 26.2.5-debian-bullseye-20260505	
 26.2.5-debian-bullseye-20260505-slim	
-26.2.5-debian-bullseye-20260518	amd64,arm64
-26.2.5-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5-debian-bullseye-20260518	
+26.2.5-debian-bullseye-20260518-slim	
 26.2.5-debian-bullseye-20260610	amd64,arm64
 26.2.5-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5-debian-buster-20240423	
@@ -25762,8 +25772,8 @@
 26.2.5-debian-trixie-20260421-slim	
 26.2.5-debian-trixie-20260505	
 26.2.5-debian-trixie-20260505-slim	
-26.2.5-debian-trixie-20260518	amd64,arm64
-26.2.5-debian-trixie-20260518-slim	amd64,arm64
+26.2.5-debian-trixie-20260518	amd64
+26.2.5-debian-trixie-20260518-slim	
 26.2.5-debian-trixie-20260610	amd64,arm64
 26.2.5-debian-trixie-20260610-slim	amd64,arm64
 26.2.5-ubuntu-focal-20240427	
@@ -25837,7 +25847,7 @@
 26.2.5.1-debian-bookworm-20260421-slim	
 26.2.5.1-debian-bookworm-20260505	
 26.2.5.1-debian-bookworm-20260505-slim	
-26.2.5.1-debian-bookworm-20260518	amd64,arm64
+26.2.5.1-debian-bookworm-20260518	
 26.2.5.1-debian-bookworm-20260518-slim	amd64,arm64
 26.2.5.1-debian-bookworm-20260610	amd64,arm64
 26.2.5.1-debian-bookworm-20260610-slim	amd64,arm64
@@ -25871,8 +25881,8 @@
 26.2.5.1-debian-bullseye-20260421-slim	
 26.2.5.1-debian-bullseye-20260505	
 26.2.5.1-debian-bullseye-20260505-slim	
-26.2.5.1-debian-bullseye-20260518	amd64,arm64
-26.2.5.1-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.1-debian-bullseye-20260518	
+26.2.5.1-debian-bullseye-20260518-slim	
 26.2.5.1-debian-bullseye-20260610	amd64,arm64
 26.2.5.1-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.1-debian-buster-20240612	
@@ -25903,8 +25913,8 @@
 26.2.5.1-debian-trixie-20260421-slim	
 26.2.5.1-debian-trixie-20260505	
 26.2.5.1-debian-trixie-20260505-slim	
-26.2.5.1-debian-trixie-20260518	amd64,arm64
-26.2.5.1-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.1-debian-trixie-20260518	
+26.2.5.1-debian-trixie-20260518-slim	
 26.2.5.1-debian-trixie-20260610	amd64,arm64
 26.2.5.1-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.1-ubuntu-focal-20240530	
@@ -25974,8 +25984,8 @@
 26.2.5.10-debian-bookworm-20260421-slim	
 26.2.5.10-debian-bookworm-20260505	
 26.2.5.10-debian-bookworm-20260505-slim	
-26.2.5.10-debian-bookworm-20260518	amd64,arm64
-26.2.5.10-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.10-debian-bookworm-20260518	
+26.2.5.10-debian-bookworm-20260518-slim	
 26.2.5.10-debian-bookworm-20260610	amd64,arm64
 26.2.5.10-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.10-debian-bullseye-20250317	
@@ -26008,8 +26018,8 @@
 26.2.5.10-debian-bullseye-20260421-slim	amd64,arm64
 26.2.5.10-debian-bullseye-20260505	
 26.2.5.10-debian-bullseye-20260505-slim	
-26.2.5.10-debian-bullseye-20260518	amd64,arm64
-26.2.5.10-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.10-debian-bullseye-20260518	
+26.2.5.10-debian-bullseye-20260518-slim	
 26.2.5.10-debian-bullseye-20260610	amd64,arm64
 26.2.5.10-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.10-debian-buster-20240612	
@@ -26040,8 +26050,8 @@
 26.2.5.10-debian-trixie-20260421-slim	
 26.2.5.10-debian-trixie-20260505	
 26.2.5.10-debian-trixie-20260505-slim	
-26.2.5.10-debian-trixie-20260518	amd64,arm64
-26.2.5.10-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.10-debian-trixie-20260518	
+26.2.5.10-debian-trixie-20260518-slim	
 26.2.5.10-debian-trixie-20260610	amd64,arm64
 26.2.5.10-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.10-ubuntu-focal-20241011	
@@ -26113,8 +26123,8 @@
 26.2.5.11-debian-bookworm-20260421-slim	
 26.2.5.11-debian-bookworm-20260505	
 26.2.5.11-debian-bookworm-20260505-slim	
-26.2.5.11-debian-bookworm-20260518	amd64,arm64
-26.2.5.11-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.11-debian-bookworm-20260518	
+26.2.5.11-debian-bookworm-20260518-slim	
 26.2.5.11-debian-bookworm-20260610	amd64,arm64
 26.2.5.11-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.11-debian-bullseye-20250407	
@@ -26147,8 +26157,8 @@
 26.2.5.11-debian-bullseye-20260421-slim	
 26.2.5.11-debian-bullseye-20260505	
 26.2.5.11-debian-bullseye-20260505-slim	
-26.2.5.11-debian-bullseye-20260518	amd64,arm64
-26.2.5.11-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.11-debian-bullseye-20260518	
+26.2.5.11-debian-bullseye-20260518-slim	
 26.2.5.11-debian-bullseye-20260610	amd64,arm64
 26.2.5.11-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.11-debian-buster-20240612	
@@ -26179,8 +26189,8 @@
 26.2.5.11-debian-trixie-20260421-slim	
 26.2.5.11-debian-trixie-20260505	
 26.2.5.11-debian-trixie-20260505-slim	
-26.2.5.11-debian-trixie-20260518	amd64,arm64
-26.2.5.11-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.11-debian-trixie-20260518	
+26.2.5.11-debian-trixie-20260518-slim	amd64
 26.2.5.11-debian-trixie-20260610	amd64,arm64
 26.2.5.11-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.11-ubuntu-focal-20250404	
@@ -26252,8 +26262,8 @@
 26.2.5.12-debian-bookworm-20260421-slim	
 26.2.5.12-debian-bookworm-20260505	
 26.2.5.12-debian-bookworm-20260505-slim	
-26.2.5.12-debian-bookworm-20260518	amd64,arm64
-26.2.5.12-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.12-debian-bookworm-20260518	
+26.2.5.12-debian-bookworm-20260518-slim	
 26.2.5.12-debian-bookworm-20260610	amd64,arm64
 26.2.5.12-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.12-debian-bullseye-20250428	
@@ -26288,8 +26298,8 @@
 26.2.5.12-debian-bullseye-20260421-slim	
 26.2.5.12-debian-bullseye-20260505	
 26.2.5.12-debian-bullseye-20260505-slim	
-26.2.5.12-debian-bullseye-20260518	amd64,arm64
-26.2.5.12-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.12-debian-bullseye-20260518	
+26.2.5.12-debian-bullseye-20260518-slim	
 26.2.5.12-debian-bullseye-20260610	amd64,arm64
 26.2.5.12-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.12-debian-buster-20240612	
@@ -26320,8 +26330,8 @@
 26.2.5.12-debian-trixie-20260421-slim	
 26.2.5.12-debian-trixie-20260505	
 26.2.5.12-debian-trixie-20260505-slim	
-26.2.5.12-debian-trixie-20260518	amd64,arm64
-26.2.5.12-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.12-debian-trixie-20260518	
+26.2.5.12-debian-trixie-20260518-slim	
 26.2.5.12-debian-trixie-20260610	amd64,arm64
 26.2.5.12-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.12-ubuntu-focal-20250404	
@@ -26397,8 +26407,8 @@
 26.2.5.13-debian-bookworm-20260421-slim	
 26.2.5.13-debian-bookworm-20260505	
 26.2.5.13-debian-bookworm-20260505-slim	
-26.2.5.13-debian-bookworm-20260518	amd64,arm64
-26.2.5.13-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.13-debian-bookworm-20260518	
+26.2.5.13-debian-bookworm-20260518-slim	
 26.2.5.13-debian-bookworm-20260610	amd64,arm64
 26.2.5.13-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.13-debian-bullseye-20250610	
@@ -26431,8 +26441,8 @@
 26.2.5.13-debian-bullseye-20260421-slim	
 26.2.5.13-debian-bullseye-20260505	
 26.2.5.13-debian-bullseye-20260505-slim	
-26.2.5.13-debian-bullseye-20260518	amd64,arm64
-26.2.5.13-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.13-debian-bullseye-20260518	
+26.2.5.13-debian-bullseye-20260518-slim	
 26.2.5.13-debian-bullseye-20260610	amd64,arm64
 26.2.5.13-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.13-debian-buster-20240612	
@@ -26463,8 +26473,8 @@
 26.2.5.13-debian-trixie-20260421-slim	
 26.2.5.13-debian-trixie-20260505	
 26.2.5.13-debian-trixie-20260505-slim	
-26.2.5.13-debian-trixie-20260518	amd64,arm64
-26.2.5.13-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.13-debian-trixie-20260518	
+26.2.5.13-debian-trixie-20260518-slim	
 26.2.5.13-debian-trixie-20260610	amd64,arm64
 26.2.5.13-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.13-ubuntu-focal-20250404	
@@ -26541,8 +26551,8 @@
 26.2.5.14-debian-bookworm-20260421-slim	
 26.2.5.14-debian-bookworm-20260505	
 26.2.5.14-debian-bookworm-20260505-slim	
-26.2.5.14-debian-bookworm-20260518	amd64,arm64
-26.2.5.14-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.14-debian-bookworm-20260518	
+26.2.5.14-debian-bookworm-20260518-slim	
 26.2.5.14-debian-bookworm-20260610	amd64,arm64
 26.2.5.14-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.14-debian-bullseye-20250630	
@@ -26579,8 +26589,8 @@
 26.2.5.14-debian-bullseye-20260421-slim	
 26.2.5.14-debian-bullseye-20260505	
 26.2.5.14-debian-bullseye-20260505-slim	
-26.2.5.14-debian-bullseye-20260518	amd64,arm64
-26.2.5.14-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.14-debian-bullseye-20260518	
+26.2.5.14-debian-bullseye-20260518-slim	
 26.2.5.14-debian-bullseye-20260610	amd64,arm64
 26.2.5.14-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.14-debian-trixie-20250721	
@@ -26615,8 +26625,8 @@
 26.2.5.14-debian-trixie-20260421-slim	
 26.2.5.14-debian-trixie-20260505	
 26.2.5.14-debian-trixie-20260505-slim	
-26.2.5.14-debian-trixie-20260518	amd64,arm64
-26.2.5.14-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.14-debian-trixie-20260518	
+26.2.5.14-debian-trixie-20260518-slim	
 26.2.5.14-debian-trixie-20260610	amd64,arm64
 26.2.5.14-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.14-ubuntu-focal-20250404	
@@ -26687,8 +26697,8 @@
 26.2.5.15-debian-bookworm-20260421-slim	
 26.2.5.15-debian-bookworm-20260505	
 26.2.5.15-debian-bookworm-20260505-slim	
-26.2.5.15-debian-bookworm-20260518	amd64,arm64
-26.2.5.15-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.15-debian-bookworm-20260518	
+26.2.5.15-debian-bookworm-20260518-slim	
 26.2.5.15-debian-bookworm-20260610	amd64,arm64
 26.2.5.15-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.15-debian-bullseye-20250908	
@@ -26719,8 +26729,8 @@
 26.2.5.15-debian-bullseye-20260421-slim	
 26.2.5.15-debian-bullseye-20260505	
 26.2.5.15-debian-bullseye-20260505-slim	
-26.2.5.15-debian-bullseye-20260518	amd64,arm64
-26.2.5.15-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.15-debian-bullseye-20260518	
+26.2.5.15-debian-bullseye-20260518-slim	
 26.2.5.15-debian-bullseye-20260610	amd64,arm64
 26.2.5.15-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.15-debian-trixie-20250908	
@@ -26751,8 +26761,8 @@
 26.2.5.15-debian-trixie-20260421-slim	
 26.2.5.15-debian-trixie-20260505	
 26.2.5.15-debian-trixie-20260505-slim	
-26.2.5.15-debian-trixie-20260518	amd64,arm64
-26.2.5.15-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.15-debian-trixie-20260518	
+26.2.5.15-debian-trixie-20260518-slim	
 26.2.5.15-debian-trixie-20260610	amd64,arm64
 26.2.5.15-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.15-ubuntu-focal-20250404	
@@ -26811,8 +26821,8 @@
 26.2.5.16-debian-bookworm-20260421-slim	
 26.2.5.16-debian-bookworm-20260505	
 26.2.5.16-debian-bookworm-20260505-slim	
-26.2.5.16-debian-bookworm-20260518	amd64,arm64
-26.2.5.16-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.16-debian-bookworm-20260518	
+26.2.5.16-debian-bookworm-20260518-slim	
 26.2.5.16-debian-bookworm-20260610	amd64,arm64
 26.2.5.16-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.16-debian-bullseye-20251103	
@@ -26837,8 +26847,8 @@
 26.2.5.16-debian-bullseye-20260421-slim	
 26.2.5.16-debian-bullseye-20260505	
 26.2.5.16-debian-bullseye-20260505-slim	
-26.2.5.16-debian-bullseye-20260518	amd64,arm64
-26.2.5.16-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.16-debian-bullseye-20260518	
+26.2.5.16-debian-bullseye-20260518-slim	
 26.2.5.16-debian-bullseye-20260610	amd64,arm64
 26.2.5.16-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.16-debian-trixie-20251103	
@@ -26863,8 +26873,8 @@
 26.2.5.16-debian-trixie-20260421-slim	
 26.2.5.16-debian-trixie-20260505	
 26.2.5.16-debian-trixie-20260505-slim	
-26.2.5.16-debian-trixie-20260518	amd64,arm64
-26.2.5.16-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.16-debian-trixie-20260518	
+26.2.5.16-debian-trixie-20260518-slim	
 26.2.5.16-debian-trixie-20260610	amd64,arm64
 26.2.5.16-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.16-ubuntu-focal-20250404	
@@ -26903,8 +26913,8 @@
 26.2.5.17-debian-bookworm-20260421-slim	
 26.2.5.17-debian-bookworm-20260505	
 26.2.5.17-debian-bookworm-20260505-slim	amd64,arm64
-26.2.5.17-debian-bookworm-20260518	amd64,arm64
-26.2.5.17-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.17-debian-bookworm-20260518	
+26.2.5.17-debian-bookworm-20260518-slim	
 26.2.5.17-debian-bookworm-20260610	amd64,arm64
 26.2.5.17-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.17-debian-bullseye-20260202	
@@ -26919,8 +26929,8 @@
 26.2.5.17-debian-bullseye-20260421-slim	
 26.2.5.17-debian-bullseye-20260505	
 26.2.5.17-debian-bullseye-20260505-slim	
-26.2.5.17-debian-bullseye-20260518	amd64,arm64
-26.2.5.17-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.17-debian-bullseye-20260518	
+26.2.5.17-debian-bullseye-20260518-slim	
 26.2.5.17-debian-bullseye-20260610	amd64,arm64
 26.2.5.17-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.17-debian-trixie-20260202	
@@ -26935,8 +26945,8 @@
 26.2.5.17-debian-trixie-20260421-slim	
 26.2.5.17-debian-trixie-20260505	
 26.2.5.17-debian-trixie-20260505-slim	
-26.2.5.17-debian-trixie-20260518	amd64,arm64
-26.2.5.17-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.17-debian-trixie-20260518	
+26.2.5.17-debian-trixie-20260518-slim	
 26.2.5.17-debian-trixie-20260610	amd64,arm64
 26.2.5.17-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.17-ubuntu-focal-20250404	
@@ -26968,8 +26978,8 @@
 26.2.5.18-debian-bookworm-20260421-slim	
 26.2.5.18-debian-bookworm-20260505	
 26.2.5.18-debian-bookworm-20260505-slim	
-26.2.5.18-debian-bookworm-20260518	amd64,arm64
-26.2.5.18-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.18-debian-bookworm-20260518	
+26.2.5.18-debian-bookworm-20260518-slim	
 26.2.5.18-debian-bookworm-20260610	amd64,arm64
 26.2.5.18-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.18-debian-bullseye-20260223	
@@ -26982,8 +26992,8 @@
 26.2.5.18-debian-bullseye-20260421-slim	
 26.2.5.18-debian-bullseye-20260505	
 26.2.5.18-debian-bullseye-20260505-slim	
-26.2.5.18-debian-bullseye-20260518	amd64,arm64
-26.2.5.18-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.18-debian-bullseye-20260518	
+26.2.5.18-debian-bullseye-20260518-slim	
 26.2.5.18-debian-bullseye-20260610	amd64,arm64
 26.2.5.18-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.18-debian-trixie-20260223	
@@ -26996,8 +27006,8 @@
 26.2.5.18-debian-trixie-20260421-slim	
 26.2.5.18-debian-trixie-20260505	
 26.2.5.18-debian-trixie-20260505-slim	
-26.2.5.18-debian-trixie-20260518	amd64,arm64
-26.2.5.18-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.18-debian-trixie-20260518	
+26.2.5.18-debian-trixie-20260518-slim	
 26.2.5.18-debian-trixie-20260610	amd64,arm64
 26.2.5.18-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.18-ubuntu-focal-20250404	
@@ -27025,8 +27035,8 @@
 26.2.5.19-debian-bookworm-20260421-slim	
 26.2.5.19-debian-bookworm-20260505	
 26.2.5.19-debian-bookworm-20260505-slim	
-26.2.5.19-debian-bookworm-20260518	amd64,arm64
-26.2.5.19-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.19-debian-bookworm-20260518	
+26.2.5.19-debian-bookworm-20260518-slim	
 26.2.5.19-debian-bookworm-20260610	amd64,arm64
 26.2.5.19-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.19-debian-bullseye-20260406	
@@ -27035,8 +27045,8 @@
 26.2.5.19-debian-bullseye-20260421-slim	
 26.2.5.19-debian-bullseye-20260505	
 26.2.5.19-debian-bullseye-20260505-slim	
-26.2.5.19-debian-bullseye-20260518	amd64,arm64
-26.2.5.19-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.19-debian-bullseye-20260518	
+26.2.5.19-debian-bullseye-20260518-slim	
 26.2.5.19-debian-bullseye-20260610	amd64,arm64
 26.2.5.19-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.19-debian-trixie-20260406	
@@ -27045,8 +27055,8 @@
 26.2.5.19-debian-trixie-20260421-slim	
 26.2.5.19-debian-trixie-20260505	
 26.2.5.19-debian-trixie-20260505-slim	
-26.2.5.19-debian-trixie-20260518	amd64,arm64
-26.2.5.19-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.19-debian-trixie-20260518	
+26.2.5.19-debian-trixie-20260518-slim	
 26.2.5.19-debian-trixie-20260610	amd64,arm64
 26.2.5.19-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.19-ubuntu-focal-20250404	
@@ -27113,8 +27123,8 @@
 26.2.5.2-debian-bookworm-20260421-slim	
 26.2.5.2-debian-bookworm-20260505	
 26.2.5.2-debian-bookworm-20260505-slim	
-26.2.5.2-debian-bookworm-20260518	amd64,arm64
-26.2.5.2-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.2-debian-bookworm-20260518	
+26.2.5.2-debian-bookworm-20260518-slim	
 26.2.5.2-debian-bookworm-20260610	amd64,arm64
 26.2.5.2-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.2-debian-bullseye-20240701	
@@ -27151,8 +27161,8 @@
 26.2.5.2-debian-bullseye-20260421-slim	
 26.2.5.2-debian-bullseye-20260505	amd64,arm64
 26.2.5.2-debian-bullseye-20260505-slim	
-26.2.5.2-debian-bullseye-20260518	amd64,arm64
-26.2.5.2-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.2-debian-bullseye-20260518	
+26.2.5.2-debian-bullseye-20260518-slim	
 26.2.5.2-debian-bullseye-20260610	amd64,arm64
 26.2.5.2-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.2-debian-buster-20240612	
@@ -27183,8 +27193,8 @@
 26.2.5.2-debian-trixie-20260421-slim	
 26.2.5.2-debian-trixie-20260505	
 26.2.5.2-debian-trixie-20260505-slim	
-26.2.5.2-debian-trixie-20260518	amd64,arm64
-26.2.5.2-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.2-debian-trixie-20260518	
+26.2.5.2-debian-trixie-20260518-slim	
 26.2.5.2-debian-trixie-20260610	amd64,arm64
 26.2.5.2-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.2-ubuntu-focal-20240530	
@@ -27219,8 +27229,8 @@
 26.2.5.20-debian-bookworm-20260421-slim	
 26.2.5.20-debian-bookworm-20260505	
 26.2.5.20-debian-bookworm-20260505-slim	
-26.2.5.20-debian-bookworm-20260518	amd64,arm64
-26.2.5.20-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.20-debian-bookworm-20260518	
+26.2.5.20-debian-bookworm-20260518-slim	
 26.2.5.20-debian-bookworm-20260610	amd64,arm64
 26.2.5.20-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.20-debian-bullseye-20260406	
@@ -27229,8 +27239,8 @@
 26.2.5.20-debian-bullseye-20260421-slim	
 26.2.5.20-debian-bullseye-20260505	
 26.2.5.20-debian-bullseye-20260505-slim	
-26.2.5.20-debian-bullseye-20260518	amd64,arm64
-26.2.5.20-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.20-debian-bullseye-20260518	
+26.2.5.20-debian-bullseye-20260518-slim	
 26.2.5.20-debian-bullseye-20260610	amd64,arm64
 26.2.5.20-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.20-debian-trixie-20260406	
@@ -27239,8 +27249,8 @@
 26.2.5.20-debian-trixie-20260421-slim	
 26.2.5.20-debian-trixie-20260505	
 26.2.5.20-debian-trixie-20260505-slim	
-26.2.5.20-debian-trixie-20260518	amd64,arm64
-26.2.5.20-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.20-debian-trixie-20260518	
+26.2.5.20-debian-trixie-20260518-slim	
 26.2.5.20-debian-trixie-20260610	amd64,arm64
 26.2.5.20-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.20-ubuntu-focal-20250404	
@@ -27253,7 +27263,9 @@
 26.2.5.21-alpine-3.20.9	amd64,arm64
 26.2.5.21-alpine-3.21.7	amd64,arm64
 26.2.5.21-alpine-3.22.4	amd64,arm64
+26.2.5.21-alpine-3.22.5	amd64,arm64
 26.2.5.21-alpine-3.23.4	amd64,arm64
+26.2.5.21-alpine-3.23.5	amd64,arm64
 26.2.5.21-debian-bookworm-20260518	amd64,arm64
 26.2.5.21-debian-bookworm-20260518-slim	amd64,arm64
 26.2.5.21-debian-bookworm-20260610	amd64,arm64
@@ -27321,8 +27333,8 @@
 26.2.5.3-debian-bookworm-20260421-slim	amd64,arm64
 26.2.5.3-debian-bookworm-20260505	
 26.2.5.3-debian-bookworm-20260505-slim	
-26.2.5.3-debian-bookworm-20260518	amd64,arm64
-26.2.5.3-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.3-debian-bookworm-20260518	
+26.2.5.3-debian-bookworm-20260518-slim	amd64
 26.2.5.3-debian-bookworm-20260610	amd64,arm64
 26.2.5.3-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.3-debian-bullseye-20240904	
@@ -27355,8 +27367,8 @@
 26.2.5.3-debian-bullseye-20260421-slim	
 26.2.5.3-debian-bullseye-20260505	
 26.2.5.3-debian-bullseye-20260505-slim	amd64,arm64
-26.2.5.3-debian-bullseye-20260518	amd64,arm64
-26.2.5.3-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.3-debian-bullseye-20260518	
+26.2.5.3-debian-bullseye-20260518-slim	
 26.2.5.3-debian-bullseye-20260610	amd64,arm64
 26.2.5.3-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.3-debian-buster-20240612	
@@ -27388,7 +27400,7 @@
 26.2.5.3-debian-trixie-20260505	
 26.2.5.3-debian-trixie-20260505-slim	
 26.2.5.3-debian-trixie-20260518	amd64,arm64
-26.2.5.3-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.3-debian-trixie-20260518-slim	
 26.2.5.3-debian-trixie-20260610	amd64,arm64
 26.2.5.3-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.3-ubuntu-focal-20240530	
@@ -27459,8 +27471,8 @@
 26.2.5.4-debian-bookworm-20260421-slim	
 26.2.5.4-debian-bookworm-20260505	
 26.2.5.4-debian-bookworm-20260505-slim	
-26.2.5.4-debian-bookworm-20260518	amd64,arm64
-26.2.5.4-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.4-debian-bookworm-20260518	
+26.2.5.4-debian-bookworm-20260518-slim	amd64
 26.2.5.4-debian-bookworm-20260610	amd64,arm64
 26.2.5.4-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.4-debian-bullseye-20240926	
@@ -27525,8 +27537,8 @@
 26.2.5.4-debian-trixie-20260421-slim	
 26.2.5.4-debian-trixie-20260505	
 26.2.5.4-debian-trixie-20260505-slim	
-26.2.5.4-debian-trixie-20260518	amd64,arm64
-26.2.5.4-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.4-debian-trixie-20260518	
+26.2.5.4-debian-trixie-20260518-slim	
 26.2.5.4-debian-trixie-20260610	amd64,arm64
 26.2.5.4-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.4-ubuntu-focal-20240918	
@@ -27601,8 +27613,8 @@
 26.2.5.5-debian-bookworm-20260421-slim	
 26.2.5.5-debian-bookworm-20260505	
 26.2.5.5-debian-bookworm-20260505-slim	
-26.2.5.5-debian-bookworm-20260518	amd64,arm64
-26.2.5.5-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.5-debian-bookworm-20260518	
+26.2.5.5-debian-bookworm-20260518-slim	
 26.2.5.5-debian-bookworm-20260610	amd64,arm64
 26.2.5.5-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.5-debian-bullseye-20241016	
@@ -27637,8 +27649,8 @@
 26.2.5.5-debian-bullseye-20260421-slim	
 26.2.5.5-debian-bullseye-20260505	
 26.2.5.5-debian-bullseye-20260505-slim	
-26.2.5.5-debian-bullseye-20260518	amd64,arm64
-26.2.5.5-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.5-debian-bullseye-20260518	
+26.2.5.5-debian-bullseye-20260518-slim	
 26.2.5.5-debian-bullseye-20260610	amd64,arm64
 26.2.5.5-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.5-debian-buster-20240612	
@@ -27669,8 +27681,8 @@
 26.2.5.5-debian-trixie-20260421-slim	
 26.2.5.5-debian-trixie-20260505	
 26.2.5.5-debian-trixie-20260505-slim	
-26.2.5.5-debian-trixie-20260518	amd64,arm64
-26.2.5.5-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.5-debian-trixie-20260518	
+26.2.5.5-debian-trixie-20260518-slim	
 26.2.5.5-debian-trixie-20260610	amd64,arm64
 26.2.5.5-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.5-ubuntu-focal-20241011	
@@ -27750,8 +27762,8 @@
 26.2.5.6-debian-bookworm-20260421-slim	
 26.2.5.6-debian-bookworm-20260505	amd64,arm64
 26.2.5.6-debian-bookworm-20260505-slim	
-26.2.5.6-debian-bookworm-20260518	amd64,arm64
-26.2.5.6-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.6-debian-bookworm-20260518	
+26.2.5.6-debian-bookworm-20260518-slim	
 26.2.5.6-debian-bookworm-20260610	amd64,arm64
 26.2.5.6-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.6-debian-bullseye-20241202	
@@ -27786,8 +27798,8 @@
 26.2.5.6-debian-bullseye-20260421-slim	
 26.2.5.6-debian-bullseye-20260505	
 26.2.5.6-debian-bullseye-20260505-slim	amd64,arm64
-26.2.5.6-debian-bullseye-20260518	amd64,arm64
-26.2.5.6-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.6-debian-bullseye-20260518	
+26.2.5.6-debian-bullseye-20260518-slim	
 26.2.5.6-debian-bullseye-20260610	amd64,arm64
 26.2.5.6-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.6-debian-buster-20240612	
@@ -27818,8 +27830,8 @@
 26.2.5.6-debian-trixie-20260421-slim	
 26.2.5.6-debian-trixie-20260505	
 26.2.5.6-debian-trixie-20260505-slim	
-26.2.5.6-debian-trixie-20260518	amd64,arm64
-26.2.5.6-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.6-debian-trixie-20260518	
+26.2.5.6-debian-trixie-20260518-slim	amd64
 26.2.5.6-debian-trixie-20260610	amd64,arm64
 26.2.5.6-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.6-ubuntu-focal-20241011	
@@ -27890,8 +27902,8 @@
 26.2.5.7-debian-bookworm-20260421-slim	
 26.2.5.7-debian-bookworm-20260505	
 26.2.5.7-debian-bookworm-20260505-slim	
-26.2.5.7-debian-bookworm-20260518	amd64,arm64
-26.2.5.7-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.7-debian-bookworm-20260518	arm64
+26.2.5.7-debian-bookworm-20260518-slim	
 26.2.5.7-debian-bookworm-20260610	amd64,arm64
 26.2.5.7-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.7-debian-bullseye-20250113	
@@ -27924,8 +27936,8 @@
 26.2.5.7-debian-bullseye-20260421-slim	
 26.2.5.7-debian-bullseye-20260505	
 26.2.5.7-debian-bullseye-20260505-slim	
-26.2.5.7-debian-bullseye-20260518	amd64,arm64
-26.2.5.7-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.7-debian-bullseye-20260518	
+26.2.5.7-debian-bullseye-20260518-slim	
 26.2.5.7-debian-bullseye-20260610	amd64,arm64
 26.2.5.7-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.7-debian-buster-20240612	
@@ -27956,8 +27968,8 @@
 26.2.5.7-debian-trixie-20260421-slim	
 26.2.5.7-debian-trixie-20260505	
 26.2.5.7-debian-trixie-20260505-slim	
-26.2.5.7-debian-trixie-20260518	amd64,arm64
-26.2.5.7-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.7-debian-trixie-20260518	arm64
+26.2.5.7-debian-trixie-20260518-slim	arm64
 26.2.5.7-debian-trixie-20260610	amd64,arm64
 26.2.5.7-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.7-ubuntu-focal-20241011	
@@ -28030,8 +28042,8 @@
 26.2.5.8-debian-bookworm-20260421-slim	
 26.2.5.8-debian-bookworm-20260505	
 26.2.5.8-debian-bookworm-20260505-slim	
-26.2.5.8-debian-bookworm-20260518	amd64,arm64
-26.2.5.8-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.8-debian-bookworm-20260518	
+26.2.5.8-debian-bookworm-20260518-slim	
 26.2.5.8-debian-bookworm-20260610	amd64,arm64
 26.2.5.8-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.8-debian-bullseye-20250203	
@@ -28062,7 +28074,7 @@
 26.2.5.8-debian-bullseye-20260421-slim	
 26.2.5.8-debian-bullseye-20260505	
 26.2.5.8-debian-bullseye-20260505-slim	
-26.2.5.8-debian-bullseye-20260518	amd64,arm64
+26.2.5.8-debian-bullseye-20260518	
 26.2.5.8-debian-bullseye-20260518-slim	amd64,arm64
 26.2.5.8-debian-bullseye-20260610	amd64,arm64
 26.2.5.8-debian-bullseye-20260610-slim	amd64,arm64
@@ -28094,8 +28106,8 @@
 26.2.5.8-debian-trixie-20260421-slim	
 26.2.5.8-debian-trixie-20260505	
 26.2.5.8-debian-trixie-20260505-slim	
-26.2.5.8-debian-trixie-20260518	amd64,arm64
-26.2.5.8-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.8-debian-trixie-20260518	amd64
+26.2.5.8-debian-trixie-20260518-slim	
 26.2.5.8-debian-trixie-20260610	amd64,arm64
 26.2.5.8-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.8-ubuntu-focal-20241011	
@@ -28167,8 +28179,8 @@
 26.2.5.9-debian-bookworm-20260421-slim	
 26.2.5.9-debian-bookworm-20260505	
 26.2.5.9-debian-bookworm-20260505-slim	
-26.2.5.9-debian-bookworm-20260518	amd64,arm64
-26.2.5.9-debian-bookworm-20260518-slim	amd64,arm64
+26.2.5.9-debian-bookworm-20260518	amd64
+26.2.5.9-debian-bookworm-20260518-slim	
 26.2.5.9-debian-bookworm-20260610	amd64,arm64
 26.2.5.9-debian-bookworm-20260610-slim	amd64,arm64
 26.2.5.9-debian-bullseye-20250203	
@@ -28203,8 +28215,8 @@
 26.2.5.9-debian-bullseye-20260421-slim	
 26.2.5.9-debian-bullseye-20260505	
 26.2.5.9-debian-bullseye-20260505-slim	
-26.2.5.9-debian-bullseye-20260518	amd64,arm64
-26.2.5.9-debian-bullseye-20260518-slim	amd64,arm64
+26.2.5.9-debian-bullseye-20260518	amd64
+26.2.5.9-debian-bullseye-20260518-slim	amd64
 26.2.5.9-debian-bullseye-20260610	amd64,arm64
 26.2.5.9-debian-bullseye-20260610-slim	amd64,arm64
 26.2.5.9-debian-buster-20240612	
@@ -28235,8 +28247,8 @@
 26.2.5.9-debian-trixie-20260421-slim	
 26.2.5.9-debian-trixie-20260505	
 26.2.5.9-debian-trixie-20260505-slim	
-26.2.5.9-debian-trixie-20260518	amd64,arm64
-26.2.5.9-debian-trixie-20260518-slim	amd64,arm64
+26.2.5.9-debian-trixie-20260518	
+26.2.5.9-debian-trixie-20260518-slim	
 26.2.5.9-debian-trixie-20260610	amd64,arm64
 26.2.5.9-debian-trixie-20260610-slim	amd64,arm64
 26.2.5.9-ubuntu-focal-20241011	
@@ -28440,8 +28452,8 @@
 27.0-rc1-debian-bookworm-20260421-slim	
 27.0-rc1-debian-bookworm-20260505	
 27.0-rc1-debian-bookworm-20260505-slim	
-27.0-rc1-debian-bookworm-20260518	amd64,arm64
-27.0-rc1-debian-bookworm-20260518-slim	amd64,arm64
+27.0-rc1-debian-bookworm-20260518	
+27.0-rc1-debian-bookworm-20260518-slim	
 27.0-rc1-debian-bookworm-20260610	amd64,arm64
 27.0-rc1-debian-bookworm-20260610-slim	amd64,arm64
 27.0-rc1-debian-bullseye-20240130	
@@ -28480,8 +28492,8 @@
 27.0-rc1-debian-bullseye-20260421-slim	
 27.0-rc1-debian-bullseye-20260505	
 27.0-rc1-debian-bullseye-20260505-slim	
-27.0-rc1-debian-bullseye-20260518	amd64,arm64
-27.0-rc1-debian-bullseye-20260518-slim	amd64,arm64
+27.0-rc1-debian-bullseye-20260518	
+27.0-rc1-debian-bullseye-20260518-slim	
 27.0-rc1-debian-bullseye-20260610	amd64,arm64
 27.0-rc1-debian-bullseye-20260610-slim	amd64,arm64
 27.0-rc1-debian-buster-20240130	
@@ -28520,8 +28532,8 @@
 27.0-rc1-debian-trixie-20260421-slim	
 27.0-rc1-debian-trixie-20260505	
 27.0-rc1-debian-trixie-20260505-slim	
-27.0-rc1-debian-trixie-20260518	amd64,arm64
-27.0-rc1-debian-trixie-20260518-slim	amd64,arm64
+27.0-rc1-debian-trixie-20260518	
+27.0-rc1-debian-trixie-20260518-slim	
 27.0-rc1-debian-trixie-20260610	amd64,arm64
 27.0-rc1-debian-trixie-20260610-slim	amd64,arm64
 27.0-rc1-ubuntu-focal-20240123	
@@ -28590,8 +28602,8 @@
 27.0-rc2-debian-bookworm-20260421-slim	
 27.0-rc2-debian-bookworm-20260505	
 27.0-rc2-debian-bookworm-20260505-slim	
-27.0-rc2-debian-bookworm-20260518	amd64,arm64
-27.0-rc2-debian-bookworm-20260518-slim	amd64,arm64
+27.0-rc2-debian-bookworm-20260518	
+27.0-rc2-debian-bookworm-20260518-slim	
 27.0-rc2-debian-bookworm-20260610	amd64,arm64
 27.0-rc2-debian-bookworm-20260610-slim	amd64,arm64
 27.0-rc2-debian-bullseye-20250929	
@@ -28620,8 +28632,8 @@
 27.0-rc2-debian-bullseye-20260421-slim	
 27.0-rc2-debian-bullseye-20260505	
 27.0-rc2-debian-bullseye-20260505-slim	
-27.0-rc2-debian-bullseye-20260518	amd64,arm64
-27.0-rc2-debian-bullseye-20260518-slim	amd64,arm64
+27.0-rc2-debian-bullseye-20260518	
+27.0-rc2-debian-bullseye-20260518-slim	
 27.0-rc2-debian-bullseye-20260610	amd64,arm64
 27.0-rc2-debian-bullseye-20260610-slim	amd64,arm64
 27.0-rc2-debian-trixie-20250929	
@@ -28650,8 +28662,8 @@
 27.0-rc2-debian-trixie-20260421-slim	
 27.0-rc2-debian-trixie-20260505	
 27.0-rc2-debian-trixie-20260505-slim	
-27.0-rc2-debian-trixie-20260518	amd64,arm64
-27.0-rc2-debian-trixie-20260518-slim	amd64,arm64
+27.0-rc2-debian-trixie-20260518	
+27.0-rc2-debian-trixie-20260518-slim	
 27.0-rc2-debian-trixie-20260610	amd64,arm64
 27.0-rc2-debian-trixie-20260610-slim	amd64,arm64
 27.0-rc2-ubuntu-focal-20250404	
@@ -28710,8 +28722,8 @@
 27.0-rc3-debian-bookworm-20260421-slim	
 27.0-rc3-debian-bookworm-20260505	
 27.0-rc3-debian-bookworm-20260505-slim	
-27.0-rc3-debian-bookworm-20260518	amd64,arm64
-27.0-rc3-debian-bookworm-20260518-slim	amd64,arm64
+27.0-rc3-debian-bookworm-20260518	
+27.0-rc3-debian-bookworm-20260518-slim	
 27.0-rc3-debian-bookworm-20260610	amd64,arm64
 27.0-rc3-debian-bookworm-20260610-slim	amd64,arm64
 27.0-rc3-debian-bullseye-20250929	
@@ -28740,8 +28752,8 @@
 27.0-rc3-debian-bullseye-20260421-slim	
 27.0-rc3-debian-bullseye-20260505	
 27.0-rc3-debian-bullseye-20260505-slim	
-27.0-rc3-debian-bullseye-20260518	amd64,arm64
-27.0-rc3-debian-bullseye-20260518-slim	amd64,arm64
+27.0-rc3-debian-bullseye-20260518	
+27.0-rc3-debian-bullseye-20260518-slim	
 27.0-rc3-debian-bullseye-20260610	amd64,arm64
 27.0-rc3-debian-bullseye-20260610-slim	amd64,arm64
 27.0-rc3-debian-trixie-20250929	
@@ -28770,8 +28782,8 @@
 27.0-rc3-debian-trixie-20260421-slim	
 27.0-rc3-debian-trixie-20260505	
 27.0-rc3-debian-trixie-20260505-slim	
-27.0-rc3-debian-trixie-20260518	amd64,arm64
-27.0-rc3-debian-trixie-20260518-slim	amd64,arm64
+27.0-rc3-debian-trixie-20260518	
+27.0-rc3-debian-trixie-20260518-slim	
 27.0-rc3-debian-trixie-20260610	amd64,arm64
 27.0-rc3-debian-trixie-20260610-slim	amd64,arm64
 27.0-rc3-ubuntu-focal-20250404	
@@ -28850,10 +28862,12 @@
 27.0.1-alpine-3.22.2	
 27.0.1-alpine-3.22.3	
 27.0.1-alpine-3.22.4	
+27.0.1-alpine-3.22.5	amd64,arm64
 27.0.1-alpine-3.23.0	
 27.0.1-alpine-3.23.2	
 27.0.1-alpine-3.23.3	
 27.0.1-alpine-3.23.4	amd64
+27.0.1-alpine-3.23.5	amd64,arm64
 27.0.1-debian-bookworm-20240701	
 27.0.1-debian-bookworm-20240701-slim	
 27.0.1-debian-bookworm-20240722	
@@ -28923,7 +28937,7 @@
 27.0.1-debian-bookworm-20260505	
 27.0.1-debian-bookworm-20260505-slim	
 27.0.1-debian-bookworm-20260518	amd64,arm64
-27.0.1-debian-bookworm-20260518-slim	amd64,arm64
+27.0.1-debian-bookworm-20260518-slim	
 27.0.1-debian-bookworm-20260610	amd64,arm64
 27.0.1-debian-bookworm-20260610-slim	amd64,arm64
 27.0.1-debian-bullseye-20240701	
@@ -28994,8 +29008,8 @@
 27.0.1-debian-bullseye-20260421-slim	
 27.0.1-debian-bullseye-20260505	
 27.0.1-debian-bullseye-20260505-slim	
-27.0.1-debian-bullseye-20260518	amd64,arm64
-27.0.1-debian-bullseye-20260518-slim	amd64,arm64
+27.0.1-debian-bullseye-20260518	
+27.0.1-debian-bullseye-20260518-slim	
 27.0.1-debian-bullseye-20260610	amd64,arm64
 27.0.1-debian-bullseye-20260610-slim	amd64,arm64
 27.0.1-debian-buster-20240612	
@@ -29032,7 +29046,7 @@
 27.0.1-debian-trixie-20260421-slim	
 27.0.1-debian-trixie-20260505	
 27.0.1-debian-trixie-20260505-slim	
-27.0.1-debian-trixie-20260518	amd64,arm64
+27.0.1-debian-trixie-20260518	
 27.0.1-debian-trixie-20260518-slim	amd64,arm64
 27.0.1-debian-trixie-20260610	amd64,arm64
 27.0.1-debian-trixie-20260610-slim	amd64,arm64
@@ -29130,8 +29144,8 @@
 27.1-debian-bookworm-20260421-slim	
 27.1-debian-bookworm-20260505	
 27.1-debian-bookworm-20260505-slim	
-27.1-debian-bookworm-20260518	amd64,arm64
-27.1-debian-bookworm-20260518-slim	amd64,arm64
+27.1-debian-bookworm-20260518	
+27.1-debian-bookworm-20260518-slim	
 27.1-debian-bookworm-20260610	amd64,arm64
 27.1-debian-bookworm-20260610-slim	amd64,arm64
 27.1-debian-bullseye-20240904	
@@ -29165,7 +29179,7 @@
 27.1-debian-bullseye-20260505	
 27.1-debian-bullseye-20260505-slim	
 27.1-debian-bullseye-20260518	amd64,arm64
-27.1-debian-bullseye-20260518-slim	amd64,arm64
+27.1-debian-bullseye-20260518-slim	
 27.1-debian-bullseye-20260610	amd64,arm64
 27.1-debian-bullseye-20260610-slim	amd64,arm64
 27.1-debian-buster-20240612	
@@ -29196,8 +29210,8 @@
 27.1-debian-trixie-20260421-slim	
 27.1-debian-trixie-20260505	
 27.1-debian-trixie-20260505-slim	
-27.1-debian-trixie-20260518	amd64,arm64
-27.1-debian-trixie-20260518-slim	amd64,arm64
+27.1-debian-trixie-20260518	
+27.1-debian-trixie-20260518-slim	
 27.1-debian-trixie-20260610	amd64,arm64
 27.1-debian-trixie-20260610-slim	amd64,arm64
 27.1-ubuntu-focal-20240530	
@@ -29268,7 +29282,7 @@
 27.1.1-debian-bookworm-20260505	
 27.1.1-debian-bookworm-20260505-slim	
 27.1.1-debian-bookworm-20260518	amd64,arm64
-27.1.1-debian-bookworm-20260518-slim	amd64,arm64
+27.1.1-debian-bookworm-20260518-slim	
 27.1.1-debian-bookworm-20260610	amd64,arm64
 27.1.1-debian-bookworm-20260610-slim	amd64,arm64
 27.1.1-debian-bullseye-20240926	
@@ -29301,8 +29315,8 @@
 27.1.1-debian-bullseye-20260421-slim	
 27.1.1-debian-bullseye-20260505	
 27.1.1-debian-bullseye-20260505-slim	
-27.1.1-debian-bullseye-20260518	amd64,arm64
-27.1.1-debian-bullseye-20260518-slim	amd64,arm64
+27.1.1-debian-bullseye-20260518	
+27.1.1-debian-bullseye-20260518-slim	
 27.1.1-debian-bullseye-20260610	amd64,arm64
 27.1.1-debian-bullseye-20260610-slim	amd64,arm64
 27.1.1-debian-buster-20240612	
@@ -29334,7 +29348,7 @@
 27.1.1-debian-trixie-20260505	
 27.1.1-debian-trixie-20260505-slim	
 27.1.1-debian-trixie-20260518	amd64,arm64
-27.1.1-debian-trixie-20260518-slim	amd64,arm64
+27.1.1-debian-trixie-20260518-slim	
 27.1.1-debian-trixie-20260610	amd64,arm64
 27.1.1-debian-trixie-20260610-slim	amd64,arm64
 27.1.1-ubuntu-focal-20240530	
@@ -29410,8 +29424,8 @@
 27.1.2-debian-bookworm-20260421-slim	
 27.1.2-debian-bookworm-20260505	
 27.1.2-debian-bookworm-20260505-slim	
-27.1.2-debian-bookworm-20260518	amd64,arm64
-27.1.2-debian-bookworm-20260518-slim	amd64,arm64
+27.1.2-debian-bookworm-20260518	
+27.1.2-debian-bookworm-20260518-slim	
 27.1.2-debian-bookworm-20260610	amd64,arm64
 27.1.2-debian-bookworm-20260610-slim	amd64,arm64
 27.1.2-debian-bullseye-20241016	
@@ -29531,10 +29545,12 @@
 27.1.3-alpine-3.22.2	
 27.1.3-alpine-3.22.3	
 27.1.3-alpine-3.22.4	
+27.1.3-alpine-3.22.5	amd64,arm64
 27.1.3-alpine-3.23.0	
 27.1.3-alpine-3.23.2	
 27.1.3-alpine-3.23.3	
 27.1.3-alpine-3.23.4	
+27.1.3-alpine-3.23.5	amd64,arm64
 27.1.3-debian-bookworm-20241202	
 27.1.3-debian-bookworm-20241202-slim	
 27.1.3-debian-bookworm-20241223	
@@ -29589,7 +29605,7 @@
 27.1.3-debian-bookworm-20260421-slim	
 27.1.3-debian-bookworm-20260505	
 27.1.3-debian-bookworm-20260505-slim	
-27.1.3-debian-bookworm-20260518	amd64,arm64
+27.1.3-debian-bookworm-20260518	
 27.1.3-debian-bookworm-20260518-slim	amd64,arm64
 27.1.3-debian-bookworm-20260610	amd64,arm64
 27.1.3-debian-bookworm-20260610-slim	amd64,arm64
@@ -29685,7 +29701,7 @@
 27.1.3-debian-trixie-20260421-slim	
 27.1.3-debian-trixie-20260505	
 27.1.3-debian-trixie-20260505-slim	
-27.1.3-debian-trixie-20260518	amd64,arm64
+27.1.3-debian-trixie-20260518	
 27.1.3-debian-trixie-20260518-slim	amd64,arm64
 27.1.3-debian-trixie-20260610	amd64,arm64
 27.1.3-debian-trixie-20260610-slim	amd64,arm64
@@ -29784,8 +29800,8 @@
 27.2-debian-bookworm-20260421-slim	
 27.2-debian-bookworm-20260505	
 27.2-debian-bookworm-20260505-slim	
-27.2-debian-bookworm-20260518	amd64,arm64
-27.2-debian-bookworm-20260518-slim	amd64,arm64
+27.2-debian-bookworm-20260518	
+27.2-debian-bookworm-20260518-slim	
 27.2-debian-bookworm-20260610	amd64,arm64
 27.2-debian-bookworm-20260610-slim	amd64,arm64
 27.2-debian-bullseye-20241202	
@@ -29820,8 +29836,8 @@
 27.2-debian-bullseye-20260421-slim	
 27.2-debian-bullseye-20260505	
 27.2-debian-bullseye-20260505-slim	
-27.2-debian-bullseye-20260518	amd64,arm64
-27.2-debian-bullseye-20260518-slim	amd64,arm64
+27.2-debian-bullseye-20260518	
+27.2-debian-bullseye-20260518-slim	
 27.2-debian-bullseye-20260610	amd64,arm64
 27.2-debian-bullseye-20260610-slim	amd64,arm64
 27.2-debian-buster-20240612	
@@ -29852,8 +29868,8 @@
 27.2-debian-trixie-20260421-slim	amd64,arm64
 27.2-debian-trixie-20260505	
 27.2-debian-trixie-20260505-slim	
-27.2-debian-trixie-20260518	amd64,arm64
-27.2-debian-trixie-20260518-slim	amd64,arm64
+27.2-debian-trixie-20260518	
+27.2-debian-trixie-20260518-slim	amd64
 27.2-debian-trixie-20260610	amd64,arm64
 27.2-debian-trixie-20260610-slim	amd64,arm64
 27.2-ubuntu-focal-20241011	
@@ -29924,8 +29940,8 @@
 27.2.1-debian-bookworm-20260421-slim	amd64,arm64
 27.2.1-debian-bookworm-20260505	
 27.2.1-debian-bookworm-20260505-slim	
-27.2.1-debian-bookworm-20260518	amd64,arm64
-27.2.1-debian-bookworm-20260518-slim	amd64,arm64
+27.2.1-debian-bookworm-20260518	
+27.2.1-debian-bookworm-20260518-slim	
 27.2.1-debian-bookworm-20260610	amd64,arm64
 27.2.1-debian-bookworm-20260610-slim	amd64,arm64
 27.2.1-debian-bullseye-20250113	
@@ -29958,8 +29974,8 @@
 27.2.1-debian-bullseye-20260421-slim	
 27.2.1-debian-bullseye-20260505	
 27.2.1-debian-bullseye-20260505-slim	
-27.2.1-debian-bullseye-20260518	amd64,arm64
-27.2.1-debian-bullseye-20260518-slim	amd64,arm64
+27.2.1-debian-bullseye-20260518	
+27.2.1-debian-bullseye-20260518-slim	
 27.2.1-debian-bullseye-20260610	amd64,arm64
 27.2.1-debian-bullseye-20260610-slim	amd64,arm64
 27.2.1-debian-buster-20240612	
@@ -29990,8 +30006,8 @@
 27.2.1-debian-trixie-20260421-slim	
 27.2.1-debian-trixie-20260505	
 27.2.1-debian-trixie-20260505-slim	
-27.2.1-debian-trixie-20260518	amd64,arm64
-27.2.1-debian-trixie-20260518-slim	amd64,arm64
+27.2.1-debian-trixie-20260518	
+27.2.1-debian-trixie-20260518-slim	
 27.2.1-debian-trixie-20260610	amd64,arm64
 27.2.1-debian-trixie-20260610-slim	amd64,arm64
 27.2.1-ubuntu-focal-20241011	
@@ -30061,8 +30077,8 @@
 27.2.2-debian-bookworm-20260421-slim	
 27.2.2-debian-bookworm-20260505	amd64,arm64
 27.2.2-debian-bookworm-20260505-slim	
-27.2.2-debian-bookworm-20260518	amd64,arm64
-27.2.2-debian-bookworm-20260518-slim	amd64,arm64
+27.2.2-debian-bookworm-20260518	
+27.2.2-debian-bookworm-20260518-slim	
 27.2.2-debian-bookworm-20260610	amd64,arm64
 27.2.2-debian-bookworm-20260610-slim	amd64,arm64
 27.2.2-debian-bullseye-20250203	
@@ -30093,8 +30109,8 @@
 27.2.2-debian-bullseye-20260421-slim	
 27.2.2-debian-bullseye-20260505	
 27.2.2-debian-bullseye-20260505-slim	
-27.2.2-debian-bullseye-20260518	amd64,arm64
-27.2.2-debian-bullseye-20260518-slim	amd64,arm64
+27.2.2-debian-bullseye-20260518	
+27.2.2-debian-bullseye-20260518-slim	
 27.2.2-debian-bullseye-20260610	amd64,arm64
 27.2.2-debian-bullseye-20260610-slim	amd64,arm64
 27.2.2-debian-buster-20240612	
@@ -30125,8 +30141,8 @@
 27.2.2-debian-trixie-20260421-slim	
 27.2.2-debian-trixie-20260505	
 27.2.2-debian-trixie-20260505-slim	
-27.2.2-debian-trixie-20260518	amd64,arm64
-27.2.2-debian-trixie-20260518-slim	amd64,arm64
+27.2.2-debian-trixie-20260518	
+27.2.2-debian-trixie-20260518-slim	
 27.2.2-debian-trixie-20260610	amd64,arm64
 27.2.2-debian-trixie-20260610-slim	amd64,arm64
 27.2.2-ubuntu-focal-20241011	
@@ -30194,8 +30210,8 @@
 27.2.3-debian-bookworm-20260421-slim	
 27.2.3-debian-bookworm-20260505	
 27.2.3-debian-bookworm-20260505-slim	
-27.2.3-debian-bookworm-20260518	amd64,arm64
-27.2.3-debian-bookworm-20260518-slim	amd64,arm64
+27.2.3-debian-bookworm-20260518	
+27.2.3-debian-bookworm-20260518-slim	
 27.2.3-debian-bookworm-20260610	amd64,arm64
 27.2.3-debian-bookworm-20260610-slim	amd64,arm64
 27.2.3-debian-bullseye-20250203	
@@ -30226,8 +30242,8 @@
 27.2.3-debian-bullseye-20260421-slim	
 27.2.3-debian-bullseye-20260505	amd64,arm64
 27.2.3-debian-bullseye-20260505-slim	
-27.2.3-debian-bullseye-20260518	amd64,arm64
-27.2.3-debian-bullseye-20260518-slim	amd64,arm64
+27.2.3-debian-bullseye-20260518	
+27.2.3-debian-bullseye-20260518-slim	
 27.2.3-debian-bullseye-20260610	amd64,arm64
 27.2.3-debian-bullseye-20260610-slim	amd64,arm64
 27.2.3-debian-buster-20240612	
@@ -30258,8 +30274,8 @@
 27.2.3-debian-trixie-20260421-slim	
 27.2.3-debian-trixie-20260505	
 27.2.3-debian-trixie-20260505-slim	
-27.2.3-debian-trixie-20260518	amd64,arm64
-27.2.3-debian-trixie-20260518-slim	amd64,arm64
+27.2.3-debian-trixie-20260518	
+27.2.3-debian-trixie-20260518-slim	
 27.2.3-debian-trixie-20260610	amd64,arm64
 27.2.3-debian-trixie-20260610-slim	amd64,arm64
 27.2.3-ubuntu-focal-20241011	
@@ -30300,10 +30316,12 @@
 27.2.4-alpine-3.22.2	
 27.2.4-alpine-3.22.3	
 27.2.4-alpine-3.22.4	
+27.2.4-alpine-3.22.5	amd64,arm64
 27.2.4-alpine-3.23.0	
 27.2.4-alpine-3.23.2	
 27.2.4-alpine-3.23.3	
 27.2.4-alpine-3.23.4	
+27.2.4-alpine-3.23.5	amd64,arm64
 27.2.4-debian-bookworm-20250203	
 27.2.4-debian-bookworm-20250203-slim	
 27.2.4-debian-bookworm-20250224	
@@ -30352,7 +30370,7 @@
 27.2.4-debian-bookworm-20260421-slim	
 27.2.4-debian-bookworm-20260505	
 27.2.4-debian-bookworm-20260505-slim	
-27.2.4-debian-bookworm-20260518	amd64,arm64
+27.2.4-debian-bookworm-20260518	
 27.2.4-debian-bookworm-20260518-slim	amd64,arm64
 27.2.4-debian-bookworm-20260610	amd64,arm64
 27.2.4-debian-bookworm-20260610-slim	amd64,arm64
@@ -30405,7 +30423,7 @@
 27.2.4-debian-bullseye-20260505	
 27.2.4-debian-bullseye-20260505-slim	
 27.2.4-debian-bullseye-20260518	amd64,arm64
-27.2.4-debian-bullseye-20260518-slim	amd64,arm64
+27.2.4-debian-bullseye-20260518-slim	
 27.2.4-debian-bullseye-20260610	amd64,arm64
 27.2.4-debian-bullseye-20260610-slim	amd64,arm64
 27.2.4-debian-buster-20240612	
@@ -30442,8 +30460,8 @@
 27.2.4-debian-trixie-20260421-slim	
 27.2.4-debian-trixie-20260505	amd64,arm64
 27.2.4-debian-trixie-20260505-slim	amd64,arm64
-27.2.4-debian-trixie-20260518	amd64,arm64
-27.2.4-debian-trixie-20260518-slim	amd64,arm64
+27.2.4-debian-trixie-20260518	
+27.2.4-debian-trixie-20260518-slim	
 27.2.4-debian-trixie-20260610	amd64,arm64
 27.2.4-debian-trixie-20260610-slim	amd64,arm64
 27.2.4-ubuntu-focal-20241011	
@@ -30529,8 +30547,8 @@
 27.3-debian-bookworm-20260421-slim	
 27.3-debian-bookworm-20260505	amd64,arm64
 27.3-debian-bookworm-20260505-slim	amd64,arm64
-27.3-debian-bookworm-20260518	amd64,arm64
-27.3-debian-bookworm-20260518-slim	amd64,arm64
+27.3-debian-bookworm-20260518	
+27.3-debian-bookworm-20260518-slim	
 27.3-debian-bookworm-20260610	amd64,arm64
 27.3-debian-bookworm-20260610-slim	amd64,arm64
 27.3-debian-bullseye-20250224	
@@ -30563,8 +30581,8 @@
 27.3-debian-bullseye-20260421-slim	
 27.3-debian-bullseye-20260505	
 27.3-debian-bullseye-20260505-slim	amd64,arm64
-27.3-debian-bullseye-20260518	amd64,arm64
-27.3-debian-bullseye-20260518-slim	amd64,arm64
+27.3-debian-bullseye-20260518	
+27.3-debian-bullseye-20260518-slim	
 27.3-debian-bullseye-20260610	amd64,arm64
 27.3-debian-bullseye-20260610-slim	amd64,arm64
 27.3-debian-buster-20240612	
@@ -30595,8 +30613,8 @@
 27.3-debian-trixie-20260421-slim	
 27.3-debian-trixie-20260505	amd64,arm64
 27.3-debian-trixie-20260505-slim	
-27.3-debian-trixie-20260518	amd64,arm64
-27.3-debian-trixie-20260518-slim	amd64,arm64
+27.3-debian-trixie-20260518	
+27.3-debian-trixie-20260518-slim	amd64
 27.3-debian-trixie-20260610	amd64,arm64
 27.3-debian-trixie-20260610-slim	amd64,arm64
 27.3-ubuntu-focal-20241011	
@@ -30664,8 +30682,8 @@
 27.3.1-debian-bookworm-20260421-slim	
 27.3.1-debian-bookworm-20260505	
 27.3.1-debian-bookworm-20260505-slim	amd64,arm64
-27.3.1-debian-bookworm-20260518	amd64,arm64
-27.3.1-debian-bookworm-20260518-slim	amd64,arm64
+27.3.1-debian-bookworm-20260518	
+27.3.1-debian-bookworm-20260518-slim	
 27.3.1-debian-bookworm-20260610	amd64,arm64
 27.3.1-debian-bookworm-20260610-slim	amd64,arm64
 27.3.1-debian-bullseye-20250317	
@@ -30696,8 +30714,8 @@
 27.3.1-debian-bullseye-20260421-slim	
 27.3.1-debian-bullseye-20260505	amd64,arm64
 27.3.1-debian-bullseye-20260505-slim	amd64,arm64
-27.3.1-debian-bullseye-20260518	amd64,arm64
-27.3.1-debian-bullseye-20260518-slim	amd64,arm64
+27.3.1-debian-bullseye-20260518	
+27.3.1-debian-bullseye-20260518-slim	
 27.3.1-debian-bullseye-20260610	amd64,arm64
 27.3.1-debian-bullseye-20260610-slim	amd64,arm64
 27.3.1-debian-buster-20240612	
@@ -30728,8 +30746,8 @@
 27.3.1-debian-trixie-20260421-slim	
 27.3.1-debian-trixie-20260505	
 27.3.1-debian-trixie-20260505-slim	
-27.3.1-debian-trixie-20260518	amd64,arm64
-27.3.1-debian-trixie-20260518-slim	amd64,arm64
+27.3.1-debian-trixie-20260518	
+27.3.1-debian-trixie-20260518-slim	
 27.3.1-debian-trixie-20260610	amd64,arm64
 27.3.1-debian-trixie-20260610-slim	amd64,arm64
 27.3.1-ubuntu-focal-20241011	
@@ -30799,8 +30817,8 @@
 27.3.2-debian-bookworm-20260421-slim	
 27.3.2-debian-bookworm-20260505	
 27.3.2-debian-bookworm-20260505-slim	
-27.3.2-debian-bookworm-20260518	amd64,arm64
-27.3.2-debian-bookworm-20260518-slim	amd64,arm64
+27.3.2-debian-bookworm-20260518	
+27.3.2-debian-bookworm-20260518-slim	
 27.3.2-debian-bookworm-20260610	amd64,arm64
 27.3.2-debian-bookworm-20260610-slim	amd64,arm64
 27.3.2-debian-bullseye-20250317	
@@ -30833,8 +30851,8 @@
 27.3.2-debian-bullseye-20260421-slim	
 27.3.2-debian-bullseye-20260505	
 27.3.2-debian-bullseye-20260505-slim	
-27.3.2-debian-bullseye-20260518	amd64,arm64
-27.3.2-debian-bullseye-20260518-slim	amd64,arm64
+27.3.2-debian-bullseye-20260518	
+27.3.2-debian-bullseye-20260518-slim	
 27.3.2-debian-bullseye-20260610	amd64,arm64
 27.3.2-debian-bullseye-20260610-slim	amd64,arm64
 27.3.2-debian-buster-20240612	
@@ -30865,8 +30883,8 @@
 27.3.2-debian-trixie-20260421-slim	
 27.3.2-debian-trixie-20260505	
 27.3.2-debian-trixie-20260505-slim	
-27.3.2-debian-trixie-20260518	amd64,arm64
-27.3.2-debian-trixie-20260518-slim	amd64,arm64
+27.3.2-debian-trixie-20260518	
+27.3.2-debian-trixie-20260518-slim	
 27.3.2-debian-trixie-20260610	amd64,arm64
 27.3.2-debian-trixie-20260610-slim	amd64,arm64
 27.3.2-ubuntu-focal-20241011	
@@ -30938,8 +30956,8 @@
 27.3.3-debian-bookworm-20260421-slim	
 27.3.3-debian-bookworm-20260505	
 27.3.3-debian-bookworm-20260505-slim	
-27.3.3-debian-bookworm-20260518	amd64,arm64
-27.3.3-debian-bookworm-20260518-slim	amd64,arm64
+27.3.3-debian-bookworm-20260518	
+27.3.3-debian-bookworm-20260518-slim	
 27.3.3-debian-bookworm-20260610	amd64,arm64
 27.3.3-debian-bookworm-20260610-slim	amd64,arm64
 27.3.3-debian-bullseye-20250407	
@@ -30972,8 +30990,8 @@
 27.3.3-debian-bullseye-20260421-slim	
 27.3.3-debian-bullseye-20260505	
 27.3.3-debian-bullseye-20260505-slim	
-27.3.3-debian-bullseye-20260518	amd64,arm64
-27.3.3-debian-bullseye-20260518-slim	amd64,arm64
+27.3.3-debian-bullseye-20260518	
+27.3.3-debian-bullseye-20260518-slim	
 27.3.3-debian-bullseye-20260610	amd64,arm64
 27.3.3-debian-bullseye-20260610-slim	amd64,arm64
 27.3.3-debian-buster-20240612	
@@ -31004,8 +31022,8 @@
 27.3.3-debian-trixie-20260421-slim	
 27.3.3-debian-trixie-20260505	
 27.3.3-debian-trixie-20260505-slim	
-27.3.3-debian-trixie-20260518	amd64,arm64
-27.3.3-debian-trixie-20260518-slim	amd64,arm64
+27.3.3-debian-trixie-20260518	
+27.3.3-debian-trixie-20260518-slim	
 27.3.3-debian-trixie-20260610	amd64,arm64
 27.3.3-debian-trixie-20260610-slim	amd64,arm64
 27.3.3-ubuntu-focal-20250404	
@@ -31077,8 +31095,8 @@
 27.3.4-debian-bookworm-20260421-slim	
 27.3.4-debian-bookworm-20260505	amd64,arm64
 27.3.4-debian-bookworm-20260505-slim	amd64,arm64
-27.3.4-debian-bookworm-20260518	amd64,arm64
-27.3.4-debian-bookworm-20260518-slim	amd64,arm64
+27.3.4-debian-bookworm-20260518	
+27.3.4-debian-bookworm-20260518-slim	
 27.3.4-debian-bookworm-20260610	amd64,arm64
 27.3.4-debian-bookworm-20260610-slim	amd64,arm64
 27.3.4-debian-bullseye-20250428	
@@ -31113,8 +31131,8 @@
 27.3.4-debian-bullseye-20260421-slim	
 27.3.4-debian-bullseye-20260505	amd64,arm64
 27.3.4-debian-bullseye-20260505-slim	amd64,arm64
-27.3.4-debian-bullseye-20260518	amd64,arm64
-27.3.4-debian-bullseye-20260518-slim	amd64,arm64
+27.3.4-debian-bullseye-20260518	
+27.3.4-debian-bullseye-20260518-slim	
 27.3.4-debian-bullseye-20260610	amd64,arm64
 27.3.4-debian-bullseye-20260610-slim	amd64,arm64
 27.3.4-debian-buster-20240612	
@@ -31145,8 +31163,8 @@
 27.3.4-debian-trixie-20260421-slim	
 27.3.4-debian-trixie-20260505	
 27.3.4-debian-trixie-20260505-slim	
-27.3.4-debian-trixie-20260518	amd64,arm64
-27.3.4-debian-trixie-20260518-slim	amd64,arm64
+27.3.4-debian-trixie-20260518	
+27.3.4-debian-trixie-20260518-slim	amd64
 27.3.4-debian-trixie-20260610	amd64,arm64
 27.3.4-debian-trixie-20260610-slim	amd64,arm64
 27.3.4-ubuntu-focal-20250404	
@@ -31222,8 +31240,8 @@
 27.3.4.1-debian-bookworm-20260421-slim	
 27.3.4.1-debian-bookworm-20260505	
 27.3.4.1-debian-bookworm-20260505-slim	
-27.3.4.1-debian-bookworm-20260518	amd64,arm64
-27.3.4.1-debian-bookworm-20260518-slim	amd64,arm64
+27.3.4.1-debian-bookworm-20260518	
+27.3.4.1-debian-bookworm-20260518-slim	
 27.3.4.1-debian-bookworm-20260610	amd64,arm64
 27.3.4.1-debian-bookworm-20260610-slim	amd64,arm64
 27.3.4.1-debian-bullseye-20250610	
@@ -31256,8 +31274,8 @@
 27.3.4.1-debian-bullseye-20260421-slim	
 27.3.4.1-debian-bullseye-20260505	
 27.3.4.1-debian-bullseye-20260505-slim	
-27.3.4.1-debian-bullseye-20260518	amd64,arm64
-27.3.4.1-debian-bullseye-20260518-slim	amd64,arm64
+27.3.4.1-debian-bullseye-20260518	
+27.3.4.1-debian-bullseye-20260518-slim	
 27.3.4.1-debian-bullseye-20260610	amd64,arm64
 27.3.4.1-debian-bullseye-20260610-slim	amd64,arm64
 27.3.4.1-debian-buster-20240612	
@@ -31288,8 +31306,8 @@
 27.3.4.1-debian-trixie-20260421-slim	
 27.3.4.1-debian-trixie-20260505	
 27.3.4.1-debian-trixie-20260505-slim	
-27.3.4.1-debian-trixie-20260518	amd64,arm64
-27.3.4.1-debian-trixie-20260518-slim	amd64,arm64
+27.3.4.1-debian-trixie-20260518	
+27.3.4.1-debian-trixie-20260518-slim	
 27.3.4.1-debian-trixie-20260610	amd64,arm64
 27.3.4.1-debian-trixie-20260610-slim	amd64,arm64
 27.3.4.1-ubuntu-focal-20250404	
@@ -31328,8 +31346,8 @@
 27.3.4.10-debian-bookworm-20260421-slim	
 27.3.4.10-debian-bookworm-20260505	
 27.3.4.10-debian-bookworm-20260505-slim	
-27.3.4.10-debian-bookworm-20260518	amd64,arm64
-27.3.4.10-debian-bookworm-20260518-slim	amd64,arm64
+27.3.4.10-debian-bookworm-20260518	
+27.3.4.10-debian-bookworm-20260518-slim	
 27.3.4.10-debian-bookworm-20260610	amd64,arm64
 27.3.4.10-debian-bookworm-20260610-slim	amd64,arm64
 27.3.4.10-debian-bullseye-20260406	
@@ -31338,8 +31356,8 @@
 27.3.4.10-debian-bullseye-20260421-slim	
 27.3.4.10-debian-bullseye-20260505	
 27.3.4.10-debian-bullseye-20260505-slim	amd64,arm64
-27.3.4.10-debian-bullseye-20260518	amd64,arm64
-27.3.4.10-debian-bullseye-20260518-slim	amd64,arm64
+27.3.4.10-debian-bullseye-20260518	
+27.3.4.10-debian-bullseye-20260518-slim	
 27.3.4.10-debian-bullseye-20260610	amd64,arm64
 27.3.4.10-debian-bullseye-20260610-slim	amd64,arm64
 27.3.4.10-debian-trixie-20260406	amd64,arm64
@@ -31348,8 +31366,8 @@
 27.3.4.10-debian-trixie-20260421-slim	
 27.3.4.10-debian-trixie-20260505	
 27.3.4.10-debian-trixie-20260505-slim	
-27.3.4.10-debian-trixie-20260518	amd64,arm64
-27.3.4.10-debian-trixie-20260518-slim	amd64,arm64
+27.3.4.10-debian-trixie-20260518	
+27.3.4.10-debian-trixie-20260518-slim	
 27.3.4.10-debian-trixie-20260610	amd64,arm64
 27.3.4.10-debian-trixie-20260610-slim	amd64,arm64
 27.3.4.10-ubuntu-focal-20250404	
@@ -31371,8 +31389,8 @@
 27.3.4.11-debian-bookworm-20260421-slim	
 27.3.4.11-debian-bookworm-20260505	
 27.3.4.11-debian-bookworm-20260505-slim	
-27.3.4.11-debian-bookworm-20260518	amd64,arm64
-27.3.4.11-debian-bookworm-20260518-slim	amd64,arm64
+27.3.4.11-debian-bookworm-20260518	amd64
+27.3.4.11-debian-bookworm-20260518-slim	
 27.3.4.11-debian-bookworm-20260610	amd64,arm64
 27.3.4.11-debian-bookworm-20260610-slim	amd64,arm64
 27.3.4.11-debian-bullseye-20260406	
@@ -31381,8 +31399,8 @@
 27.3.4.11-debian-bullseye-20260421-slim	
 27.3.4.11-debian-bullseye-20260505	
 27.3.4.11-debian-bullseye-20260505-slim	
-27.3.4.11-debian-bullseye-20260518	amd64,arm64
-27.3.4.11-debian-bullseye-20260518-slim	amd64,arm64
+27.3.4.11-debian-bullseye-20260518	
+27.3.4.11-debian-bullseye-20260518-slim	
 27.3.4.11-debian-bullseye-20260610	amd64,arm64
 27.3.4.11-debian-bullseye-20260610-slim	amd64,arm64
 27.3.4.11-debian-trixie-20260406	
@@ -31391,8 +31409,8 @@
 27.3.4.11-debian-trixie-20260421-slim	
 27.3.4.11-debian-trixie-20260505	
 27.3.4.11-debian-trixie-20260505-slim	
-27.3.4.11-debian-trixie-20260518	amd64,arm64
-27.3.4.11-debian-trixie-20260518-slim	amd64,arm64
+27.3.4.11-debian-trixie-20260518	
+27.3.4.11-debian-trixie-20260518-slim	
 27.3.4.11-debian-trixie-20260610	amd64,arm64
 27.3.4.11-debian-trixie-20260610-slim	amd64,arm64
 27.3.4.11-ubuntu-focal-20250404	
@@ -31425,7 +31443,9 @@
 27.3.4.13-alpine-3.20.9	amd64,arm64
 27.3.4.13-alpine-3.21.7	amd64,arm64
 27.3.4.13-alpine-3.22.4	amd64,arm64
+27.3.4.13-alpine-3.22.5	amd64,arm64
 27.3.4.13-alpine-3.23.4	amd64,arm64
+27.3.4.13-alpine-3.23.5	amd64,arm64
 27.3.4.13-debian-bookworm-20260518	amd64,arm64
 27.3.4.13-debian-bookworm-20260518-slim	amd64,arm64
 27.3.4.13-debian-bookworm-20260610	amd64,arm64
@@ -31493,8 +31513,8 @@
 27.3.4.2-debian-bookworm-20260421-slim	
 27.3.4.2-debian-bookworm-20260505	
 27.3.4.2-debian-bookworm-20260505-slim	
-27.3.4.2-debian-bookworm-20260518	amd64,arm64
-27.3.4.2-debian-bookworm-20260518-slim	amd64,arm64
+27.3.4.2-debian-bookworm-20260518	
+27.3.4.2-debian-bookworm-20260518-slim	
 27.3.4.2-debian-bookworm-20260610	amd64,arm64
 27.3.4.2-debian-bookworm-20260610-slim	amd64,arm64
 27.3.4.2-debian-bullseye-20250630	
@@ -31531,8 +31551,8 @@
 27.3.4.2-debian-bullseye-20260421-slim	
 27.3.4.2-debian-bullseye-20260505	
 27.3.4.2-debian-bullseye-20260505-slim	
-27.3.4.2-debian-bullseye-20260518	amd64,arm64
-27.3.4.2-debian-bullseye-20260518-slim	amd64,arm64
+27.3.4.2-debian-bullseye-20260518	
+27.3.4.2-debian-bullseye-20260518-slim	
 27.3.4.2-debian-bullseye-20260610	amd64,arm64
 27.3.4.2-debian-bullseye-20260610-slim	amd64,arm64
 27.3.4.2-debian-trixie-20250721	
@@ -31567,8 +31587,8 @@
 27.3.4.2-debian-trixie-20260421-slim	
 27.3.4.2-debian-trixie-20260505	
 27.3.4.2-debian-trixie-20260505-slim	
-27.3.4.2-debian-trixie-20260518	amd64,arm64
-27.3.4.2-debian-trixie-20260518-slim	amd64,arm64
+27.3.4.2-debian-trixie-20260518	
+27.3.4.2-debian-trixie-20260518-slim	
 27.3.4.2-debian-trixie-20260610	amd64,arm64
 27.3.4.2-debian-trixie-20260610-slim	amd64,arm64
 27.3.4.2-ubuntu-focal-20250404	
@@ -31639,8 +31659,8 @@
 27.3.4.3-debian-bookworm-20260421-slim	
 27.3.4.3-debian-bookworm-20260505	
 27.3.4.3-debian-bookworm-20260505-slim	
-27.3.4.3-debian-bookworm-20260518	amd64,arm64
-27.3.4.3-debian-bookworm-20260518-slim	amd64,arm64
+27.3.4.3-debian-bookworm-20260518	
+27.3.4.3-debian-bookworm-20260518-slim	
 27.3.4.3-debian-bookworm-20260610	amd64,arm64
 27.3.4.3-debian-bookworm-20260610-slim	amd64,arm64
 27.3.4.3-debian-bullseye-20250908	
@@ -31671,8 +31691,8 @@
 27.3.4.3-debian-bullseye-20260421-slim	
 27.3.4.3-debian-bullseye-20260505	
 27.3.4.3-debian-bullseye-20260505-slim	
-27.3.4.3-debian-bullseye-20260518	amd64,arm64
-27.3.4.3-debian-bullseye-20260518-slim	amd64,arm64
+27.3.4.3-debian-bullseye-20260518	
+27.3.4.3-debian-bullseye-20260518-slim	
 27.3.4.3-debian-bullseye-20260610	amd64,arm64
 27.3.4.3-debian-bullseye-20260610-slim	amd64,arm64
 27.3.4.3-debian-trixie-20250908	
@@ -31703,8 +31723,8 @@
 27.3.4.3-debian-trixie-20260421-slim	
 27.3.4.3-debian-trixie-20260505	
 27.3.4.3-debian-trixie-20260505-slim	
-27.3.4.3-debian-trixie-20260518	amd64,arm64
-27.3.4.3-debian-trixie-20260518-slim	amd64,arm64
+27.3.4.3-debian-trixie-20260518	
+27.3.4.3-debian-trixie-20260518-slim	
 27.3.4.3-debian-trixie-20260610	amd64,arm64
 27.3.4.3-debian-trixie-20260610-slim	amd64,arm64
 27.3.4.3-ubuntu-focal-20250404	
@@ -31765,8 +31785,8 @@
 27.3.4.4-debian-bookworm-20260421-slim	
 27.3.4.4-debian-bookworm-20260505	
 27.3.4.4-debian-bookworm-20260505-slim	
-27.3.4.4-debian-bookworm-20260518	amd64,arm64
-27.3.4.4-debian-bookworm-20260518-slim	amd64,arm64
+27.3.4.4-debian-bookworm-20260518	
+27.3.4.4-debian-bookworm-20260518-slim	
 27.3.4.4-debian-bookworm-20260610	amd64,arm64
 27.3.4.4-debian-bookworm-20260610-slim	amd64,arm64
 27.3.4.4-debian-bullseye-20251020	
@@ -31793,8 +31813,8 @@
 27.3.4.4-debian-bullseye-20260421-slim	
 27.3.4.4-debian-bullseye-20260505	
 27.3.4.4-debian-bullseye-20260505-slim	
-27.3.4.4-debian-bullseye-20260518	amd64,arm64
-27.3.4.4-debian-bullseye-20260518-slim	amd64,arm64
+27.3.4.4-debian-bullseye-20260518	
+27.3.4.4-debian-bullseye-20260518-slim	
 27.3.4.4-debian-bullseye-20260610	amd64,arm64
 27.3.4.4-debian-bullseye-20260610-slim	amd64,arm64
 27.3.4.4-debian-trixie-20251020	
@@ -31821,8 +31841,8 @@
 27.3.4.4-debian-trixie-20260421-slim	
 27.3.4.4-debian-trixie-20260505	
 27.3.4.4-debian-trixie-20260505-slim	
-27.3.4.4-debian-trixie-20260518	amd64,arm64
-27.3.4.4-debian-trixie-20260518-slim	amd64,arm64
+27.3.4.4-debian-trixie-20260518	
+27.3.4.4-debian-trixie-20260518-slim	
 27.3.4.4-debian-trixie-20260610	amd64,arm64
 27.3.4.4-debian-trixie-20260610-slim	amd64,arm64
 27.3.4.4-ubuntu-focal-20250404	
@@ -31877,8 +31897,8 @@
 27.3.4.5-debian-bookworm-20260421-slim	
 27.3.4.5-debian-bookworm-20260505	
 27.3.4.5-debian-bookworm-20260505-slim	
-27.3.4.5-debian-bookworm-20260518	amd64,arm64
-27.3.4.5-debian-bookworm-20260518-slim	amd64,arm64
+27.3.4.5-debian-bookworm-20260518	
+27.3.4.5-debian-bookworm-20260518-slim	
 27.3.4.5-debian-bookworm-20260610	amd64,arm64
 27.3.4.5-debian-bookworm-20260610-slim	amd64,arm64
 27.3.4.5-debian-bullseye-20251103	
@@ -31903,8 +31923,8 @@
 27.3.4.5-debian-bullseye-20260421-slim	
 27.3.4.5-debian-bullseye-20260505	
 27.3.4.5-debian-bullseye-20260505-slim	
-27.3.4.5-debian-bullseye-20260518	amd64,arm64
-27.3.4.5-debian-bullseye-20260518-slim	amd64,arm64
+27.3.4.5-debian-bullseye-20260518	
+27.3.4.5-debian-bullseye-20260518-slim	
 27.3.4.5-debian-bullseye-20260610	amd64,arm64
 27.3.4.5-debian-bullseye-20260610-slim	amd64,arm64
 27.3.4.5-debian-trixie-20251103	
@@ -31929,8 +31949,8 @@
 27.3.4.5-debian-trixie-20260421-slim	
 27.3.4.5-debian-trixie-20260505	
 27.3.4.5-debian-trixie-20260505-slim	
-27.3.4.5-debian-trixie-20260518	amd64,arm64
-27.3.4.5-debian-trixie-20260518-slim	amd64,arm64
+27.3.4.5-debian-trixie-20260518	
+27.3.4.5-debian-trixie-20260518-slim	
 27.3.4.5-debian-trixie-20260610	amd64,arm64
 27.3.4.5-debian-trixie-20260610-slim	amd64,arm64
 27.3.4.5-ubuntu-focal-20250404	
@@ -31985,8 +32005,8 @@
 27.3.4.6-debian-bookworm-20260421-slim	
 27.3.4.6-debian-bookworm-20260505	
 27.3.4.6-debian-bookworm-20260505-slim	
-27.3.4.6-debian-bookworm-20260518	amd64,arm64
-27.3.4.6-debian-bookworm-20260518-slim	amd64,arm64
+27.3.4.6-debian-bookworm-20260518	
+27.3.4.6-debian-bookworm-20260518-slim	
 27.3.4.6-debian-bookworm-20260610	amd64,arm64
 27.3.4.6-debian-bookworm-20260610-slim	amd64,arm64
 27.3.4.6-debian-bullseye-20251103	
@@ -32011,8 +32031,8 @@
 27.3.4.6-debian-bullseye-20260421-slim	
 27.3.4.6-debian-bullseye-20260505	
 27.3.4.6-debian-bullseye-20260505-slim	
-27.3.4.6-debian-bullseye-20260518	amd64,arm64
-27.3.4.6-debian-bullseye-20260518-slim	amd64,arm64
+27.3.4.6-debian-bullseye-20260518	
+27.3.4.6-debian-bullseye-20260518-slim	
 27.3.4.6-debian-bullseye-20260610	amd64,arm64
 27.3.4.6-debian-bullseye-20260610-slim	amd64,arm64
 27.3.4.6-debian-trixie-20251103	
@@ -32037,8 +32057,8 @@
 27.3.4.6-debian-trixie-20260421-slim	
 27.3.4.6-debian-trixie-20260505	
 27.3.4.6-debian-trixie-20260505-slim	
-27.3.4.6-debian-trixie-20260518	amd64,arm64
-27.3.4.6-debian-trixie-20260518-slim	amd64,arm64
+27.3.4.6-debian-trixie-20260518	
+27.3.4.6-debian-trixie-20260518-slim	
 27.3.4.6-debian-trixie-20260610	amd64,arm64
 27.3.4.6-debian-trixie-20260610-slim	amd64,arm64
 27.3.4.6-ubuntu-focal-20250404	
@@ -32075,8 +32095,8 @@
 27.3.4.7-debian-bookworm-20260421-slim	
 27.3.4.7-debian-bookworm-20260505	
 27.3.4.7-debian-bookworm-20260505-slim	
-27.3.4.7-debian-bookworm-20260518	amd64,arm64
-27.3.4.7-debian-bookworm-20260518-slim	amd64,arm64
+27.3.4.7-debian-bookworm-20260518	
+27.3.4.7-debian-bookworm-20260518-slim	
 27.3.4.7-debian-bookworm-20260610	amd64,arm64
 27.3.4.7-debian-bookworm-20260610-slim	amd64,arm64
 27.3.4.7-debian-bullseye-20260202	
@@ -32091,8 +32111,8 @@
 27.3.4.7-debian-bullseye-20260421-slim	
 27.3.4.7-debian-bullseye-20260505	
 27.3.4.7-debian-bullseye-20260505-slim	amd64,arm64
-27.3.4.7-debian-bullseye-20260518	amd64,arm64
-27.3.4.7-debian-bullseye-20260518-slim	amd64,arm64
+27.3.4.7-debian-bullseye-20260518	
+27.3.4.7-debian-bullseye-20260518-slim	
 27.3.4.7-debian-bullseye-20260610	amd64,arm64
 27.3.4.7-debian-bullseye-20260610-slim	amd64,arm64
 27.3.4.7-debian-trixie-20260202	
@@ -32107,8 +32127,8 @@
 27.3.4.7-debian-trixie-20260421-slim	
 27.3.4.7-debian-trixie-20260505	
 27.3.4.7-debian-trixie-20260505-slim	
-27.3.4.7-debian-trixie-20260518	amd64,arm64
-27.3.4.7-debian-trixie-20260518-slim	amd64,arm64
+27.3.4.7-debian-trixie-20260518	
+27.3.4.7-debian-trixie-20260518-slim	
 27.3.4.7-debian-trixie-20260610	amd64,arm64
 27.3.4.7-debian-trixie-20260610-slim	amd64,arm64
 27.3.4.7-ubuntu-focal-20250404	
@@ -32143,8 +32163,8 @@
 27.3.4.8-debian-bookworm-20260421-slim	
 27.3.4.8-debian-bookworm-20260505	
 27.3.4.8-debian-bookworm-20260505-slim	
-27.3.4.8-debian-bookworm-20260518	amd64,arm64
-27.3.4.8-debian-bookworm-20260518-slim	amd64,arm64
+27.3.4.8-debian-bookworm-20260518	
+27.3.4.8-debian-bookworm-20260518-slim	
 27.3.4.8-debian-bookworm-20260610	amd64,arm64
 27.3.4.8-debian-bookworm-20260610-slim	amd64,arm64
 27.3.4.8-debian-bullseye-20260202	
@@ -32159,8 +32179,8 @@
 27.3.4.8-debian-bullseye-20260421-slim	
 27.3.4.8-debian-bullseye-20260505	
 27.3.4.8-debian-bullseye-20260505-slim	
-27.3.4.8-debian-bullseye-20260518	amd64,arm64
-27.3.4.8-debian-bullseye-20260518-slim	amd64,arm64
+27.3.4.8-debian-bullseye-20260518	
+27.3.4.8-debian-bullseye-20260518-slim	
 27.3.4.8-debian-bullseye-20260610	amd64,arm64
 27.3.4.8-debian-bullseye-20260610-slim	amd64,arm64
 27.3.4.8-debian-trixie-20260202	
@@ -32175,8 +32195,8 @@
 27.3.4.8-debian-trixie-20260421-slim	
 27.3.4.8-debian-trixie-20260505	
 27.3.4.8-debian-trixie-20260505-slim	
-27.3.4.8-debian-trixie-20260518	amd64,arm64
-27.3.4.8-debian-trixie-20260518-slim	amd64,arm64
+27.3.4.8-debian-trixie-20260518	
+27.3.4.8-debian-trixie-20260518-slim	
 27.3.4.8-debian-trixie-20260610	amd64,arm64
 27.3.4.8-debian-trixie-20260610-slim	amd64,arm64
 27.3.4.8-ubuntu-focal-20250404	
@@ -32208,8 +32228,8 @@
 27.3.4.9-debian-bookworm-20260421-slim	
 27.3.4.9-debian-bookworm-20260505	
 27.3.4.9-debian-bookworm-20260505-slim	amd64
-27.3.4.9-debian-bookworm-20260518	amd64,arm64
-27.3.4.9-debian-bookworm-20260518-slim	amd64,arm64
+27.3.4.9-debian-bookworm-20260518	
+27.3.4.9-debian-bookworm-20260518-slim	
 27.3.4.9-debian-bookworm-20260610	amd64,arm64
 27.3.4.9-debian-bookworm-20260610-slim	amd64,arm64
 27.3.4.9-debian-bullseye-20260223	
@@ -32222,8 +32242,8 @@
 27.3.4.9-debian-bullseye-20260421-slim	
 27.3.4.9-debian-bullseye-20260505	
 27.3.4.9-debian-bullseye-20260505-slim	
-27.3.4.9-debian-bullseye-20260518	amd64,arm64
-27.3.4.9-debian-bullseye-20260518-slim	amd64,arm64
+27.3.4.9-debian-bullseye-20260518	
+27.3.4.9-debian-bullseye-20260518-slim	
 27.3.4.9-debian-bullseye-20260610	amd64,arm64
 27.3.4.9-debian-bullseye-20260610-slim	amd64,arm64
 27.3.4.9-debian-trixie-20260223	
@@ -32236,8 +32256,8 @@
 27.3.4.9-debian-trixie-20260421-slim	
 27.3.4.9-debian-trixie-20260505	
 27.3.4.9-debian-trixie-20260505-slim	
-27.3.4.9-debian-trixie-20260518	amd64,arm64
-27.3.4.9-debian-trixie-20260518-slim	amd64,arm64
+27.3.4.9-debian-trixie-20260518	
+27.3.4.9-debian-trixie-20260518-slim	
 27.3.4.9-debian-trixie-20260610	amd64,arm64
 27.3.4.9-debian-trixie-20260610-slim	amd64,arm64
 27.3.4.9-ubuntu-focal-20250404	
@@ -32302,7 +32322,7 @@
 28.0-debian-bookworm-20260505	
 28.0-debian-bookworm-20260505-slim	
 28.0-debian-bookworm-20260518	amd64,arm64
-28.0-debian-bookworm-20260518-slim	amd64,arm64
+28.0-debian-bookworm-20260518-slim	
 28.0-debian-bookworm-20260610	amd64,arm64
 28.0-debian-bookworm-20260610-slim	amd64,arm64
 28.0-debian-bullseye-20250428	
@@ -32337,8 +32357,8 @@
 28.0-debian-bullseye-20260421-slim	
 28.0-debian-bullseye-20260505	
 28.0-debian-bullseye-20260505-slim	
-28.0-debian-bullseye-20260518	amd64,arm64
-28.0-debian-bullseye-20260518-slim	amd64,arm64
+28.0-debian-bullseye-20260518	
+28.0-debian-bullseye-20260518-slim	
 28.0-debian-bullseye-20260610	amd64,arm64
 28.0-debian-bullseye-20260610-slim	amd64,arm64
 28.0-debian-buster-20240612	
@@ -32369,8 +32389,8 @@
 28.0-debian-trixie-20260421-slim	
 28.0-debian-trixie-20260505	amd64,arm64
 28.0-debian-trixie-20260505-slim	
-28.0-debian-trixie-20260518	amd64,arm64
-28.0-debian-trixie-20260518-slim	amd64,arm64
+28.0-debian-trixie-20260518	
+28.0-debian-trixie-20260518-slim	amd64
 28.0-debian-trixie-20260610	amd64,arm64
 28.0-debian-trixie-20260610-slim	amd64,arm64
 28.0-rc1-alpine-3.18.9	
@@ -32425,8 +32445,8 @@
 28.0-rc1-debian-bookworm-20260421-slim	
 28.0-rc1-debian-bookworm-20260505	
 28.0-rc1-debian-bookworm-20260505-slim	
-28.0-rc1-debian-bookworm-20260518	amd64,arm64
-28.0-rc1-debian-bookworm-20260518-slim	amd64,arm64
+28.0-rc1-debian-bookworm-20260518	
+28.0-rc1-debian-bookworm-20260518-slim	
 28.0-rc1-debian-bookworm-20260610	amd64,arm64
 28.0-rc1-debian-bookworm-20260610-slim	amd64,arm64
 28.0-rc1-debian-bullseye-20250203	
@@ -32461,8 +32481,8 @@
 28.0-rc1-debian-bullseye-20260421-slim	
 28.0-rc1-debian-bullseye-20260505	
 28.0-rc1-debian-bullseye-20260505-slim	
-28.0-rc1-debian-bullseye-20260518	amd64,arm64
-28.0-rc1-debian-bullseye-20260518-slim	amd64,arm64
+28.0-rc1-debian-bullseye-20260518	
+28.0-rc1-debian-bullseye-20260518-slim	
 28.0-rc1-debian-bullseye-20260610	amd64,arm64
 28.0-rc1-debian-bullseye-20260610-slim	amd64,arm64
 28.0-rc1-debian-buster-20240612	
@@ -32493,8 +32513,8 @@
 28.0-rc1-debian-trixie-20260421-slim	
 28.0-rc1-debian-trixie-20260505	
 28.0-rc1-debian-trixie-20260505-slim	
-28.0-rc1-debian-trixie-20260518	amd64,arm64
-28.0-rc1-debian-trixie-20260518-slim	amd64,arm64
+28.0-rc1-debian-trixie-20260518	
+28.0-rc1-debian-trixie-20260518-slim	
 28.0-rc1-debian-trixie-20260610	amd64,arm64
 28.0-rc1-debian-trixie-20260610-slim	amd64,arm64
 28.0-rc1-ubuntu-focal-20241011	
@@ -32564,8 +32584,8 @@
 28.0-rc2-debian-bookworm-20260421-slim	
 28.0-rc2-debian-bookworm-20260505	
 28.0-rc2-debian-bookworm-20260505-slim	
-28.0-rc2-debian-bookworm-20260518	amd64,arm64
-28.0-rc2-debian-bookworm-20260518-slim	amd64,arm64
+28.0-rc2-debian-bookworm-20260518	
+28.0-rc2-debian-bookworm-20260518-slim	
 28.0-rc2-debian-bookworm-20260610	amd64,arm64
 28.0-rc2-debian-bookworm-20260610-slim	amd64,arm64
 28.0-rc2-debian-bullseye-20250317	
@@ -32598,8 +32618,8 @@
 28.0-rc2-debian-bullseye-20260421-slim	
 28.0-rc2-debian-bullseye-20260505	
 28.0-rc2-debian-bullseye-20260505-slim	
-28.0-rc2-debian-bullseye-20260518	amd64,arm64
-28.0-rc2-debian-bullseye-20260518-slim	amd64,arm64
+28.0-rc2-debian-bullseye-20260518	
+28.0-rc2-debian-bullseye-20260518-slim	
 28.0-rc2-debian-bullseye-20260610	amd64,arm64
 28.0-rc2-debian-bullseye-20260610-slim	amd64,arm64
 28.0-rc2-debian-buster-20240612	
@@ -32630,8 +32650,8 @@
 28.0-rc2-debian-trixie-20260421-slim	
 28.0-rc2-debian-trixie-20260505	amd64,arm64
 28.0-rc2-debian-trixie-20260505-slim	
-28.0-rc2-debian-trixie-20260518	amd64,arm64
-28.0-rc2-debian-trixie-20260518-slim	amd64,arm64
+28.0-rc2-debian-trixie-20260518	
+28.0-rc2-debian-trixie-20260518-slim	
 28.0-rc2-debian-trixie-20260610	amd64,arm64
 28.0-rc2-debian-trixie-20260610-slim	amd64,arm64
 28.0-rc2-ubuntu-focal-20241011	
@@ -32703,8 +32723,8 @@
 28.0-rc3-debian-bookworm-20260421-slim	
 28.0-rc3-debian-bookworm-20260505	
 28.0-rc3-debian-bookworm-20260505-slim	
-28.0-rc3-debian-bookworm-20260518	amd64,arm64
-28.0-rc3-debian-bookworm-20260518-slim	amd64,arm64
+28.0-rc3-debian-bookworm-20260518	
+28.0-rc3-debian-bookworm-20260518-slim	
 28.0-rc3-debian-bookworm-20260610	amd64,arm64
 28.0-rc3-debian-bookworm-20260610-slim	amd64,arm64
 28.0-rc3-debian-bullseye-20250407	
@@ -32737,8 +32757,8 @@
 28.0-rc3-debian-bullseye-20260421-slim	
 28.0-rc3-debian-bullseye-20260505	
 28.0-rc3-debian-bullseye-20260505-slim	
-28.0-rc3-debian-bullseye-20260518	amd64,arm64
-28.0-rc3-debian-bullseye-20260518-slim	amd64,arm64
+28.0-rc3-debian-bullseye-20260518	
+28.0-rc3-debian-bullseye-20260518-slim	
 28.0-rc3-debian-bullseye-20260610	amd64,arm64
 28.0-rc3-debian-bullseye-20260610-slim	amd64,arm64
 28.0-rc3-debian-buster-20240612	
@@ -32769,8 +32789,8 @@
 28.0-rc3-debian-trixie-20260421-slim	
 28.0-rc3-debian-trixie-20260505	
 28.0-rc3-debian-trixie-20260505-slim	
-28.0-rc3-debian-trixie-20260518	amd64,arm64
-28.0-rc3-debian-trixie-20260518-slim	amd64,arm64
+28.0-rc3-debian-trixie-20260518	
+28.0-rc3-debian-trixie-20260518-slim	
 28.0-rc3-debian-trixie-20260610	amd64,arm64
 28.0-rc3-debian-trixie-20260610-slim	amd64,arm64
 28.0-rc3-ubuntu-focal-20250404	
@@ -32838,8 +32858,8 @@
 28.0-rc4-debian-bookworm-20260421-slim	
 28.0-rc4-debian-bookworm-20260505	amd64,arm64
 28.0-rc4-debian-bookworm-20260505-slim	amd64,arm64
-28.0-rc4-debian-bookworm-20260518	amd64,arm64
-28.0-rc4-debian-bookworm-20260518-slim	amd64,arm64
+28.0-rc4-debian-bookworm-20260518	
+28.0-rc4-debian-bookworm-20260518-slim	
 28.0-rc4-debian-bookworm-20260610	amd64,arm64
 28.0-rc4-debian-bookworm-20260610-slim	amd64,arm64
 28.0-rc4-debian-bullseye-20250428	
@@ -32870,8 +32890,8 @@
 28.0-rc4-debian-bullseye-20260421-slim	
 28.0-rc4-debian-bullseye-20260505	
 28.0-rc4-debian-bullseye-20260505-slim	
-28.0-rc4-debian-bullseye-20260518	amd64,arm64
-28.0-rc4-debian-bullseye-20260518-slim	amd64,arm64
+28.0-rc4-debian-bullseye-20260518	
+28.0-rc4-debian-bullseye-20260518-slim	
 28.0-rc4-debian-bullseye-20260610	amd64,arm64
 28.0-rc4-debian-bullseye-20260610-slim	amd64,arm64
 28.0-rc4-debian-buster-20240612	
@@ -32902,8 +32922,8 @@
 28.0-rc4-debian-trixie-20260421-slim	
 28.0-rc4-debian-trixie-20260505	
 28.0-rc4-debian-trixie-20260505-slim	
-28.0-rc4-debian-trixie-20260518	amd64,arm64
-28.0-rc4-debian-trixie-20260518-slim	amd64,arm64
+28.0-rc4-debian-trixie-20260518	
+28.0-rc4-debian-trixie-20260518-slim	
 28.0-rc4-debian-trixie-20260610	amd64,arm64
 28.0-rc4-debian-trixie-20260610-slim	amd64,arm64
 28.0-rc4-ubuntu-focal-20250404	
@@ -32998,8 +33018,8 @@
 28.0.1-debian-bookworm-20260421-slim	
 28.0.1-debian-bookworm-20260505	
 28.0.1-debian-bookworm-20260505-slim	
-28.0.1-debian-bookworm-20260518	amd64,arm64
-28.0.1-debian-bookworm-20260518-slim	amd64,arm64
+28.0.1-debian-bookworm-20260518	
+28.0.1-debian-bookworm-20260518-slim	
 28.0.1-debian-bookworm-20260610	amd64,arm64
 28.0.1-debian-bookworm-20260610-slim	amd64,arm64
 28.0.1-debian-bullseye-20250610	
@@ -33032,8 +33052,8 @@
 28.0.1-debian-bullseye-20260421-slim	
 28.0.1-debian-bullseye-20260505	
 28.0.1-debian-bullseye-20260505-slim	
-28.0.1-debian-bullseye-20260518	amd64,arm64
-28.0.1-debian-bullseye-20260518-slim	amd64,arm64
+28.0.1-debian-bullseye-20260518	
+28.0.1-debian-bullseye-20260518-slim	
 28.0.1-debian-bullseye-20260610	amd64,arm64
 28.0.1-debian-bullseye-20260610-slim	amd64,arm64
 28.0.1-debian-buster-20240612	
@@ -33064,8 +33084,8 @@
 28.0.1-debian-trixie-20260421-slim	
 28.0.1-debian-trixie-20260505	
 28.0.1-debian-trixie-20260505-slim	
-28.0.1-debian-trixie-20260518	amd64,arm64
-28.0.1-debian-trixie-20260518-slim	amd64,arm64
+28.0.1-debian-trixie-20260518	
+28.0.1-debian-trixie-20260518-slim	
 28.0.1-debian-trixie-20260610	amd64,arm64
 28.0.1-debian-trixie-20260610-slim	amd64,arm64
 28.0.1-ubuntu-focal-20250404	
@@ -33142,8 +33162,8 @@
 28.0.2-debian-bookworm-20260421-slim	
 28.0.2-debian-bookworm-20260505	amd64,arm64
 28.0.2-debian-bookworm-20260505-slim	
-28.0.2-debian-bookworm-20260518	amd64,arm64
-28.0.2-debian-bookworm-20260518-slim	amd64,arm64
+28.0.2-debian-bookworm-20260518	
+28.0.2-debian-bookworm-20260518-slim	
 28.0.2-debian-bookworm-20260610	amd64,arm64
 28.0.2-debian-bookworm-20260610-slim	amd64,arm64
 28.0.2-debian-bullseye-20250630	
@@ -33180,8 +33200,8 @@
 28.0.2-debian-bullseye-20260421-slim	
 28.0.2-debian-bullseye-20260505	
 28.0.2-debian-bullseye-20260505-slim	
-28.0.2-debian-bullseye-20260518	amd64,arm64
-28.0.2-debian-bullseye-20260518-slim	amd64,arm64
+28.0.2-debian-bullseye-20260518	
+28.0.2-debian-bullseye-20260518-slim	
 28.0.2-debian-bullseye-20260610	amd64,arm64
 28.0.2-debian-bullseye-20260610-slim	amd64,arm64
 28.0.2-debian-trixie-20250721	
@@ -33216,8 +33236,8 @@
 28.0.2-debian-trixie-20260421-slim	
 28.0.2-debian-trixie-20260505	
 28.0.2-debian-trixie-20260505-slim	
-28.0.2-debian-trixie-20260518	amd64,arm64
-28.0.2-debian-trixie-20260518-slim	amd64,arm64
+28.0.2-debian-trixie-20260518	
+28.0.2-debian-trixie-20260518-slim	amd64
 28.0.2-debian-trixie-20260610	amd64,arm64
 28.0.2-debian-trixie-20260610-slim	amd64,arm64
 28.0.2-ubuntu-focal-20250404	
@@ -33288,8 +33308,8 @@
 28.0.3-debian-bookworm-20260421-slim	
 28.0.3-debian-bookworm-20260505	
 28.0.3-debian-bookworm-20260505-slim	
-28.0.3-debian-bookworm-20260518	amd64,arm64
-28.0.3-debian-bookworm-20260518-slim	amd64,arm64
+28.0.3-debian-bookworm-20260518	
+28.0.3-debian-bookworm-20260518-slim	
 28.0.3-debian-bookworm-20260610	amd64,arm64
 28.0.3-debian-bookworm-20260610-slim	amd64,arm64
 28.0.3-debian-bullseye-20250908	
@@ -33320,8 +33340,8 @@
 28.0.3-debian-bullseye-20260421-slim	
 28.0.3-debian-bullseye-20260505	
 28.0.3-debian-bullseye-20260505-slim	
-28.0.3-debian-bullseye-20260518	amd64,arm64
-28.0.3-debian-bullseye-20260518-slim	amd64,arm64
+28.0.3-debian-bullseye-20260518	
+28.0.3-debian-bullseye-20260518-slim	
 28.0.3-debian-bullseye-20260610	amd64,arm64
 28.0.3-debian-bullseye-20260610-slim	amd64,arm64
 28.0.3-debian-trixie-20250908	
@@ -33352,8 +33372,8 @@
 28.0.3-debian-trixie-20260421-slim	
 28.0.3-debian-trixie-20260505	
 28.0.3-debian-trixie-20260505-slim	
-28.0.3-debian-trixie-20260518	amd64,arm64
-28.0.3-debian-trixie-20260518-slim	amd64,arm64
+28.0.3-debian-trixie-20260518	
+28.0.3-debian-trixie-20260518-slim	
 28.0.3-debian-trixie-20260610	amd64,arm64
 28.0.3-debian-trixie-20260610-slim	amd64,arm64
 28.0.3-ubuntu-focal-20250404	
@@ -33388,10 +33408,12 @@
 28.0.4-alpine-3.22.2	
 28.0.4-alpine-3.22.3	
 28.0.4-alpine-3.22.4	
+28.0.4-alpine-3.22.5	amd64,arm64
 28.0.4-alpine-3.23.0	
 28.0.4-alpine-3.23.2	
 28.0.4-alpine-3.23.3	
 28.0.4-alpine-3.23.4	
+28.0.4-alpine-3.23.5	amd64,arm64
 28.0.4-debian-bookworm-20250908	
 28.0.4-debian-bookworm-20250908-slim	
 28.0.4-debian-bookworm-20250929	
@@ -33420,8 +33442,8 @@
 28.0.4-debian-bookworm-20260421-slim	
 28.0.4-debian-bookworm-20260505	
 28.0.4-debian-bookworm-20260505-slim	
-28.0.4-debian-bookworm-20260518	amd64,arm64
-28.0.4-debian-bookworm-20260518-slim	amd64,arm64
+28.0.4-debian-bookworm-20260518	
+28.0.4-debian-bookworm-20260518-slim	
 28.0.4-debian-bookworm-20260610	amd64,arm64
 28.0.4-debian-bookworm-20260610-slim	amd64,arm64
 28.0.4-debian-bullseye-20250908	
@@ -33452,8 +33474,8 @@
 28.0.4-debian-bullseye-20260421-slim	
 28.0.4-debian-bullseye-20260505	
 28.0.4-debian-bullseye-20260505-slim	
-28.0.4-debian-bullseye-20260518	amd64,arm64
-28.0.4-debian-bullseye-20260518-slim	amd64,arm64
+28.0.4-debian-bullseye-20260518	
+28.0.4-debian-bullseye-20260518-slim	
 28.0.4-debian-bullseye-20260610	amd64,arm64
 28.0.4-debian-bullseye-20260610-slim	amd64,arm64
 28.0.4-debian-trixie-20250908	
@@ -33484,8 +33506,8 @@
 28.0.4-debian-trixie-20260421-slim	
 28.0.4-debian-trixie-20260505	
 28.0.4-debian-trixie-20260505-slim	
-28.0.4-debian-trixie-20260518	amd64,arm64
-28.0.4-debian-trixie-20260518-slim	amd64,arm64
+28.0.4-debian-trixie-20260518	
+28.0.4-debian-trixie-20260518-slim	
 28.0.4-debian-trixie-20260610	amd64,arm64
 28.0.4-debian-trixie-20260610-slim	amd64,arm64
 28.0.4-ubuntu-focal-20250404	
@@ -33555,8 +33577,8 @@
 28.1-debian-bookworm-20260421-slim	
 28.1-debian-bookworm-20260505	
 28.1-debian-bookworm-20260505-slim	
-28.1-debian-bookworm-20260518	amd64,arm64
-28.1-debian-bookworm-20260518-slim	amd64,arm64
+28.1-debian-bookworm-20260518	
+28.1-debian-bookworm-20260518-slim	
 28.1-debian-bookworm-20260610	amd64,arm64
 28.1-debian-bookworm-20260610-slim	amd64,arm64
 28.1-debian-bullseye-20250908	
@@ -33587,8 +33609,8 @@
 28.1-debian-bullseye-20260421-slim	
 28.1-debian-bullseye-20260505	
 28.1-debian-bullseye-20260505-slim	
-28.1-debian-bullseye-20260518	amd64,arm64
-28.1-debian-bullseye-20260518-slim	amd64,arm64
+28.1-debian-bullseye-20260518	
+28.1-debian-bullseye-20260518-slim	
 28.1-debian-bullseye-20260610	amd64,arm64
 28.1-debian-bullseye-20260610-slim	amd64,arm64
 28.1-debian-trixie-20250908	
@@ -33619,7 +33641,7 @@
 28.1-debian-trixie-20260421-slim	
 28.1-debian-trixie-20260505	
 28.1-debian-trixie-20260505-slim	
-28.1-debian-trixie-20260518	amd64,arm64
+28.1-debian-trixie-20260518	
 28.1-debian-trixie-20260518-slim	amd64,arm64
 28.1-debian-trixie-20260610	amd64,arm64
 28.1-debian-trixie-20260610-slim	amd64,arm64
@@ -33652,10 +33674,12 @@
 28.1.1-alpine-3.22.2	
 28.1.1-alpine-3.22.3	
 28.1.1-alpine-3.22.4	
+28.1.1-alpine-3.22.5	amd64,arm64
 28.1.1-alpine-3.23.0	
 28.1.1-alpine-3.23.2	
 28.1.1-alpine-3.23.3	amd64
 28.1.1-alpine-3.23.4	amd64
+28.1.1-alpine-3.23.5	amd64,arm64
 28.1.1-debian-bookworm-20250929	
 28.1.1-debian-bookworm-20250929-slim	
 28.1.1-debian-bookworm-20251020	
@@ -33682,8 +33706,8 @@
 28.1.1-debian-bookworm-20260421-slim	
 28.1.1-debian-bookworm-20260505	
 28.1.1-debian-bookworm-20260505-slim	
-28.1.1-debian-bookworm-20260518	amd64,arm64
-28.1.1-debian-bookworm-20260518-slim	amd64,arm64
+28.1.1-debian-bookworm-20260518	
+28.1.1-debian-bookworm-20260518-slim	
 28.1.1-debian-bookworm-20260610	amd64,arm64
 28.1.1-debian-bookworm-20260610-slim	amd64,arm64
 28.1.1-debian-bullseye-20250929	
@@ -33712,8 +33736,8 @@
 28.1.1-debian-bullseye-20260421-slim	
 28.1.1-debian-bullseye-20260505	
 28.1.1-debian-bullseye-20260505-slim	
-28.1.1-debian-bullseye-20260518	amd64,arm64
-28.1.1-debian-bullseye-20260518-slim	amd64,arm64
+28.1.1-debian-bullseye-20260518	
+28.1.1-debian-bullseye-20260518-slim	
 28.1.1-debian-bullseye-20260610	amd64,arm64
 28.1.1-debian-bullseye-20260610-slim	amd64,arm64
 28.1.1-debian-trixie-20250929	
@@ -33742,8 +33766,8 @@
 28.1.1-debian-trixie-20260421-slim	
 28.1.1-debian-trixie-20260505	
 28.1.1-debian-trixie-20260505-slim	
-28.1.1-debian-trixie-20260518	amd64,arm64
-28.1.1-debian-trixie-20260518-slim	amd64,arm64
+28.1.1-debian-trixie-20260518	
+28.1.1-debian-trixie-20260518-slim	
 28.1.1-debian-trixie-20260610	amd64,arm64
 28.1.1-debian-trixie-20260610-slim	amd64,arm64
 28.1.1-ubuntu-focal-20250404	
@@ -33773,10 +33797,12 @@
 28.2-alpine-3.22.2	
 28.2-alpine-3.22.3	
 28.2-alpine-3.22.4	
+28.2-alpine-3.22.5	amd64,arm64
 28.2-alpine-3.23.0	
 28.2-alpine-3.23.2	
 28.2-alpine-3.23.3	
 28.2-alpine-3.23.4	
+28.2-alpine-3.23.5	amd64,arm64
 28.2-debian-bookworm-20251117	
 28.2-debian-bookworm-20251117-slim	
 28.2-debian-bookworm-20251208	
@@ -33797,8 +33823,8 @@
 28.2-debian-bookworm-20260421-slim	
 28.2-debian-bookworm-20260505	
 28.2-debian-bookworm-20260505-slim	
-28.2-debian-bookworm-20260518	amd64,arm64
-28.2-debian-bookworm-20260518-slim	amd64,arm64
+28.2-debian-bookworm-20260518	
+28.2-debian-bookworm-20260518-slim	
 28.2-debian-bookworm-20260610	amd64,arm64
 28.2-debian-bookworm-20260610-slim	amd64,arm64
 28.2-debian-bullseye-20251117	
@@ -33821,8 +33847,8 @@
 28.2-debian-bullseye-20260421-slim	
 28.2-debian-bullseye-20260505	
 28.2-debian-bullseye-20260505-slim	
-28.2-debian-bullseye-20260518	amd64,arm64
-28.2-debian-bullseye-20260518-slim	amd64,arm64
+28.2-debian-bullseye-20260518	
+28.2-debian-bullseye-20260518-slim	
 28.2-debian-bullseye-20260610	amd64,arm64
 28.2-debian-bullseye-20260610-slim	amd64,arm64
 28.2-debian-trixie-20251117	
@@ -33845,8 +33871,8 @@
 28.2-debian-trixie-20260421-slim	
 28.2-debian-trixie-20260505	
 28.2-debian-trixie-20260505-slim	
-28.2-debian-trixie-20260518	amd64,arm64
-28.2-debian-trixie-20260518-slim	amd64,arm64
+28.2-debian-trixie-20260518	
+28.2-debian-trixie-20260518-slim	
 28.2-debian-trixie-20260610	amd64,arm64
 28.2-debian-trixie-20260610-slim	amd64,arm64
 28.2-ubuntu-focal-20250404	
@@ -33896,8 +33922,8 @@
 28.3-debian-bookworm-20260421-slim	
 28.3-debian-bookworm-20260505	
 28.3-debian-bookworm-20260505-slim	amd64,arm64
-28.3-debian-bookworm-20260518	amd64,arm64
-28.3-debian-bookworm-20260518-slim	amd64,arm64
+28.3-debian-bookworm-20260518	
+28.3-debian-bookworm-20260518-slim	
 28.3-debian-bookworm-20260610	amd64,arm64
 28.3-debian-bookworm-20260610-slim	amd64,arm64
 28.3-debian-bullseye-20251208	
@@ -33918,8 +33944,8 @@
 28.3-debian-bullseye-20260421-slim	
 28.3-debian-bullseye-20260505	
 28.3-debian-bullseye-20260505-slim	
-28.3-debian-bullseye-20260518	amd64,arm64
-28.3-debian-bullseye-20260518-slim	amd64,arm64
+28.3-debian-bullseye-20260518	
+28.3-debian-bullseye-20260518-slim	
 28.3-debian-bullseye-20260610	amd64,arm64
 28.3-debian-bullseye-20260610-slim	amd64,arm64
 28.3-debian-trixie-20251208	
@@ -33940,8 +33966,8 @@
 28.3-debian-trixie-20260421-slim	
 28.3-debian-trixie-20260505	
 28.3-debian-trixie-20260505-slim	
-28.3-debian-trixie-20260518	amd64,arm64
-28.3-debian-trixie-20260518-slim	amd64,arm64
+28.3-debian-trixie-20260518	
+28.3-debian-trixie-20260518-slim	
 28.3-debian-trixie-20260610	amd64,arm64
 28.3-debian-trixie-20260610-slim	amd64,arm64
 28.3-ubuntu-focal-20250404	
@@ -33972,7 +33998,7 @@
 28.3.1-alpine-3.23.4	
 28.3.1-debian-bookworm-20260112	
 28.3.1-debian-bookworm-20260112-slim	
-28.3.1-debian-bookworm-20260202	amd64
+28.3.1-debian-bookworm-20260202	
 28.3.1-debian-bookworm-20260202-slim	
 28.3.1-debian-bookworm-20260223	
 28.3.1-debian-bookworm-20260223-slim	
@@ -33984,8 +34010,8 @@
 28.3.1-debian-bookworm-20260421-slim	
 28.3.1-debian-bookworm-20260505	
 28.3.1-debian-bookworm-20260505-slim	
-28.3.1-debian-bookworm-20260518	amd64,arm64
-28.3.1-debian-bookworm-20260518-slim	amd64,arm64
+28.3.1-debian-bookworm-20260518	
+28.3.1-debian-bookworm-20260518-slim	
 28.3.1-debian-bookworm-20260610	amd64,arm64
 28.3.1-debian-bookworm-20260610-slim	amd64,arm64
 28.3.1-debian-bullseye-20260112	
@@ -34002,8 +34028,8 @@
 28.3.1-debian-bullseye-20260421-slim	
 28.3.1-debian-bullseye-20260505	
 28.3.1-debian-bullseye-20260505-slim	
-28.3.1-debian-bullseye-20260518	amd64,arm64
-28.3.1-debian-bullseye-20260518-slim	amd64,arm64
+28.3.1-debian-bullseye-20260518	
+28.3.1-debian-bullseye-20260518-slim	
 28.3.1-debian-bullseye-20260610	amd64,arm64
 28.3.1-debian-bullseye-20260610-slim	amd64,arm64
 28.3.1-debian-trixie-20260112	
@@ -34020,8 +34046,8 @@
 28.3.1-debian-trixie-20260421-slim	
 28.3.1-debian-trixie-20260505	
 28.3.1-debian-trixie-20260505-slim	
-28.3.1-debian-trixie-20260518	amd64,arm64
-28.3.1-debian-trixie-20260518-slim	amd64,arm64
+28.3.1-debian-trixie-20260518	
+28.3.1-debian-trixie-20260518-slim	
 28.3.1-debian-trixie-20260610	amd64,arm64
 28.3.1-debian-trixie-20260610-slim	amd64,arm64
 28.3.1-ubuntu-focal-20250404	
@@ -34058,8 +34084,8 @@
 28.3.2-debian-bookworm-20260421-slim	
 28.3.2-debian-bookworm-20260505	amd64,arm64
 28.3.2-debian-bookworm-20260505-slim	
-28.3.2-debian-bookworm-20260518	amd64,arm64
-28.3.2-debian-bookworm-20260518-slim	amd64,arm64
+28.3.2-debian-bookworm-20260518	
+28.3.2-debian-bookworm-20260518-slim	
 28.3.2-debian-bookworm-20260610	amd64,arm64
 28.3.2-debian-bookworm-20260610-slim	amd64,arm64
 28.3.2-debian-bullseye-20260202	
@@ -34074,8 +34100,8 @@
 28.3.2-debian-bullseye-20260421-slim	
 28.3.2-debian-bullseye-20260505	
 28.3.2-debian-bullseye-20260505-slim	
-28.3.2-debian-bullseye-20260518	amd64,arm64
-28.3.2-debian-bullseye-20260518-slim	amd64,arm64
+28.3.2-debian-bullseye-20260518	
+28.3.2-debian-bullseye-20260518-slim	
 28.3.2-debian-bullseye-20260610	amd64,arm64
 28.3.2-debian-bullseye-20260610-slim	amd64,arm64
 28.3.2-debian-trixie-20260202	
@@ -34090,8 +34116,8 @@
 28.3.2-debian-trixie-20260421-slim	
 28.3.2-debian-trixie-20260505	
 28.3.2-debian-trixie-20260505-slim	
-28.3.2-debian-trixie-20260518	amd64,arm64
-28.3.2-debian-trixie-20260518-slim	amd64,arm64
+28.3.2-debian-trixie-20260518	
+28.3.2-debian-trixie-20260518-slim	
 28.3.2-debian-trixie-20260610	amd64,arm64
 28.3.2-debian-trixie-20260610-slim	amd64,arm64
 28.3.2-ubuntu-focal-20250404	
@@ -34111,8 +34137,10 @@
 28.3.3-alpine-3.21.7	
 28.3.3-alpine-3.22.3	
 28.3.3-alpine-3.22.4	
+28.3.3-alpine-3.22.5	amd64,arm64
 28.3.3-alpine-3.23.3	
 28.3.3-alpine-3.23.4	
+28.3.3-alpine-3.23.5	amd64,arm64
 28.3.3-debian-bookworm-20260223	
 28.3.3-debian-bookworm-20260223-slim	
 28.3.3-debian-bookworm-20260316	
@@ -34124,7 +34152,7 @@
 28.3.3-debian-bookworm-20260505	
 28.3.3-debian-bookworm-20260505-slim	
 28.3.3-debian-bookworm-20260518	amd64,arm64
-28.3.3-debian-bookworm-20260518-slim	amd64,arm64
+28.3.3-debian-bookworm-20260518-slim	
 28.3.3-debian-bookworm-20260610	amd64,arm64
 28.3.3-debian-bookworm-20260610-slim	amd64,arm64
 28.3.3-debian-bullseye-20260223	
@@ -34137,8 +34165,8 @@
 28.3.3-debian-bullseye-20260421-slim	
 28.3.3-debian-bullseye-20260505	
 28.3.3-debian-bullseye-20260505-slim	
-28.3.3-debian-bullseye-20260518	amd64,arm64
-28.3.3-debian-bullseye-20260518-slim	amd64,arm64
+28.3.3-debian-bullseye-20260518	
+28.3.3-debian-bullseye-20260518-slim	
 28.3.3-debian-bullseye-20260610	amd64,arm64
 28.3.3-debian-bullseye-20260610-slim	amd64,arm64
 28.3.3-debian-trixie-20260223	
@@ -34151,8 +34179,8 @@
 28.3.3-debian-trixie-20260421-slim	
 28.3.3-debian-trixie-20260505	
 28.3.3-debian-trixie-20260505-slim	
-28.3.3-debian-trixie-20260518	amd64,arm64
-28.3.3-debian-trixie-20260518-slim	amd64,arm64
+28.3.3-debian-trixie-20260518	
+28.3.3-debian-trixie-20260518-slim	
 28.3.3-debian-trixie-20260610	amd64,arm64
 28.3.3-debian-trixie-20260610-slim	amd64,arm64
 28.3.3-ubuntu-focal-20250404	
@@ -34185,8 +34213,8 @@
 28.4-debian-bookworm-20260421-slim	
 28.4-debian-bookworm-20260505	
 28.4-debian-bookworm-20260505-slim	
-28.4-debian-bookworm-20260518	amd64,arm64
-28.4-debian-bookworm-20260518-slim	amd64,arm64
+28.4-debian-bookworm-20260518	
+28.4-debian-bookworm-20260518-slim	
 28.4-debian-bookworm-20260610	amd64,arm64
 28.4-debian-bookworm-20260610-slim	amd64,arm64
 28.4-debian-bullseye-20260223	
@@ -34199,8 +34227,8 @@
 28.4-debian-bullseye-20260421-slim	
 28.4-debian-bullseye-20260505	
 28.4-debian-bullseye-20260505-slim	
-28.4-debian-bullseye-20260518	amd64,arm64
-28.4-debian-bullseye-20260518-slim	amd64,arm64
+28.4-debian-bullseye-20260518	
+28.4-debian-bullseye-20260518-slim	
 28.4-debian-bullseye-20260610	amd64,arm64
 28.4-debian-bullseye-20260610-slim	amd64,arm64
 28.4-debian-trixie-20260223	amd64,arm64
@@ -34213,8 +34241,8 @@
 28.4-debian-trixie-20260421-slim	
 28.4-debian-trixie-20260505	amd64
 28.4-debian-trixie-20260505-slim	
-28.4-debian-trixie-20260518	amd64,arm64
-28.4-debian-trixie-20260518-slim	amd64,arm64
+28.4-debian-trixie-20260518	
+28.4-debian-trixie-20260518-slim	
 28.4-debian-trixie-20260610	amd64,arm64
 28.4-debian-trixie-20260610-slim	amd64,arm64
 28.4-ubuntu-focal-20250404	amd64,arm64
@@ -34246,8 +34274,8 @@
 28.4.1-debian-bookworm-20260421-slim	
 28.4.1-debian-bookworm-20260505	
 28.4.1-debian-bookworm-20260505-slim	
-28.4.1-debian-bookworm-20260518	amd64,arm64
-28.4.1-debian-bookworm-20260518-slim	amd64,arm64
+28.4.1-debian-bookworm-20260518	
+28.4.1-debian-bookworm-20260518-slim	
 28.4.1-debian-bookworm-20260610	amd64,arm64
 28.4.1-debian-bookworm-20260610-slim	amd64,arm64
 28.4.1-debian-bullseye-20260223	
@@ -34260,8 +34288,8 @@
 28.4.1-debian-bullseye-20260421-slim	
 28.4.1-debian-bullseye-20260505	
 28.4.1-debian-bullseye-20260505-slim	
-28.4.1-debian-bullseye-20260518	amd64,arm64
-28.4.1-debian-bullseye-20260518-slim	amd64,arm64
+28.4.1-debian-bullseye-20260518	
+28.4.1-debian-bullseye-20260518-slim	
 28.4.1-debian-bullseye-20260610	amd64,arm64
 28.4.1-debian-bullseye-20260610-slim	amd64,arm64
 28.4.1-debian-trixie-20260223	
@@ -34274,8 +34302,8 @@
 28.4.1-debian-trixie-20260421-slim	
 28.4.1-debian-trixie-20260505	
 28.4.1-debian-trixie-20260505-slim	
-28.4.1-debian-trixie-20260518	amd64,arm64
-28.4.1-debian-trixie-20260518-slim	amd64,arm64
+28.4.1-debian-trixie-20260518	
+28.4.1-debian-trixie-20260518-slim	
 28.4.1-debian-trixie-20260610	amd64,arm64
 28.4.1-debian-trixie-20260610-slim	amd64,arm64
 28.4.1-ubuntu-focal-20250404	
@@ -34303,8 +34331,8 @@
 28.4.2-debian-bookworm-20260421-slim	
 28.4.2-debian-bookworm-20260505	
 28.4.2-debian-bookworm-20260505-slim	
-28.4.2-debian-bookworm-20260518	amd64,arm64
-28.4.2-debian-bookworm-20260518-slim	amd64,arm64
+28.4.2-debian-bookworm-20260518	
+28.4.2-debian-bookworm-20260518-slim	
 28.4.2-debian-bookworm-20260610	amd64,arm64
 28.4.2-debian-bookworm-20260610-slim	amd64,arm64
 28.4.2-debian-bullseye-20260406	
@@ -34313,8 +34341,8 @@
 28.4.2-debian-bullseye-20260421-slim	
 28.4.2-debian-bullseye-20260505	
 28.4.2-debian-bullseye-20260505-slim	amd64,arm64
-28.4.2-debian-bullseye-20260518	amd64,arm64
-28.4.2-debian-bullseye-20260518-slim	amd64,arm64
+28.4.2-debian-bullseye-20260518	
+28.4.2-debian-bullseye-20260518-slim	
 28.4.2-debian-bullseye-20260610	amd64,arm64
 28.4.2-debian-bullseye-20260610-slim	amd64,arm64
 28.4.2-debian-trixie-20260406	
@@ -34323,8 +34351,8 @@
 28.4.2-debian-trixie-20260421-slim	
 28.4.2-debian-trixie-20260505	
 28.4.2-debian-trixie-20260505-slim	
-28.4.2-debian-trixie-20260518	amd64,arm64
-28.4.2-debian-trixie-20260518-slim	amd64,arm64
+28.4.2-debian-trixie-20260518	
+28.4.2-debian-trixie-20260518-slim	
 28.4.2-debian-trixie-20260610	amd64,arm64
 28.4.2-debian-trixie-20260610-slim	amd64,arm64
 28.4.2-ubuntu-focal-20250404	
@@ -34339,15 +34367,17 @@
 28.4.3-alpine-3.20.9	
 28.4.3-alpine-3.21.7	
 28.4.3-alpine-3.22.4	
+28.4.3-alpine-3.22.5	amd64,arm64
 28.4.3-alpine-3.23.4	
+28.4.3-alpine-3.23.5	amd64,arm64
 28.4.3-debian-bookworm-20260406	
 28.4.3-debian-bookworm-20260406-slim	
 28.4.3-debian-bookworm-20260421	
 28.4.3-debian-bookworm-20260421-slim	
 28.4.3-debian-bookworm-20260505	
-28.4.3-debian-bookworm-20260505-slim	amd64
-28.4.3-debian-bookworm-20260518	amd64,arm64
-28.4.3-debian-bookworm-20260518-slim	amd64,arm64
+28.4.3-debian-bookworm-20260505-slim	
+28.4.3-debian-bookworm-20260518	
+28.4.3-debian-bookworm-20260518-slim	
 28.4.3-debian-bookworm-20260610	amd64,arm64
 28.4.3-debian-bookworm-20260610-slim	amd64,arm64
 28.4.3-debian-bullseye-20260406	
@@ -34356,8 +34386,8 @@
 28.4.3-debian-bullseye-20260421-slim	
 28.4.3-debian-bullseye-20260505	
 28.4.3-debian-bullseye-20260505-slim	
-28.4.3-debian-bullseye-20260518	amd64,arm64
-28.4.3-debian-bullseye-20260518-slim	amd64,arm64
+28.4.3-debian-bullseye-20260518	
+28.4.3-debian-bullseye-20260518-slim	
 28.4.3-debian-bullseye-20260610	amd64,arm64
 28.4.3-debian-bullseye-20260610-slim	amd64,arm64
 28.4.3-debian-trixie-20260406	
@@ -34366,7 +34396,7 @@
 28.4.3-debian-trixie-20260421-slim	
 28.4.3-debian-trixie-20260505	
 28.4.3-debian-trixie-20260505-slim	
-28.4.3-debian-trixie-20260518	amd64,arm64
+28.4.3-debian-trixie-20260518	amd64
 28.4.3-debian-trixie-20260518-slim	amd64,arm64
 28.4.3-debian-trixie-20260610	amd64,arm64
 28.4.3-debian-trixie-20260610-slim	amd64,arm64
@@ -34386,23 +34416,23 @@
 28.5-debian-bookworm-20260421-slim	amd64
 28.5-debian-bookworm-20260505	
 28.5-debian-bookworm-20260505-slim	amd64,arm64
-28.5-debian-bookworm-20260518	amd64,arm64
-28.5-debian-bookworm-20260518-slim	amd64,arm64
+28.5-debian-bookworm-20260518	
+28.5-debian-bookworm-20260518-slim	arm64
 28.5-debian-bookworm-20260610	amd64,arm64
 28.5-debian-bookworm-20260610-slim	amd64,arm64
 28.5-debian-bullseye-20260421	
 28.5-debian-bullseye-20260421-slim	
 28.5-debian-bullseye-20260505	
 28.5-debian-bullseye-20260505-slim	
-28.5-debian-bullseye-20260518	amd64,arm64
-28.5-debian-bullseye-20260518-slim	amd64,arm64
+28.5-debian-bullseye-20260518	
+28.5-debian-bullseye-20260518-slim	
 28.5-debian-bullseye-20260610	amd64,arm64
 28.5-debian-bullseye-20260610-slim	amd64,arm64
 28.5-debian-trixie-20260421	
 28.5-debian-trixie-20260421-slim	
 28.5-debian-trixie-20260505	amd64
 28.5-debian-trixie-20260505-slim	
-28.5-debian-trixie-20260518	amd64,arm64
+28.5-debian-trixie-20260518	
 28.5-debian-trixie-20260518-slim	amd64,arm64
 28.5-debian-trixie-20260610	amd64,arm64
 28.5-debian-trixie-20260610-slim	amd64,arm64
@@ -34435,7 +34465,9 @@
 28.5.0.2-alpine-3.20.9	amd64,arm64
 28.5.0.2-alpine-3.21.7	amd64,arm64
 28.5.0.2-alpine-3.22.4	amd64,arm64
+28.5.0.2-alpine-3.22.5	amd64,arm64
 28.5.0.2-alpine-3.23.4	amd64,arm64
+28.5.0.2-alpine-3.23.5	amd64,arm64
 28.5.0.2-debian-bookworm-20260518	amd64,arm64
 28.5.0.2-debian-bookworm-20260518-slim	amd64,arm64
 28.5.0.2-debian-bookworm-20260610	amd64,arm64
@@ -34458,19 +34490,19 @@
 29.0-alpine-3.23.4	amd64,arm64
 29.0-debian-bookworm-20260505	amd64,arm64
 29.0-debian-bookworm-20260505-slim	amd64,arm64
-29.0-debian-bookworm-20260518	amd64,arm64
-29.0-debian-bookworm-20260518-slim	amd64,arm64
+29.0-debian-bookworm-20260518	
+29.0-debian-bookworm-20260518-slim	arm64
 29.0-debian-bookworm-20260610	amd64,arm64
 29.0-debian-bookworm-20260610-slim	amd64,arm64
 29.0-debian-bullseye-20260505	amd64,arm64
 29.0-debian-bullseye-20260505-slim	amd64,arm64
-29.0-debian-bullseye-20260518	amd64,arm64
-29.0-debian-bullseye-20260518-slim	amd64,arm64
+29.0-debian-bullseye-20260518	
+29.0-debian-bullseye-20260518-slim	
 29.0-debian-bullseye-20260610	amd64,arm64
 29.0-debian-bullseye-20260610-slim	amd64,arm64
 29.0-debian-trixie-20260505	amd64,arm64
 29.0-debian-trixie-20260505-slim	amd64,arm64
-29.0-debian-trixie-20260518	amd64,arm64
+29.0-debian-trixie-20260518	amd64
 29.0-debian-trixie-20260518-slim	amd64,arm64
 29.0-debian-trixie-20260610	amd64,arm64
 29.0-debian-trixie-20260610-slim	amd64,arm64
@@ -34493,8 +34525,8 @@
 29.0-rc1-debian-bookworm-20260421-slim	
 29.0-rc1-debian-bookworm-20260505	
 29.0-rc1-debian-bookworm-20260505-slim	
-29.0-rc1-debian-bookworm-20260518	amd64,arm64
-29.0-rc1-debian-bookworm-20260518-slim	amd64,arm64
+29.0-rc1-debian-bookworm-20260518	
+29.0-rc1-debian-bookworm-20260518-slim	
 29.0-rc1-debian-bookworm-20260610	amd64,arm64
 29.0-rc1-debian-bookworm-20260610-slim	amd64,arm64
 29.0-rc1-debian-bullseye-20260202	
@@ -34509,8 +34541,8 @@
 29.0-rc1-debian-bullseye-20260421-slim	
 29.0-rc1-debian-bullseye-20260505	
 29.0-rc1-debian-bullseye-20260505-slim	
-29.0-rc1-debian-bullseye-20260518	amd64,arm64
-29.0-rc1-debian-bullseye-20260518-slim	amd64,arm64
+29.0-rc1-debian-bullseye-20260518	
+29.0-rc1-debian-bullseye-20260518-slim	
 29.0-rc1-debian-bullseye-20260610	amd64,arm64
 29.0-rc1-debian-bullseye-20260610-slim	amd64,arm64
 29.0-rc1-debian-trixie-20260202	
@@ -34525,8 +34557,8 @@
 29.0-rc1-debian-trixie-20260421-slim	
 29.0-rc1-debian-trixie-20260505	
 29.0-rc1-debian-trixie-20260505-slim	
-29.0-rc1-debian-trixie-20260518	amd64,arm64
-29.0-rc1-debian-trixie-20260518-slim	amd64,arm64
+29.0-rc1-debian-trixie-20260518	
+29.0-rc1-debian-trixie-20260518-slim	
 29.0-rc1-debian-trixie-20260610	amd64,arm64
 29.0-rc1-debian-trixie-20260610-slim	amd64,arm64
 29.0-rc1-ubuntu-focal-20250404	
@@ -34557,8 +34589,8 @@
 29.0-rc2-debian-bookworm-20260421-slim	
 29.0-rc2-debian-bookworm-20260505	
 29.0-rc2-debian-bookworm-20260505-slim	
-29.0-rc2-debian-bookworm-20260518	amd64,arm64
-29.0-rc2-debian-bookworm-20260518-slim	amd64,arm64
+29.0-rc2-debian-bookworm-20260518	
+29.0-rc2-debian-bookworm-20260518-slim	
 29.0-rc2-debian-bookworm-20260610	amd64,arm64
 29.0-rc2-debian-bookworm-20260610-slim	amd64,arm64
 29.0-rc2-debian-bullseye-20260316	
@@ -34569,8 +34601,8 @@
 29.0-rc2-debian-bullseye-20260421-slim	
 29.0-rc2-debian-bullseye-20260505	
 29.0-rc2-debian-bullseye-20260505-slim	
-29.0-rc2-debian-bullseye-20260518	amd64,arm64
-29.0-rc2-debian-bullseye-20260518-slim	amd64,arm64
+29.0-rc2-debian-bullseye-20260518	
+29.0-rc2-debian-bullseye-20260518-slim	
 29.0-rc2-debian-bullseye-20260610	amd64,arm64
 29.0-rc2-debian-bullseye-20260610-slim	amd64,arm64
 29.0-rc2-debian-trixie-20260316	
@@ -34581,8 +34613,8 @@
 29.0-rc2-debian-trixie-20260421-slim	
 29.0-rc2-debian-trixie-20260505	
 29.0-rc2-debian-trixie-20260505-slim	
-29.0-rc2-debian-trixie-20260518	amd64,arm64
-29.0-rc2-debian-trixie-20260518-slim	amd64,arm64
+29.0-rc2-debian-trixie-20260518	
+29.0-rc2-debian-trixie-20260518-slim	
 29.0-rc2-debian-trixie-20260610	amd64,arm64
 29.0-rc2-debian-trixie-20260610-slim	amd64,arm64
 29.0-rc2-ubuntu-focal-20250404	
@@ -34608,8 +34640,8 @@
 29.0-rc3-debian-bookworm-20260421-slim	
 29.0-rc3-debian-bookworm-20260505	
 29.0-rc3-debian-bookworm-20260505-slim	
-29.0-rc3-debian-bookworm-20260518	amd64,arm64
-29.0-rc3-debian-bookworm-20260518-slim	amd64,arm64
+29.0-rc3-debian-bookworm-20260518	
+29.0-rc3-debian-bookworm-20260518-slim	
 29.0-rc3-debian-bookworm-20260610	amd64,arm64
 29.0-rc3-debian-bookworm-20260610-slim	amd64,arm64
 29.0-rc3-debian-bullseye-20260406	
@@ -34618,8 +34650,8 @@
 29.0-rc3-debian-bullseye-20260421-slim	
 29.0-rc3-debian-bullseye-20260505	
 29.0-rc3-debian-bullseye-20260505-slim	
-29.0-rc3-debian-bullseye-20260518	amd64,arm64
-29.0-rc3-debian-bullseye-20260518-slim	amd64,arm64
+29.0-rc3-debian-bullseye-20260518	
+29.0-rc3-debian-bullseye-20260518-slim	
 29.0-rc3-debian-bullseye-20260610	amd64,arm64
 29.0-rc3-debian-bullseye-20260610-slim	amd64,arm64
 29.0-rc3-debian-trixie-20260406	
@@ -34628,8 +34660,8 @@
 29.0-rc3-debian-trixie-20260421-slim	
 29.0-rc3-debian-trixie-20260505	
 29.0-rc3-debian-trixie-20260505-slim	
-29.0-rc3-debian-trixie-20260518	amd64,arm64
-29.0-rc3-debian-trixie-20260518-slim	amd64,arm64
+29.0-rc3-debian-trixie-20260518	
+29.0-rc3-debian-trixie-20260518-slim	
 29.0-rc3-debian-trixie-20260610	amd64,arm64
 29.0-rc3-debian-trixie-20260610-slim	amd64,arm64
 29.0-rc3-ubuntu-focal-20250404	
@@ -34669,7 +34701,9 @@
 29.0.2-alpine-3.20.9	amd64,arm64
 29.0.2-alpine-3.21.7	amd64,arm64
 29.0.2-alpine-3.22.4	amd64,arm64
+29.0.2-alpine-3.22.5	amd64,arm64
 29.0.2-alpine-3.23.4	amd64,arm64
+29.0.2-alpine-3.23.5	amd64,arm64
 29.0.2-debian-bookworm-20260518	amd64,arm64
 29.0.2-debian-bookworm-20260518-slim	amd64,arm64
 29.0.2-debian-bookworm-20260610	amd64,arm64
