@@ -24088,6 +24088,7 @@
 26.0.2-alpine-3.23.3	amd64,arm64
 26.0.2-alpine-3.23.4	amd64,arm64
 26.0.2-alpine-3.23.5	amd64,arm64
+26.0.2-alpine-3.24.1	amd64,arm64
 26.0.2-debian-bookworm-20230612	amd64,arm64
 26.0.2-debian-bookworm-20230612-slim	amd64,arm64
 26.0.2-debian-bookworm-20231009	amd64,arm64
@@ -24713,6 +24714,7 @@
 26.1.2-alpine-3.23.3	amd64,arm64
 26.1.2-alpine-3.23.4	amd64,arm64
 26.1.2-alpine-3.23.5	amd64,arm64
+26.1.2-alpine-3.24.1	amd64,arm64
 26.1.2-debian-bookworm-20230612	amd64,arm64
 26.1.2-debian-bookworm-20230612-slim	amd64,arm64
 26.1.2-debian-bookworm-20231009	amd64,arm64
@@ -27350,6 +27352,7 @@
 26.2.5.21-alpine-3.22.5	amd64,arm64
 26.2.5.21-alpine-3.23.4	amd64,arm64
 26.2.5.21-alpine-3.23.5	amd64,arm64
+26.2.5.21-alpine-3.24.1	amd64,arm64
 26.2.5.21-debian-bookworm-20260518	amd64,arm64
 26.2.5.21-debian-bookworm-20260518-slim	amd64,arm64
 26.2.5.21-debian-bookworm-20260610	amd64,arm64
@@ -28958,6 +28961,7 @@
 27.0.1-alpine-3.23.3	amd64,arm64
 27.0.1-alpine-3.23.4	amd64,arm64
 27.0.1-alpine-3.23.5	amd64,arm64
+27.0.1-alpine-3.24.1	amd64,arm64
 27.0.1-debian-bookworm-20240701	amd64,arm64
 27.0.1-debian-bookworm-20240701-slim	amd64,arm64
 27.0.1-debian-bookworm-20240722	amd64,arm64
@@ -29647,6 +29651,7 @@
 27.1.3-alpine-3.23.3	amd64,arm64
 27.1.3-alpine-3.23.4	amd64,arm64
 27.1.3-alpine-3.23.5	amd64,arm64
+27.1.3-alpine-3.24.1	amd64,arm64
 27.1.3-debian-bookworm-20241202	amd64,arm64
 27.1.3-debian-bookworm-20241202-slim	amd64,arm64
 27.1.3-debian-bookworm-20241223	amd64,arm64
@@ -30424,6 +30429,7 @@
 27.2.4-alpine-3.23.3	amd64,arm64
 27.2.4-alpine-3.23.4	amd64,arm64
 27.2.4-alpine-3.23.5	amd64,arm64
+27.2.4-alpine-3.24.1	amd64,arm64
 27.2.4-debian-bookworm-20250203	amd64,arm64
 27.2.4-debian-bookworm-20250203-slim	amd64,arm64
 27.2.4-debian-bookworm-20250224	amd64,arm64
@@ -31554,6 +31560,7 @@
 27.3.4.13-alpine-3.22.5	amd64,arm64
 27.3.4.13-alpine-3.23.4	amd64,arm64
 27.3.4.13-alpine-3.23.5	amd64,arm64
+27.3.4.13-alpine-3.24.1	amd64,arm64
 27.3.4.13-debian-bookworm-20260518	amd64,arm64
 27.3.4.13-debian-bookworm-20260518-slim	amd64,arm64
 27.3.4.13-debian-bookworm-20260610	amd64,arm64
@@ -33528,6 +33535,7 @@
 28.0.4-alpine-3.23.3	amd64,arm64
 28.0.4-alpine-3.23.4	amd64,arm64
 28.0.4-alpine-3.23.5	amd64,arm64
+28.0.4-alpine-3.24.1	amd64,arm64
 28.0.4-debian-bookworm-20250908	amd64,arm64
 28.0.4-debian-bookworm-20250908-slim	amd64,arm64
 28.0.4-debian-bookworm-20250929	amd64,arm64
@@ -33800,6 +33808,7 @@
 28.1.1-alpine-3.23.3	amd64,arm64
 28.1.1-alpine-3.23.4	amd64,arm64
 28.1.1-alpine-3.23.5	amd64,arm64
+28.1.1-alpine-3.24.1	amd64,arm64
 28.1.1-debian-bookworm-20250929	amd64,arm64
 28.1.1-debian-bookworm-20250929-slim	amd64,arm64
 28.1.1-debian-bookworm-20251020	amd64,arm64
@@ -33929,6 +33938,7 @@
 28.2-alpine-3.23.3	amd64,arm64
 28.2-alpine-3.23.4	amd64,arm64
 28.2-alpine-3.23.5	amd64,arm64
+28.2-alpine-3.24.1	amd64,arm64
 28.2-debian-bookworm-20251117	amd64,arm64
 28.2-debian-bookworm-20251117-slim	amd64,arm64
 28.2-debian-bookworm-20251208	amd64,arm64
@@ -34273,6 +34283,7 @@
 28.3.3-alpine-3.23.3	amd64,arm64
 28.3.3-alpine-3.23.4	amd64,arm64
 28.3.3-alpine-3.23.5	amd64,arm64
+28.3.3-alpine-3.24.1	amd64,arm64
 28.3.3-debian-bookworm-20260223	amd64,arm64
 28.3.3-debian-bookworm-20260223-slim	amd64,arm64
 28.3.3-debian-bookworm-20260316	amd64,arm64
@@ -34508,6 +34519,7 @@
 28.4.3-alpine-3.22.5	amd64,arm64
 28.4.3-alpine-3.23.4	amd64,arm64
 28.4.3-alpine-3.23.5	amd64,arm64
+28.4.3-alpine-3.24.1	amd64,arm64
 28.4.3-debian-bookworm-20260406	amd64,arm64
 28.4.3-debian-bookworm-20260406-slim	amd64,arm64
 28.4.3-debian-bookworm-20260421	amd64,arm64
@@ -34612,6 +34624,7 @@
 28.5.0.2-alpine-3.22.5	amd64,arm64
 28.5.0.2-alpine-3.23.4	amd64,arm64
 28.5.0.2-alpine-3.23.5	amd64,arm64
+28.5.0.2-alpine-3.24.1	amd64,arm64
 28.5.0.2-debian-bookworm-20260518	amd64,arm64
 28.5.0.2-debian-bookworm-20260518-slim	amd64,arm64
 28.5.0.2-debian-bookworm-20260610	amd64,arm64
@@ -34854,6 +34867,7 @@
 29.0.2-alpine-3.22.5	amd64,arm64
 29.0.2-alpine-3.23.4	amd64,arm64
 29.0.2-alpine-3.23.5	amd64,arm64
+29.0.2-alpine-3.24.1	amd64,arm64
 29.0.2-debian-bookworm-20260518	amd64,arm64
 29.0.2-debian-bookworm-20260518-slim	amd64,arm64
 29.0.2-debian-bookworm-20260610	amd64,arm64
