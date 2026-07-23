@@ -30110,7 +30110,7 @@
 27.2-debian-trixie-20260505	amd64,arm64
 27.2-debian-trixie-20260505-slim	amd64,arm64
 27.2-debian-trixie-20260518	amd64,arm64
-27.2-debian-trixie-20260518-slim	amd64,arm64
+27.2-debian-trixie-20260518-slim	arm64
 27.2-debian-trixie-20260610	amd64,arm64
 27.2-debian-trixie-20260610-slim	amd64,arm64
 27.2-ubuntu-focal-20241011	amd64,arm64
@@ -30872,7 +30872,7 @@
 27.3-debian-trixie-20260505	amd64,arm64
 27.3-debian-trixie-20260505-slim	amd64,arm64
 27.3-debian-trixie-20260518	amd64,arm64
-27.3-debian-trixie-20260518-slim	amd64,arm64
+27.3-debian-trixie-20260518-slim	arm64
 27.3-debian-trixie-20260610	amd64,arm64
 27.3-debian-trixie-20260610-slim	amd64,arm64
 27.3-ubuntu-focal-20241011	amd64,arm64
@@ -31422,7 +31422,7 @@
 27.3.4-debian-trixie-20260505	amd64,arm64
 27.3.4-debian-trixie-20260505-slim	amd64,arm64
 27.3.4-debian-trixie-20260518	amd64,arm64
-27.3.4-debian-trixie-20260518-slim	amd64,arm64
+27.3.4-debian-trixie-20260518-slim	arm64
 27.3.4-debian-trixie-20260610	amd64,arm64
 27.3.4-debian-trixie-20260610-slim	amd64,arm64
 27.3.4-ubuntu-focal-20250404	amd64,arm64
@@ -31618,7 +31618,7 @@
 27.3.4.10-debian-bullseye-20260518-slim	amd64,arm64
 27.3.4.10-debian-bullseye-20260610	amd64,arm64
 27.3.4.10-debian-bullseye-20260610-slim	amd64,arm64
-27.3.4.10-debian-trixie-20260406	amd64,arm64
+27.3.4.10-debian-trixie-20260406	arm64
 27.3.4.10-debian-trixie-20260406-slim	amd64,arm64
 27.3.4.10-debian-trixie-20260421	amd64,arm64
 27.3.4.10-debian-trixie-20260421-slim	amd64,arm64
@@ -33525,7 +33525,7 @@
 28.0.2-debian-trixie-20260505	amd64,arm64
 28.0.2-debian-trixie-20260505-slim	amd64,arm64
 28.0.2-debian-trixie-20260518	amd64,arm64
-28.0.2-debian-trixie-20260518-slim	amd64,arm64
+28.0.2-debian-trixie-20260518-slim	arm64
 28.0.2-debian-trixie-20260610	amd64,arm64
 28.0.2-debian-trixie-20260610-slim	amd64,arm64
 28.0.2-ubuntu-focal-20250404	amd64,arm64

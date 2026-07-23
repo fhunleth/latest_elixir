@@ -298350,7 +298350,7 @@
 1.20.0-rc.3-erlang-28.4-ubuntu-jammy-20260217	
 1.20.0-rc.3-erlang-28.4-ubuntu-jammy-20260410	
 1.20.0-rc.3-erlang-28.4-ubuntu-jammy-20260509	
-1.20.0-rc.3-erlang-28.4-ubuntu-noble-20260210.1	amd64
+1.20.0-rc.3-erlang-28.4-ubuntu-noble-20260210.1	
 1.20.0-rc.3-erlang-28.4-ubuntu-noble-20260217	
 1.20.0-rc.3-erlang-28.4-ubuntu-noble-20260324	
 1.20.0-rc.3-erlang-28.4-ubuntu-noble-20260410	
