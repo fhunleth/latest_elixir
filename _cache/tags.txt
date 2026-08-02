@@ -305533,7 +305533,7 @@
 1.20.2-erlang-29.0.4-debian-bullseye-20260713	amd64,arm64
 1.20.2-erlang-29.0.4-debian-bullseye-20260713-slim	amd64,arm64
 1.20.2-erlang-29.0.4-debian-trixie-20260713	amd64,arm64
-1.20.2-erlang-29.0.4-debian-trixie-20260713-slim	arm64
+1.20.2-erlang-29.0.4-debian-trixie-20260713-slim	amd64
 1.20.2-erlang-29.0.4-ubuntu-jammy-20260627	amd64,arm64
 1.20.2-erlang-29.0.4-ubuntu-noble-20260610	amd64,arm64
 1.20.2-erlang-29.0.4-ubuntu-resolute-20260707	amd64,arm64
