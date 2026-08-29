@@ -14437,7 +14437,7 @@
 24.3-debian-trixie-20260518	
 24.3-debian-trixie-20260518-slim	
 24.3-debian-trixie-20260610	amd64
-24.3-debian-trixie-20260610-slim	amd64,arm64
+24.3-debian-trixie-20260610-slim	amd64
 24.3-ubuntu-bionic-20210930	amd64
 24.3-ubuntu-focal-20211006	
 24.3-ubuntu-focal-20250404	
@@ -32006,11 +32006,11 @@
 27.3.4.14-debian-bullseye-20260623-slim	amd64,arm64
 27.3.4.14-debian-bullseye-20260713	
 27.3.4.14-debian-bullseye-20260713-slim	
-27.3.4.14-debian-trixie-20260623	amd64,arm64
+27.3.4.14-debian-trixie-20260623	
 27.3.4.14-debian-trixie-20260623-slim	amd64,arm64
 27.3.4.14-debian-trixie-20260713	
 27.3.4.14-debian-trixie-20260713-slim	
-27.3.4.14-ubuntu-jammy-20260627	amd64,arm64
+27.3.4.14-ubuntu-jammy-20260627	
 27.3.4.14-ubuntu-noble-20260610	amd64,arm64
 27.3.4.14-ubuntu-resolute-20260627	amd64,arm64
 27.3.4.14-ubuntu-resolute-20260707	
@@ -34585,7 +34585,7 @@
 28.2-ubuntu-resolute-20260421	
 28.2-ubuntu-resolute-20260610	
 28.2-ubuntu-resolute-20260627	
-28.2-ubuntu-resolute-20260707	
+28.2-ubuntu-resolute-20260707	amd64,arm64
 28.2-ubuntu-resolute-20260724.1	amd64,arm64
 28.2-ubuntu-resolute-20260811.1	amd64,arm64
 28.3-alpine-3.19.9	
@@ -35065,7 +35065,7 @@
 28.4.2-debian-bookworm-20260518	
 28.4.2-debian-bookworm-20260518-slim	
 28.4.2-debian-bookworm-20260610	amd64
-28.4.2-debian-bookworm-20260610-slim	amd64
+28.4.2-debian-bookworm-20260610-slim	amd64,arm64
 28.4.2-debian-bullseye-20260406	
 28.4.2-debian-bullseye-20260406-slim	
 28.4.2-debian-bullseye-20260421	
@@ -35514,7 +35514,7 @@
 29.0-ubuntu-jammy-20260410	
 29.0-ubuntu-jammy-20260509	
 29.0-ubuntu-noble-20260410	
-29.0-ubuntu-noble-20260509.1	amd64
+29.0-ubuntu-noble-20260509.1	
 29.0-ubuntu-resolute-20260421	
 29.0.1-alpine-3.20.9	
 29.0.1-alpine-3.21.7	
@@ -35542,7 +35542,7 @@
 29.0.2-alpine-3.22.5	
 29.0.2-alpine-3.23.4	
 29.0.2-alpine-3.23.5	amd64,arm64
-29.0.2-alpine-3.24.1	amd64,arm64
+29.0.2-alpine-3.24.1	amd64
 29.0.2-debian-bookworm-20260518	
 29.0.2-debian-bookworm-20260518-slim	
 29.0.2-debian-bookworm-20260610	
