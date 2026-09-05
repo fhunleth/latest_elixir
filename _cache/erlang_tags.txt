@@ -978,7 +978,7 @@
 20.1.7.1-ubuntu-bionic-20200403	
 20.1.7.1-ubuntu-bionic-20230126	
 20.1.7.1-ubuntu-bionic-20230530	
-20.1.7.1-ubuntu-focal-20200423	amd64
+20.1.7.1-ubuntu-focal-20200423	
 20.1.7.1-ubuntu-focal-20230126	
 20.1.7.1-ubuntu-focal-20231003	
 20.1.7.1-ubuntu-focal-20231128	
@@ -1081,7 +1081,7 @@
 20.2.0.1-debian-stretch-20200511	
 20.2.0.1-debian-stretch-20210902-slim	
 20.2.0.1-ubuntu-bionic-20200403	
-20.2.0.1-ubuntu-focal-20200423	amd64
+20.2.0.1-ubuntu-focal-20200423	
 20.2.0.1-ubuntu-focal-20250404	
 20.2.0.1-ubuntu-groovy-20201022.1	
 20.2.0.1-ubuntu-impish-20211102	amd64
@@ -1222,7 +1222,7 @@
 20.2.3-debian-stretch-20200224	
 20.2.3-debian-stretch-20210902-slim	
 20.2.3-ubuntu-bionic-20200219	
-20.2.3-ubuntu-focal-20200423	amd64
+20.2.3-ubuntu-focal-20200423	
 20.2.3-ubuntu-focal-20250404	
 20.2.3-ubuntu-groovy-20201022.1	
 20.2.3-ubuntu-impish-20211102	amd64
@@ -1558,7 +1558,7 @@
 20.3.2.1-debian-stretch-20200511	
 20.3.2.1-debian-stretch-20210902-slim	
 20.3.2.1-ubuntu-bionic-20200403	
-20.3.2.1-ubuntu-focal-20200423	amd64
+20.3.2.1-ubuntu-focal-20200423	
 20.3.2.1-ubuntu-focal-20250404	
 20.3.2.1-ubuntu-groovy-20201022.1	
 20.3.2.1-ubuntu-impish-20211102	amd64
@@ -1605,7 +1605,7 @@
 20.3.3-debian-stretch-20200224	
 20.3.3-debian-stretch-20210902-slim	
 20.3.3-ubuntu-bionic-20200219	
-20.3.3-ubuntu-focal-20200423	amd64
+20.3.3-ubuntu-focal-20200423	
 20.3.3-ubuntu-focal-20250404	
 20.3.3-ubuntu-groovy-20201022.1	
 20.3.3-ubuntu-impish-20211102	amd64
@@ -1652,7 +1652,7 @@
 20.3.4-debian-stretch-20200224	
 20.3.4-debian-stretch-20210902-slim	
 20.3.4-ubuntu-bionic-20200219	
-20.3.4-ubuntu-focal-20200423	amd64
+20.3.4-ubuntu-focal-20200423	
 20.3.4-ubuntu-focal-20250404	
 20.3.4-ubuntu-groovy-20201022.1	
 20.3.4-ubuntu-impish-20211102	amd64
@@ -1699,7 +1699,7 @@
 20.3.5-debian-stretch-20200224	
 20.3.5-debian-stretch-20210902-slim	
 20.3.5-ubuntu-bionic-20200219	
-20.3.5-ubuntu-focal-20200423	amd64
+20.3.5-ubuntu-focal-20200423	
 20.3.5-ubuntu-focal-20250404	
 20.3.5-ubuntu-groovy-20201022.1	
 20.3.5-ubuntu-impish-20211102	amd64
@@ -1746,7 +1746,7 @@
 20.3.6-debian-stretch-20200224	
 20.3.6-debian-stretch-20210902-slim	
 20.3.6-ubuntu-bionic-20200219	
-20.3.6-ubuntu-focal-20200423	amd64
+20.3.6-ubuntu-focal-20200423	
 20.3.6-ubuntu-focal-20250404	
 20.3.6-ubuntu-groovy-20201022.1	
 20.3.6-ubuntu-impish-20211102	amd64
@@ -1793,7 +1793,7 @@
 20.3.7-debian-stretch-20200224	
 20.3.7-debian-stretch-20210902-slim	
 20.3.7-ubuntu-bionic-20200219	
-20.3.7-ubuntu-focal-20200423	amd64
+20.3.7-ubuntu-focal-20200423	
 20.3.7-ubuntu-focal-20250404	
 20.3.7-ubuntu-groovy-20201022.1	
 20.3.7-ubuntu-impish-20211102	amd64
@@ -1840,7 +1840,7 @@
 20.3.8-debian-stretch-20200224	
 20.3.8-debian-stretch-20210902-slim	
 20.3.8-ubuntu-bionic-20200219	
-20.3.8-ubuntu-focal-20200423	amd64
+20.3.8-ubuntu-focal-20200423	
 20.3.8-ubuntu-focal-20250404	
 20.3.8-ubuntu-groovy-20201022.1	
 20.3.8-ubuntu-impish-20211102	amd64
@@ -1886,7 +1886,7 @@
 20.3.8.1-debian-stretch-20200511	
 20.3.8.1-debian-stretch-20210902-slim	
 20.3.8.1-ubuntu-bionic-20200403	
-20.3.8.1-ubuntu-focal-20200423	amd64
+20.3.8.1-ubuntu-focal-20200423	
 20.3.8.1-ubuntu-focal-20250404	
 20.3.8.1-ubuntu-groovy-20201022.1	
 20.3.8.1-ubuntu-impish-20211102	amd64
@@ -1932,7 +1932,7 @@
 20.3.8.10-debian-stretch-20200511	
 20.3.8.10-debian-stretch-20210902-slim	
 20.3.8.10-ubuntu-bionic-20200403	
-20.3.8.10-ubuntu-focal-20200423	amd64
+20.3.8.10-ubuntu-focal-20200423	
 20.3.8.10-ubuntu-focal-20250404	
 20.3.8.10-ubuntu-groovy-20201022.1	
 20.3.8.10-ubuntu-impish-20211102	amd64
@@ -1978,7 +1978,7 @@
 20.3.8.11-debian-stretch-20200511	
 20.3.8.11-debian-stretch-20210902-slim	
 20.3.8.11-ubuntu-bionic-20200403	
-20.3.8.11-ubuntu-focal-20200423	amd64
+20.3.8.11-ubuntu-focal-20200423	
 20.3.8.11-ubuntu-focal-20250404	
 20.3.8.11-ubuntu-groovy-20201022.1	
 20.3.8.11-ubuntu-impish-20211102	amd64
@@ -2024,7 +2024,7 @@
 20.3.8.12-debian-stretch-20200511	
 20.3.8.12-debian-stretch-20210902-slim	
 20.3.8.12-ubuntu-bionic-20200403	
-20.3.8.12-ubuntu-focal-20200423	amd64
+20.3.8.12-ubuntu-focal-20200423	
 20.3.8.12-ubuntu-focal-20250404	
 20.3.8.12-ubuntu-groovy-20201022.1	
 20.3.8.12-ubuntu-impish-20211102	amd64
@@ -2070,7 +2070,7 @@
 20.3.8.13-debian-stretch-20200511	
 20.3.8.13-debian-stretch-20210902-slim	
 20.3.8.13-ubuntu-bionic-20200403	
-20.3.8.13-ubuntu-focal-20200423	amd64
+20.3.8.13-ubuntu-focal-20200423	
 20.3.8.13-ubuntu-focal-20250404	
 20.3.8.13-ubuntu-groovy-20201022.1	
 20.3.8.13-ubuntu-impish-20211102	amd64
@@ -2116,7 +2116,7 @@
 20.3.8.14-debian-stretch-20200511	
 20.3.8.14-debian-stretch-20210902-slim	
 20.3.8.14-ubuntu-bionic-20200403	
-20.3.8.14-ubuntu-focal-20200423	amd64
+20.3.8.14-ubuntu-focal-20200423	
 20.3.8.14-ubuntu-focal-20250404	
 20.3.8.14-ubuntu-groovy-20201022.1	
 20.3.8.14-ubuntu-impish-20211102	amd64
@@ -2254,7 +2254,7 @@
 20.3.8.17-debian-stretch-20200511	
 20.3.8.17-debian-stretch-20210902-slim	
 20.3.8.17-ubuntu-bionic-20200403	
-20.3.8.17-ubuntu-focal-20200423	amd64
+20.3.8.17-ubuntu-focal-20200423	
 20.3.8.17-ubuntu-focal-20250404	
 20.3.8.17-ubuntu-groovy-20201022.1	
 20.3.8.17-ubuntu-impish-20211102	amd64
@@ -2850,7 +2850,7 @@
 20.3.8.3-debian-stretch-20200511	
 20.3.8.3-debian-stretch-20210902-slim	
 20.3.8.3-ubuntu-bionic-20200403	
-20.3.8.3-ubuntu-focal-20200423	amd64
+20.3.8.3-ubuntu-focal-20200423	
 20.3.8.3-ubuntu-focal-20250404	
 20.3.8.3-ubuntu-groovy-20201022.1	
 20.3.8.3-ubuntu-impish-20211102	amd64
@@ -3034,7 +3034,7 @@
 20.3.8.7-debian-stretch-20200511	
 20.3.8.7-debian-stretch-20210902-slim	
 20.3.8.7-ubuntu-bionic-20200403	
-20.3.8.7-ubuntu-focal-20200423	amd64
+20.3.8.7-ubuntu-focal-20200423	
 20.3.8.7-ubuntu-focal-20250404	
 20.3.8.7-ubuntu-groovy-20201022.1	
 20.3.8.7-ubuntu-impish-20211102	amd64
@@ -3080,7 +3080,7 @@
 20.3.8.8-debian-stretch-20200511	
 20.3.8.8-debian-stretch-20210902-slim	
 20.3.8.8-ubuntu-bionic-20200403	
-20.3.8.8-ubuntu-focal-20200423	amd64
+20.3.8.8-ubuntu-focal-20200423	
 20.3.8.8-ubuntu-focal-20250404	
 20.3.8.8-ubuntu-groovy-20201022.1	
 20.3.8.8-ubuntu-impish-20211102	amd64
@@ -3151,7 +3151,7 @@
 20.3.8.9-debian-stretch-20210902-slim	
 20.3.8.9-ubuntu-bionic-20200403	
 20.3.8.9-ubuntu-bionic-20230126	
-20.3.8.9-ubuntu-focal-20200423	amd64
+20.3.8.9-ubuntu-focal-20200423	
 20.3.8.9-ubuntu-focal-20230126	
 20.3.8.9-ubuntu-focal-20240427	
 20.3.8.9-ubuntu-focal-20240530	
@@ -3292,7 +3292,7 @@
 21.0-rc2-ubuntu-trusty-20191217	
 21.0-rc2-ubuntu-xenial-20210114	
 21.0-ubuntu-bionic-20200219	
-21.0-ubuntu-focal-20200423	amd64
+21.0-ubuntu-focal-20200423	
 21.0-ubuntu-focal-20250404	
 21.0-ubuntu-groovy-20201022.1	
 21.0-ubuntu-impish-20211102	amd64
@@ -3340,7 +3340,7 @@
 21.0.1-debian-stretch-20200224	
 21.0.1-debian-stretch-20210902-slim	
 21.0.1-ubuntu-bionic-20200219	
-21.0.1-ubuntu-focal-20200423	amd64
+21.0.1-ubuntu-focal-20200423	
 21.0.1-ubuntu-focal-20250404	
 21.0.1-ubuntu-groovy-20201022.1	
 21.0.1-ubuntu-impish-20211102	amd64
@@ -3436,7 +3436,7 @@
 21.0.3-debian-stretch-20200224	
 21.0.3-debian-stretch-20210902-slim	
 21.0.3-ubuntu-bionic-20200219	
-21.0.3-ubuntu-focal-20200423	amd64
+21.0.3-ubuntu-focal-20200423	
 21.0.3-ubuntu-focal-20250404	
 21.0.3-ubuntu-groovy-20201022.1	
 21.0.3-ubuntu-impish-20211102	amd64
@@ -3484,7 +3484,7 @@
 21.0.4-debian-stretch-20200224	
 21.0.4-debian-stretch-20210902-slim	
 21.0.4-ubuntu-bionic-20200219	
-21.0.4-ubuntu-focal-20200423	amd64
+21.0.4-ubuntu-focal-20200423	
 21.0.4-ubuntu-focal-20250404	
 21.0.4-ubuntu-groovy-20201022.1	
 21.0.4-ubuntu-impish-20211102	amd64
@@ -3532,7 +3532,7 @@
 21.0.5-debian-stretch-20200224	
 21.0.5-debian-stretch-20210902-slim	
 21.0.5-ubuntu-bionic-20200219	
-21.0.5-ubuntu-focal-20200423	amd64
+21.0.5-ubuntu-focal-20200423	
 21.0.5-ubuntu-focal-20250404	
 21.0.5-ubuntu-groovy-20201022.1	
 21.0.5-ubuntu-impish-20211102	amd64
@@ -3628,7 +3628,7 @@
 21.0.7-debian-stretch-20200224	
 21.0.7-debian-stretch-20210902-slim	
 21.0.7-ubuntu-bionic-20200219	
-21.0.7-ubuntu-focal-20200423	amd64
+21.0.7-ubuntu-focal-20200423	
 21.0.7-ubuntu-focal-20250404	
 21.0.7-ubuntu-groovy-20201022.1	
 21.0.7-ubuntu-impish-20211102	amd64
@@ -3676,7 +3676,7 @@
 21.0.8-debian-stretch-20200224	
 21.0.8-debian-stretch-20210902-slim	
 21.0.8-ubuntu-bionic-20200219	
-21.0.8-ubuntu-focal-20200423	amd64
+21.0.8-ubuntu-focal-20200423	
 21.0.8-ubuntu-focal-20250404	
 21.0.8-ubuntu-groovy-20201022.1	
 21.0.8-ubuntu-impish-20211102	amd64
@@ -3922,7 +3922,7 @@
 21.1.1-debian-stretch-20200224	
 21.1.1-debian-stretch-20210902-slim	
 21.1.1-ubuntu-bionic-20200219	
-21.1.1-ubuntu-focal-20200423	amd64
+21.1.1-ubuntu-focal-20200423	
 21.1.1-ubuntu-focal-20250404	
 21.1.1-ubuntu-groovy-20201022.1	
 21.1.1-ubuntu-impish-20211102	amd64
@@ -3970,7 +3970,7 @@
 21.1.2-debian-stretch-20200224	
 21.1.2-debian-stretch-20210902-slim	
 21.1.2-ubuntu-bionic-20200219	
-21.1.2-ubuntu-focal-20200423	amd64
+21.1.2-ubuntu-focal-20200423	
 21.1.2-ubuntu-focal-20250404	
 21.1.2-ubuntu-groovy-20201022.1	
 21.1.2-ubuntu-impish-20211102	amd64
@@ -4018,7 +4018,7 @@
 21.1.3-debian-stretch-20200224	
 21.1.3-debian-stretch-20210902-slim	
 21.1.3-ubuntu-bionic-20200219	
-21.1.3-ubuntu-focal-20200423	amd64
+21.1.3-ubuntu-focal-20200423	
 21.1.3-ubuntu-focal-20250404	
 21.1.3-ubuntu-groovy-20201022.1	
 21.1.3-ubuntu-impish-20211102	amd64
@@ -4216,7 +4216,7 @@
 21.2-debian-stretch-20200224	
 21.2-debian-stretch-20210902-slim	
 21.2-ubuntu-bionic-20200219	
-21.2-ubuntu-focal-20200423	amd64
+21.2-ubuntu-focal-20200423	
 21.2-ubuntu-focal-20250404	
 21.2-ubuntu-groovy-20201022.1	
 21.2-ubuntu-impish-20211102	amd64
@@ -4264,7 +4264,7 @@
 21.2.1-debian-stretch-20200224	
 21.2.1-debian-stretch-20210902-slim	
 21.2.1-ubuntu-bionic-20200219	
-21.2.1-ubuntu-focal-20200423	amd64
+21.2.1-ubuntu-focal-20200423	
 21.2.1-ubuntu-focal-20250404	
 21.2.1-ubuntu-groovy-20201022.1	
 21.2.1-ubuntu-impish-20211102	amd64
@@ -4312,7 +4312,7 @@
 21.2.2-debian-stretch-20200224	
 21.2.2-debian-stretch-20210902-slim	
 21.2.2-ubuntu-bionic-20200219	
-21.2.2-ubuntu-focal-20200423	amd64
+21.2.2-ubuntu-focal-20200423	
 21.2.2-ubuntu-focal-20250404	
 21.2.2-ubuntu-groovy-20201022.1	
 21.2.2-ubuntu-impish-20211102	amd64
@@ -4360,7 +4360,7 @@
 21.2.3-debian-stretch-20200224	
 21.2.3-debian-stretch-20210902-slim	
 21.2.3-ubuntu-bionic-20200219	
-21.2.3-ubuntu-focal-20200423	amd64
+21.2.3-ubuntu-focal-20200423	
 21.2.3-ubuntu-focal-20250404	
 21.2.3-ubuntu-groovy-20201022.1	
 21.2.3-ubuntu-impish-20211102	amd64
@@ -4408,7 +4408,7 @@
 21.2.4-debian-stretch-20200224	
 21.2.4-debian-stretch-20210902-slim	
 21.2.4-ubuntu-bionic-20200219	
-21.2.4-ubuntu-focal-20200423	amd64
+21.2.4-ubuntu-focal-20200423	
 21.2.4-ubuntu-focal-20250404	
 21.2.4-ubuntu-groovy-20201022.1	
 21.2.4-ubuntu-impish-20211102	amd64
@@ -4456,7 +4456,7 @@
 21.2.5-debian-stretch-20200224	
 21.2.5-debian-stretch-20210902-slim	
 21.2.5-ubuntu-bionic-20200219	
-21.2.5-ubuntu-focal-20200423	amd64
+21.2.5-ubuntu-focal-20200423	
 21.2.5-ubuntu-focal-20250404	
 21.2.5-ubuntu-groovy-20201022.1	
 21.2.5-ubuntu-impish-20211102	amd64
@@ -4504,7 +4504,7 @@
 21.2.6-debian-stretch-20200224	
 21.2.6-debian-stretch-20210902-slim	
 21.2.6-ubuntu-bionic-20200219	
-21.2.6-ubuntu-focal-20200423	amd64
+21.2.6-ubuntu-focal-20200423	
 21.2.6-ubuntu-focal-20250404	
 21.2.6-ubuntu-groovy-20201022.1	
 21.2.6-ubuntu-impish-20211102	amd64
@@ -4644,7 +4644,7 @@
 21.2.7-ubuntu-bionic-20200219	
 21.2.7-ubuntu-bionic-20230126	
 21.2.7-ubuntu-bionic-20230530	
-21.2.7-ubuntu-focal-20200423	amd64
+21.2.7-ubuntu-focal-20200423	
 21.2.7-ubuntu-focal-20230126	
 21.2.7-ubuntu-focal-20231003	
 21.2.7-ubuntu-focal-20231128	
@@ -4701,7 +4701,7 @@
 21.3-debian-stretch-20200224	
 21.3-debian-stretch-20210902-slim	
 21.3-ubuntu-bionic-20200219	
-21.3-ubuntu-focal-20200423	amd64
+21.3-ubuntu-focal-20200423	
 21.3-ubuntu-focal-20250404	
 21.3-ubuntu-groovy-20201022.1	
 21.3-ubuntu-impish-20211102	amd64
@@ -4748,7 +4748,7 @@
 21.3.1-debian-stretch-20200224	
 21.3.1-debian-stretch-20210902-slim	
 21.3.1-ubuntu-bionic-20200219	
-21.3.1-ubuntu-focal-20200423	amd64
+21.3.1-ubuntu-focal-20200423	
 21.3.1-ubuntu-focal-20250404	
 21.3.1-ubuntu-groovy-20201022.1	
 21.3.1-ubuntu-impish-20211102	amd64
@@ -4795,7 +4795,7 @@
 21.3.2-debian-stretch-20200224	
 21.3.2-debian-stretch-20210902-slim	
 21.3.2-ubuntu-bionic-20200219	
-21.3.2-ubuntu-focal-20200423	amd64
+21.3.2-ubuntu-focal-20200423	
 21.3.2-ubuntu-focal-20250404	
 21.3.2-ubuntu-groovy-20201022.1	
 21.3.2-ubuntu-impish-20211102	amd64
@@ -4842,7 +4842,7 @@
 21.3.3-debian-stretch-20200224	
 21.3.3-debian-stretch-20210902-slim	
 21.3.3-ubuntu-bionic-20200219	
-21.3.3-ubuntu-focal-20200423	amd64
+21.3.3-ubuntu-focal-20200423	
 21.3.3-ubuntu-focal-20250404	
 21.3.3-ubuntu-groovy-20201022.1	
 21.3.3-ubuntu-impish-20211102	amd64
@@ -4889,7 +4889,7 @@
 21.3.4-debian-stretch-20200224	
 21.3.4-debian-stretch-20210902-slim	
 21.3.4-ubuntu-bionic-20200219	
-21.3.4-ubuntu-focal-20200423	amd64
+21.3.4-ubuntu-focal-20200423	
 21.3.4-ubuntu-focal-20250404	
 21.3.4-ubuntu-groovy-20201022.1	
 21.3.4-ubuntu-impish-20211102	amd64
@@ -4936,7 +4936,7 @@
 21.3.5-debian-stretch-20200224	
 21.3.5-debian-stretch-20210902-slim	
 21.3.5-ubuntu-bionic-20200219	
-21.3.5-ubuntu-focal-20200423	amd64
+21.3.5-ubuntu-focal-20200423	
 21.3.5-ubuntu-focal-20250404	
 21.3.5-ubuntu-groovy-20201022.1	
 21.3.5-ubuntu-impish-20211102	amd64
@@ -4983,7 +4983,7 @@
 21.3.6-debian-stretch-20200224	
 21.3.6-debian-stretch-20210902-slim	
 21.3.6-ubuntu-bionic-20200219	
-21.3.6-ubuntu-focal-20200423	amd64
+21.3.6-ubuntu-focal-20200423	
 21.3.6-ubuntu-focal-20250404	
 21.3.6-ubuntu-groovy-20201022.1	
 21.3.6-ubuntu-impish-20211102	amd64
@@ -5030,7 +5030,7 @@
 21.3.7-debian-stretch-20200224	
 21.3.7-debian-stretch-20210902-slim	
 21.3.7-ubuntu-bionic-20200219	
-21.3.7-ubuntu-focal-20200423	amd64
+21.3.7-ubuntu-focal-20200423	
 21.3.7-ubuntu-focal-20250404	
 21.3.7-ubuntu-groovy-20201022.1	
 21.3.7-ubuntu-impish-20211102	amd64
@@ -5076,7 +5076,7 @@
 21.3.7.1-debian-stretch-20200511	
 21.3.7.1-debian-stretch-20210902-slim	
 21.3.7.1-ubuntu-bionic-20200403	
-21.3.7.1-ubuntu-focal-20200423	amd64
+21.3.7.1-ubuntu-focal-20200423	
 21.3.7.1-ubuntu-focal-20250404	
 21.3.7.1-ubuntu-groovy-20201022.1	
 21.3.7.1-ubuntu-impish-20211102	amd64
@@ -5123,7 +5123,7 @@
 21.3.8-debian-stretch-20200224	
 21.3.8-debian-stretch-20210902-slim	
 21.3.8-ubuntu-bionic-20200219	
-21.3.8-ubuntu-focal-20200423	amd64
+21.3.8-ubuntu-focal-20200423	
 21.3.8-ubuntu-focal-20250404	
 21.3.8-ubuntu-groovy-20201022.1	
 21.3.8-ubuntu-impish-20211102	amd64
@@ -5169,7 +5169,7 @@
 21.3.8.1-debian-stretch-20200511	
 21.3.8.1-debian-stretch-20210902-slim	
 21.3.8.1-ubuntu-bionic-20200403	
-21.3.8.1-ubuntu-focal-20200423	amd64
+21.3.8.1-ubuntu-focal-20200423	
 21.3.8.1-ubuntu-focal-20250404	
 21.3.8.1-ubuntu-groovy-20201022.1	
 21.3.8.1-ubuntu-impish-20211102	amd64
@@ -5215,7 +5215,7 @@
 21.3.8.10-debian-stretch-20200511	
 21.3.8.10-debian-stretch-20210902-slim	
 21.3.8.10-ubuntu-bionic-20200403	
-21.3.8.10-ubuntu-focal-20200423	amd64
+21.3.8.10-ubuntu-focal-20200423	
 21.3.8.10-ubuntu-focal-20250404	
 21.3.8.10-ubuntu-groovy-20201022.1	
 21.3.8.10-ubuntu-impish-20211102	amd64
@@ -5261,7 +5261,7 @@
 21.3.8.11-debian-stretch-20200511	
 21.3.8.11-debian-stretch-20210902-slim	
 21.3.8.11-ubuntu-bionic-20200403	
-21.3.8.11-ubuntu-focal-20200423	amd64
+21.3.8.11-ubuntu-focal-20200423	
 21.3.8.11-ubuntu-focal-20250404	
 21.3.8.11-ubuntu-groovy-20201022.1	
 21.3.8.11-ubuntu-impish-20211102	amd64
@@ -5307,7 +5307,7 @@
 21.3.8.12-debian-stretch-20200511	
 21.3.8.12-debian-stretch-20210902-slim	
 21.3.8.12-ubuntu-bionic-20200403	
-21.3.8.12-ubuntu-focal-20200423	amd64
+21.3.8.12-ubuntu-focal-20200423	
 21.3.8.12-ubuntu-focal-20250404	
 21.3.8.12-ubuntu-groovy-20201022.1	
 21.3.8.12-ubuntu-impish-20211102	amd64
@@ -5353,7 +5353,7 @@
 21.3.8.13-debian-stretch-20200511	
 21.3.8.13-debian-stretch-20210902-slim	
 21.3.8.13-ubuntu-bionic-20200403	
-21.3.8.13-ubuntu-focal-20200423	amd64
+21.3.8.13-ubuntu-focal-20200423	
 21.3.8.13-ubuntu-focal-20250404	
 21.3.8.13-ubuntu-groovy-20201022.1	
 21.3.8.13-ubuntu-impish-20211102	amd64
@@ -5399,7 +5399,7 @@
 21.3.8.14-debian-stretch-20200511	
 21.3.8.14-debian-stretch-20210902-slim	
 21.3.8.14-ubuntu-bionic-20200403	
-21.3.8.14-ubuntu-focal-20200423	amd64
+21.3.8.14-ubuntu-focal-20200423	
 21.3.8.14-ubuntu-focal-20250404	
 21.3.8.14-ubuntu-groovy-20201022.1	
 21.3.8.14-ubuntu-impish-20211102	amd64
@@ -5445,7 +5445,7 @@
 21.3.8.15-debian-stretch-20200511	
 21.3.8.15-debian-stretch-20210902-slim	
 21.3.8.15-ubuntu-bionic-20200403	
-21.3.8.15-ubuntu-focal-20200423	amd64
+21.3.8.15-ubuntu-focal-20200423	
 21.3.8.15-ubuntu-focal-20250404	
 21.3.8.15-ubuntu-groovy-20201022.1	
 21.3.8.15-ubuntu-impish-20211102	amd64
@@ -5491,7 +5491,7 @@
 21.3.8.16-debian-stretch-20200511	
 21.3.8.16-debian-stretch-20210902-slim	
 21.3.8.16-ubuntu-bionic-20200403	
-21.3.8.16-ubuntu-focal-20200423	amd64
+21.3.8.16-ubuntu-focal-20200423	
 21.3.8.16-ubuntu-focal-20250404	
 21.3.8.16-ubuntu-groovy-20201022.1	
 21.3.8.16-ubuntu-impish-20211102	amd64
@@ -5672,7 +5672,7 @@
 21.3.8.2-debian-stretch-20200511	
 21.3.8.2-debian-stretch-20210902-slim	
 21.3.8.2-ubuntu-bionic-20200403	
-21.3.8.2-ubuntu-focal-20200423	amd64
+21.3.8.2-ubuntu-focal-20200423	
 21.3.8.2-ubuntu-focal-20250404	
 21.3.8.2-ubuntu-groovy-20201022.1	
 21.3.8.2-ubuntu-impish-20211102	amd64
@@ -6034,7 +6034,7 @@
 21.3.8.3-debian-stretch-20200511	
 21.3.8.3-debian-stretch-20210902-slim	
 21.3.8.3-ubuntu-bionic-20200403	
-21.3.8.3-ubuntu-focal-20200423	amd64
+21.3.8.3-ubuntu-focal-20200423	
 21.3.8.3-ubuntu-focal-20250404	
 21.3.8.3-ubuntu-groovy-20201022.1	
 21.3.8.3-ubuntu-impish-20211102	amd64
@@ -6172,7 +6172,7 @@
 21.3.8.6-debian-stretch-20200511	
 21.3.8.6-debian-stretch-20210902-slim	
 21.3.8.6-ubuntu-bionic-20200403	
-21.3.8.6-ubuntu-focal-20200423	amd64
+21.3.8.6-ubuntu-focal-20200423	
 21.3.8.6-ubuntu-focal-20250404	
 21.3.8.6-ubuntu-groovy-20201022.1	
 21.3.8.6-ubuntu-impish-20211102	amd64
@@ -6218,7 +6218,7 @@
 21.3.8.7-debian-stretch-20200511	
 21.3.8.7-debian-stretch-20210902-slim	
 21.3.8.7-ubuntu-bionic-20200403	
-21.3.8.7-ubuntu-focal-20200423	amd64
+21.3.8.7-ubuntu-focal-20200423	
 21.3.8.7-ubuntu-focal-20250404	
 21.3.8.7-ubuntu-groovy-20201022.1	
 21.3.8.7-ubuntu-impish-20211102	amd64
@@ -6517,7 +6517,7 @@
 22.0-rc3-ubuntu-trusty-20191217	
 22.0-rc3-ubuntu-xenial-20210114	
 22.0-ubuntu-bionic-20200219	
-22.0-ubuntu-focal-20200423	amd64
+22.0-ubuntu-focal-20200423	
 22.0-ubuntu-focal-20250404	
 22.0-ubuntu-groovy-20201022.1	
 22.0-ubuntu-impish-20211102	amd64
@@ -6564,7 +6564,7 @@
 22.0.1-debian-stretch-20200224	
 22.0.1-debian-stretch-20210902-slim	
 22.0.1-ubuntu-bionic-20200219	
-22.0.1-ubuntu-focal-20200423	amd64
+22.0.1-ubuntu-focal-20200423	
 22.0.1-ubuntu-focal-20250404	
 22.0.1-ubuntu-groovy-20201022.1	
 22.0.1-ubuntu-impish-20211102	amd64
@@ -6611,7 +6611,7 @@
 22.0.2-debian-stretch-20200224	
 22.0.2-debian-stretch-20210902-slim	
 22.0.2-ubuntu-bionic-20200219	
-22.0.2-ubuntu-focal-20200423	amd64
+22.0.2-ubuntu-focal-20200423	
 22.0.2-ubuntu-focal-20250404	
 22.0.2-ubuntu-groovy-20201022.1	
 22.0.2-ubuntu-impish-20211102	amd64
@@ -6658,7 +6658,7 @@
 22.0.3-debian-stretch-20200224	
 22.0.3-debian-stretch-20210902-slim	
 22.0.3-ubuntu-bionic-20200219	
-22.0.3-ubuntu-focal-20200423	amd64
+22.0.3-ubuntu-focal-20200423	
 22.0.3-ubuntu-focal-20250404	
 22.0.3-ubuntu-groovy-20201022.1	
 22.0.3-ubuntu-impish-20211102	amd64
@@ -6705,7 +6705,7 @@
 22.0.4-debian-stretch-20200224	
 22.0.4-debian-stretch-20210902-slim	
 22.0.4-ubuntu-bionic-20200219	
-22.0.4-ubuntu-focal-20200423	amd64
+22.0.4-ubuntu-focal-20200423	
 22.0.4-ubuntu-focal-20250404	
 22.0.4-ubuntu-groovy-20201022.1	
 22.0.4-ubuntu-impish-20211102	amd64
@@ -6752,7 +6752,7 @@
 22.0.5-debian-stretch-20200224	
 22.0.5-debian-stretch-20210902-slim	
 22.0.5-ubuntu-bionic-20200219	
-22.0.5-ubuntu-focal-20200423	amd64
+22.0.5-ubuntu-focal-20200423	
 22.0.5-ubuntu-focal-20250404	
 22.0.5-ubuntu-groovy-20201022.1	
 22.0.5-ubuntu-impish-20211102	amd64
@@ -6799,7 +6799,7 @@
 22.0.6-debian-stretch-20200224	
 22.0.6-debian-stretch-20210902-slim	
 22.0.6-ubuntu-bionic-20200219	
-22.0.6-ubuntu-focal-20200423	amd64
+22.0.6-ubuntu-focal-20200423	
 22.0.6-ubuntu-focal-20250404	
 22.0.6-ubuntu-groovy-20201022.1	
 22.0.6-ubuntu-impish-20211102	amd64
@@ -6938,7 +6938,7 @@
 22.0.7-ubuntu-bionic-20200219	
 22.0.7-ubuntu-bionic-20230126	
 22.0.7-ubuntu-bionic-20230530	
-22.0.7-ubuntu-focal-20200423	amd64
+22.0.7-ubuntu-focal-20200423	
 22.0.7-ubuntu-focal-20230126	
 22.0.7-ubuntu-focal-20231003	
 22.0.7-ubuntu-focal-20231128	
@@ -7042,7 +7042,7 @@
 22.1.1-debian-stretch-20200224	
 22.1.1-debian-stretch-20210902-slim	
 22.1.1-ubuntu-bionic-20200219	
-22.1.1-ubuntu-focal-20200423	amd64
+22.1.1-ubuntu-focal-20200423	
 22.1.1-ubuntu-focal-20250404	
 22.1.1-ubuntu-groovy-20201022.1	
 22.1.1-ubuntu-impish-20211102	amd64
@@ -7089,7 +7089,7 @@
 22.1.2-debian-stretch-20200224	
 22.1.2-debian-stretch-20210902-slim	
 22.1.2-ubuntu-bionic-20200219	
-22.1.2-ubuntu-focal-20200423	amd64
+22.1.2-ubuntu-focal-20200423	
 22.1.2-ubuntu-focal-20250404	
 22.1.2-ubuntu-groovy-20201022.1	
 22.1.2-ubuntu-impish-20211102	amd64
@@ -7136,7 +7136,7 @@
 22.1.3-debian-stretch-20200224	
 22.1.3-debian-stretch-20210902-slim	
 22.1.3-ubuntu-bionic-20200219	
-22.1.3-ubuntu-focal-20200423	amd64
+22.1.3-ubuntu-focal-20200423	
 22.1.3-ubuntu-focal-20250404	
 22.1.3-ubuntu-groovy-20201022.1	
 22.1.3-ubuntu-impish-20211102	amd64
@@ -7183,7 +7183,7 @@
 22.1.4-debian-stretch-20200224	
 22.1.4-debian-stretch-20210902-slim	
 22.1.4-ubuntu-bionic-20200219	
-22.1.4-ubuntu-focal-20200423	amd64
+22.1.4-ubuntu-focal-20200423	
 22.1.4-ubuntu-focal-20250404	
 22.1.4-ubuntu-groovy-20201022.1	
 22.1.4-ubuntu-impish-20211102	amd64
@@ -7230,7 +7230,7 @@
 22.1.5-debian-stretch-20200224	
 22.1.5-debian-stretch-20210902-slim	
 22.1.5-ubuntu-bionic-20200219	
-22.1.5-ubuntu-focal-20200423	amd64
+22.1.5-ubuntu-focal-20200423	
 22.1.5-ubuntu-focal-20250404	
 22.1.5-ubuntu-groovy-20201022.1	
 22.1.5-ubuntu-impish-20211102	amd64
@@ -7277,7 +7277,7 @@
 22.1.6-debian-stretch-20200224	
 22.1.6-debian-stretch-20210902-slim	
 22.1.6-ubuntu-bionic-20200219	
-22.1.6-ubuntu-focal-20200423	amd64
+22.1.6-ubuntu-focal-20200423	
 22.1.6-ubuntu-focal-20250404	
 22.1.6-ubuntu-groovy-20201022.1	
 22.1.6-ubuntu-impish-20211102	amd64
@@ -7324,7 +7324,7 @@
 22.1.7-debian-stretch-20200224	
 22.1.7-debian-stretch-20210902-slim	
 22.1.7-ubuntu-bionic-20200219	
-22.1.7-ubuntu-focal-20200423	amd64
+22.1.7-ubuntu-focal-20200423	
 22.1.7-ubuntu-focal-20250404	
 22.1.7-ubuntu-groovy-20201022.1	
 22.1.7-ubuntu-impish-20211102	amd64
@@ -7371,7 +7371,7 @@
 22.1.8-debian-stretch-20200224	
 22.1.8-debian-stretch-20210902-slim	
 22.1.8-ubuntu-bionic-20200219	
-22.1.8-ubuntu-focal-20200423	amd64
+22.1.8-ubuntu-focal-20200423	
 22.1.8-ubuntu-focal-20250404	
 22.1.8-ubuntu-groovy-20201022.1	
 22.1.8-ubuntu-impish-20211102	amd64
@@ -7509,7 +7509,7 @@
 22.1.8.1-ubuntu-bionic-20200403	
 22.1.8.1-ubuntu-bionic-20230126	
 22.1.8.1-ubuntu-bionic-20230530	
-22.1.8.1-ubuntu-focal-20200423	amd64
+22.1.8.1-ubuntu-focal-20200423	
 22.1.8.1-ubuntu-focal-20230126	
 22.1.8.1-ubuntu-focal-20231003	
 22.1.8.1-ubuntu-focal-20231128	
@@ -7613,7 +7613,7 @@
 22.2.1-debian-stretch-20200224	
 22.2.1-debian-stretch-20210902-slim	
 22.2.1-ubuntu-bionic-20200219	
-22.2.1-ubuntu-focal-20200423	amd64
+22.2.1-ubuntu-focal-20200423	
 22.2.1-ubuntu-focal-20250404	
 22.2.1-ubuntu-groovy-20201022.1	
 22.2.1-ubuntu-impish-20211102	amd64
@@ -7660,7 +7660,7 @@
 22.2.2-debian-stretch-20200224	
 22.2.2-debian-stretch-20210902-slim	
 22.2.2-ubuntu-bionic-20200219	
-22.2.2-ubuntu-focal-20200423	amd64
+22.2.2-ubuntu-focal-20200423	
 22.2.2-ubuntu-focal-20250404	
 22.2.2-ubuntu-groovy-20201022.1	
 22.2.2-ubuntu-impish-20211102	amd64
@@ -7801,7 +7801,7 @@
 22.2.5-debian-stretch-20200224	
 22.2.5-debian-stretch-20210902-slim	
 22.2.5-ubuntu-bionic-20200219	
-22.2.5-ubuntu-focal-20200423	amd64
+22.2.5-ubuntu-focal-20200423	
 22.2.5-ubuntu-focal-20250404	
 22.2.5-ubuntu-groovy-20201022.1	
 22.2.5-ubuntu-impish-20211102	amd64
@@ -7848,7 +7848,7 @@
 22.2.6-debian-stretch-20200224	
 22.2.6-debian-stretch-20210902-slim	
 22.2.6-ubuntu-bionic-20200219	
-22.2.6-ubuntu-focal-20200423	amd64
+22.2.6-ubuntu-focal-20200423	
 22.2.6-ubuntu-focal-20250404	
 22.2.6-ubuntu-groovy-20201022.1	
 22.2.6-ubuntu-impish-20211102	amd64
@@ -7895,7 +7895,7 @@
 22.2.7-debian-stretch-20200224	
 22.2.7-debian-stretch-20210902-slim	
 22.2.7-ubuntu-bionic-20200219	
-22.2.7-ubuntu-focal-20200423	amd64
+22.2.7-ubuntu-focal-20200423	
 22.2.7-ubuntu-focal-20250404	
 22.2.7-ubuntu-groovy-20201022.1	
 22.2.7-ubuntu-impish-20211102	amd64
@@ -8091,7 +8091,7 @@
 22.3-debian-stretch-20200224	
 22.3-debian-stretch-20210902-slim	
 22.3-ubuntu-bionic-20200219	
-22.3-ubuntu-focal-20200423	amd64
+22.3-ubuntu-focal-20200423	
 22.3-ubuntu-focal-20250404	
 22.3-ubuntu-groovy-20201022.1	
 22.3-ubuntu-impish-20211102	amd64
@@ -8279,7 +8279,7 @@
 22.3.4-debian-stretch-20200224	
 22.3.4-debian-stretch-20210902-slim	
 22.3.4-ubuntu-bionic-20200219	
-22.3.4-ubuntu-focal-20200423	amd64
+22.3.4-ubuntu-focal-20200423	
 22.3.4-ubuntu-focal-20250404	
 22.3.4-ubuntu-groovy-20201022.1	
 22.3.4-ubuntu-impish-20211102	amd64
@@ -9674,7 +9674,7 @@
 23.0-debian-bullseye-20250929-slim	
 23.0-debian-bullseye-20251020	
 23.0-debian-bullseye-20251020-slim	
-23.0-debian-bullseye-20251103	amd64,arm64
+23.0-debian-bullseye-20251103	
 23.0-debian-bullseye-20251103-slim	
 23.0-debian-bullseye-20251117	
 23.0-debian-bullseye-20251117-slim	
@@ -9845,7 +9845,7 @@
 23.0-rc3-ubuntu-xenial-20210114	
 23.0-ubuntu-bionic-20200219	
 23.0-ubuntu-bionic-20200921	
-23.0-ubuntu-focal-20200423	amd64
+23.0-ubuntu-focal-20200423	
 23.0-ubuntu-focal-20201008	
 23.0-ubuntu-focal-20250404	
 23.0-ubuntu-groovy-20201022.1	
@@ -9899,7 +9899,7 @@
 23.0.1-debian-stretch-20210902-slim	
 23.0.1-ubuntu-bionic-20200403	
 23.0.1-ubuntu-bionic-20200921	
-23.0.1-ubuntu-focal-20200423	amd64
+23.0.1-ubuntu-focal-20200423	
 23.0.1-ubuntu-focal-20201008	
 23.0.1-ubuntu-focal-20250404	
 23.0.1-ubuntu-groovy-20201022.1	
@@ -9953,7 +9953,7 @@
 23.0.2-debian-stretch-20210902-slim	
 23.0.2-ubuntu-bionic-20200403	
 23.0.2-ubuntu-bionic-20200921	
-23.0.2-ubuntu-focal-20200423	amd64
+23.0.2-ubuntu-focal-20200423	
 23.0.2-ubuntu-focal-20201008	
 23.0.2-ubuntu-focal-20250404	
 23.0.2-ubuntu-groovy-20201022.1	
@@ -13905,7 +13905,7 @@
 24.2.1-debian-trixie-20260518	
 24.2.1-debian-trixie-20260518-slim	
 24.2.1-debian-trixie-20260610	amd64,arm64
-24.2.1-debian-trixie-20260610-slim	amd64,arm64
+24.2.1-debian-trixie-20260610-slim	amd64
 24.2.1-ubuntu-bionic-20210930	amd64
 24.2.1-ubuntu-focal-20211006	
 24.2.1-ubuntu-focal-20250404	
@@ -14437,7 +14437,7 @@
 24.3-debian-trixie-20260518	
 24.3-debian-trixie-20260518-slim	
 24.3-debian-trixie-20260610	amd64
-24.3-debian-trixie-20260610-slim	amd64
+24.3-debian-trixie-20260610-slim	amd64,arm64
 24.3-ubuntu-bionic-20210930	amd64
 24.3-ubuntu-focal-20211006	
 24.3-ubuntu-focal-20250404	
@@ -26433,7 +26433,7 @@
 26.2.5.10-debian-trixie-20260406	
 26.2.5.10-debian-trixie-20260406-slim	
 26.2.5.10-debian-trixie-20260421	
-26.2.5.10-debian-trixie-20260421-slim	
+26.2.5.10-debian-trixie-20260421-slim	amd64,arm64
 26.2.5.10-debian-trixie-20260505	
 26.2.5.10-debian-trixie-20260505-slim	
 26.2.5.10-debian-trixie-20260518	
@@ -32013,7 +32013,7 @@
 27.3.4.14-ubuntu-jammy-20260627	arm64
 27.3.4.14-ubuntu-noble-20260610	amd64,arm64
 27.3.4.14-ubuntu-resolute-20260627	amd64,arm64
-27.3.4.14-ubuntu-resolute-20260707	
+27.3.4.14-ubuntu-resolute-20260707	amd64,arm64
 27.3.4.15-alpine-3.21.7	amd64,arm64
 27.3.4.15-alpine-3.22.5	amd64,arm64
 27.3.4.15-alpine-3.23.5	amd64,arm64
@@ -35224,7 +35224,7 @@
 28.5.0.1-alpine-3.21.7	amd64
 28.5.0.1-alpine-3.22.4	amd64
 28.5.0.1-alpine-3.23.4	
-28.5.0.1-debian-bookworm-20260518	
+28.5.0.1-debian-bookworm-20260518	amd64
 28.5.0.1-debian-bookworm-20260518-slim	amd64,arm64
 28.5.0.1-debian-bookworm-20260610	amd64
 28.5.0.1-debian-bookworm-20260610-slim	amd64
@@ -35625,7 +35625,7 @@
 29.0.4-debian-trixie-20260713	amd64,arm64
 29.0.4-debian-trixie-20260713-slim	amd64
 29.0.4-ubuntu-jammy-20260627	
-29.0.4-ubuntu-noble-20260610	amd64,arm64
+29.0.4-ubuntu-noble-20260610	arm64
 29.0.4-ubuntu-noble-20260730.1	amd64,arm64
 29.0.4-ubuntu-resolute-20260707	
 29.0.4-ubuntu-resolute-20260724.1	amd64,arm64
