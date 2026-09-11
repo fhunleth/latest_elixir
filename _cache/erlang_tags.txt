@@ -79,7 +79,7 @@
 20.0-rc1-ubuntu-focal-20210325	
 20.0-rc1-ubuntu-focal-20250404	
 20.0-rc1-ubuntu-groovy-20210325	
-20.0-rc1-ubuntu-impish-20211102	amd64
+20.0-rc1-ubuntu-impish-20211102	
 20.0-rc1-ubuntu-trusty-20191217	
 20.0-rc1-ubuntu-xenial-20210114	
 20.0-rc2-debian-bullseye-20210902	
@@ -123,14 +123,14 @@
 20.0-rc2-ubuntu-focal-20210325	
 20.0-rc2-ubuntu-focal-20250404	
 20.0-rc2-ubuntu-groovy-20210325	
-20.0-rc2-ubuntu-impish-20211102	amd64
+20.0-rc2-ubuntu-impish-20211102	
 20.0-rc2-ubuntu-trusty-20191217	
 20.0-rc2-ubuntu-xenial-20210114	
 20.0-ubuntu-bionic-20200219	
 20.0-ubuntu-focal-20200423	
 20.0-ubuntu-focal-20250404	
 20.0-ubuntu-groovy-20201022.1	
-20.0-ubuntu-impish-20211102	amd64
+20.0-ubuntu-impish-20211102	
 20.0-ubuntu-trusty-20191217	
 20.0-ubuntu-xenial-20200212	
 20.0.1-alpine-3.11.2	
@@ -177,7 +177,7 @@
 20.0.1-ubuntu-focal-20200423	
 20.0.1-ubuntu-focal-20250404	
 20.0.1-ubuntu-groovy-20201022.1	
-20.0.1-ubuntu-impish-20211102	amd64
+20.0.1-ubuntu-impish-20211102	
 20.0.1-ubuntu-trusty-20191217	
 20.0.1-ubuntu-xenial-20200212	
 20.0.2-alpine-3.11.2	
@@ -224,7 +224,7 @@
 20.0.2-ubuntu-focal-20200423	
 20.0.2-ubuntu-focal-20250404	
 20.0.2-ubuntu-groovy-20201022.1	
-20.0.2-ubuntu-impish-20211102	amd64
+20.0.2-ubuntu-impish-20211102	
 20.0.2-ubuntu-trusty-20191217	
 20.0.2-ubuntu-xenial-20200212	
 20.0.3-alpine-3.11.2	
@@ -467,7 +467,7 @@
 20.0.5-ubuntu-focal-20241011	
 20.0.5-ubuntu-focal-20250404	
 20.0.5-ubuntu-groovy-20201022.1	
-20.0.5-ubuntu-impish-20211102	amd64
+20.0.5-ubuntu-impish-20211102	
 20.0.5-ubuntu-trusty-20191217	
 20.0.5-ubuntu-xenial-20200212	
 20.1-alpine-3.11.2	
@@ -514,7 +514,7 @@
 20.1-ubuntu-focal-20200423	
 20.1-ubuntu-focal-20250404	
 20.1-ubuntu-groovy-20201022.1	
-20.1-ubuntu-impish-20211102	amd64
+20.1-ubuntu-impish-20211102	
 20.1-ubuntu-trusty-20191217	
 20.1-ubuntu-xenial-20200212	
 20.1.1-alpine-3.11.2	
@@ -561,7 +561,7 @@
 20.1.1-ubuntu-focal-20200423	
 20.1.1-ubuntu-focal-20250404	
 20.1.1-ubuntu-groovy-20201022.1	
-20.1.1-ubuntu-impish-20211102	amd64
+20.1.1-ubuntu-impish-20211102	
 20.1.1-ubuntu-trusty-20191217	
 20.1.1-ubuntu-xenial-20200212	
 20.1.2-alpine-3.11.2	
@@ -655,7 +655,7 @@
 20.1.3-ubuntu-focal-20200423	
 20.1.3-ubuntu-focal-20250404	
 20.1.3-ubuntu-groovy-20201022.1	
-20.1.3-ubuntu-impish-20211102	amd64
+20.1.3-ubuntu-impish-20211102	
 20.1.3-ubuntu-trusty-20191217	
 20.1.3-ubuntu-xenial-20200212	
 20.1.4-alpine-3.11.2	
@@ -796,7 +796,7 @@
 20.1.6-ubuntu-focal-20200423	
 20.1.6-ubuntu-focal-20250404	
 20.1.6-ubuntu-groovy-20201022.1	
-20.1.6-ubuntu-impish-20211102	amd64
+20.1.6-ubuntu-impish-20211102	
 20.1.6-ubuntu-trusty-20191217	
 20.1.6-ubuntu-xenial-20200212	
 20.1.7-alpine-3.11.2	
@@ -1038,7 +1038,7 @@
 20.2-ubuntu-focal-20200423	
 20.2-ubuntu-focal-20250404	
 20.2-ubuntu-groovy-20201022.1	
-20.2-ubuntu-impish-20211102	amd64
+20.2-ubuntu-impish-20211102	
 20.2-ubuntu-trusty-20191217	
 20.2-ubuntu-xenial-20200212	
 20.2.0.1-alpine-3.11.6	
@@ -1084,7 +1084,7 @@
 20.2.0.1-ubuntu-focal-20200423	
 20.2.0.1-ubuntu-focal-20250404	
 20.2.0.1-ubuntu-groovy-20201022.1	
-20.2.0.1-ubuntu-impish-20211102	amd64
+20.2.0.1-ubuntu-impish-20211102	
 20.2.0.1-ubuntu-trusty-20191217	
 20.2.0.1-ubuntu-xenial-20200326	
 20.2.1-alpine-3.11.2	
@@ -1131,7 +1131,7 @@
 20.2.1-ubuntu-focal-20200423	
 20.2.1-ubuntu-focal-20250404	
 20.2.1-ubuntu-groovy-20201022.1	
-20.2.1-ubuntu-impish-20211102	amd64
+20.2.1-ubuntu-impish-20211102	
 20.2.1-ubuntu-trusty-20191217	
 20.2.1-ubuntu-xenial-20200212	
 20.2.2-alpine-3.11.2	
@@ -1225,7 +1225,7 @@
 20.2.3-ubuntu-focal-20200423	
 20.2.3-ubuntu-focal-20250404	
 20.2.3-ubuntu-groovy-20201022.1	
-20.2.3-ubuntu-impish-20211102	amd64
+20.2.3-ubuntu-impish-20211102	
 20.2.3-ubuntu-trusty-20191217	
 20.2.3-ubuntu-xenial-20200212	
 20.2.4-alpine-3.11.2	
@@ -1515,7 +1515,7 @@
 20.3.2-ubuntu-focal-20200423	
 20.3.2-ubuntu-focal-20250404	
 20.3.2-ubuntu-groovy-20201022.1	
-20.3.2-ubuntu-impish-20211102	amd64
+20.3.2-ubuntu-impish-20211102	
 20.3.2-ubuntu-trusty-20191217	
 20.3.2-ubuntu-xenial-20200212	
 20.3.2.1-alpine-3.11.6	
@@ -1561,7 +1561,7 @@
 20.3.2.1-ubuntu-focal-20200423	
 20.3.2.1-ubuntu-focal-20250404	
 20.3.2.1-ubuntu-groovy-20201022.1	
-20.3.2.1-ubuntu-impish-20211102	amd64
+20.3.2.1-ubuntu-impish-20211102	
 20.3.2.1-ubuntu-trusty-20191217	
 20.3.2.1-ubuntu-xenial-20200326	
 20.3.3-alpine-3.11.2	
@@ -1702,7 +1702,7 @@
 20.3.5-ubuntu-focal-20200423	
 20.3.5-ubuntu-focal-20250404	
 20.3.5-ubuntu-groovy-20201022.1	
-20.3.5-ubuntu-impish-20211102	amd64
+20.3.5-ubuntu-impish-20211102	
 20.3.5-ubuntu-trusty-20191217	
 20.3.5-ubuntu-xenial-20200212	
 20.3.6-alpine-3.11.2	
@@ -1796,7 +1796,7 @@
 20.3.7-ubuntu-focal-20200423	
 20.3.7-ubuntu-focal-20250404	
 20.3.7-ubuntu-groovy-20201022.1	
-20.3.7-ubuntu-impish-20211102	amd64
+20.3.7-ubuntu-impish-20211102	
 20.3.7-ubuntu-trusty-20191217	
 20.3.7-ubuntu-xenial-20200212	
 20.3.8-alpine-3.11.2	
@@ -1889,7 +1889,7 @@
 20.3.8.1-ubuntu-focal-20200423	
 20.3.8.1-ubuntu-focal-20250404	
 20.3.8.1-ubuntu-groovy-20201022.1	
-20.3.8.1-ubuntu-impish-20211102	amd64
+20.3.8.1-ubuntu-impish-20211102	
 20.3.8.1-ubuntu-trusty-20191217	
 20.3.8.1-ubuntu-xenial-20200326	
 20.3.8.10-alpine-3.11.6	
@@ -1935,7 +1935,7 @@
 20.3.8.10-ubuntu-focal-20200423	
 20.3.8.10-ubuntu-focal-20250404	
 20.3.8.10-ubuntu-groovy-20201022.1	
-20.3.8.10-ubuntu-impish-20211102	amd64
+20.3.8.10-ubuntu-impish-20211102	
 20.3.8.10-ubuntu-trusty-20191217	
 20.3.8.10-ubuntu-xenial-20200326	
 20.3.8.11-alpine-3.11.6	
@@ -2027,7 +2027,7 @@
 20.3.8.12-ubuntu-focal-20200423	
 20.3.8.12-ubuntu-focal-20250404	
 20.3.8.12-ubuntu-groovy-20201022.1	
-20.3.8.12-ubuntu-impish-20211102	amd64
+20.3.8.12-ubuntu-impish-20211102	
 20.3.8.12-ubuntu-trusty-20191217	
 20.3.8.12-ubuntu-xenial-20200326	
 20.3.8.13-alpine-3.11.6	
@@ -2073,7 +2073,7 @@
 20.3.8.13-ubuntu-focal-20200423	
 20.3.8.13-ubuntu-focal-20250404	
 20.3.8.13-ubuntu-groovy-20201022.1	
-20.3.8.13-ubuntu-impish-20211102	amd64
+20.3.8.13-ubuntu-impish-20211102	
 20.3.8.13-ubuntu-trusty-20191217	
 20.3.8.13-ubuntu-xenial-20200326	
 20.3.8.14-alpine-3.11.6	
@@ -2119,7 +2119,7 @@
 20.3.8.14-ubuntu-focal-20200423	
 20.3.8.14-ubuntu-focal-20250404	
 20.3.8.14-ubuntu-groovy-20201022.1	
-20.3.8.14-ubuntu-impish-20211102	amd64
+20.3.8.14-ubuntu-impish-20211102	
 20.3.8.14-ubuntu-trusty-20191217	
 20.3.8.14-ubuntu-xenial-20200326	
 20.3.8.15-alpine-3.11.6	
@@ -2165,7 +2165,7 @@
 20.3.8.15-ubuntu-focal-20200423	
 20.3.8.15-ubuntu-focal-20250404	
 20.3.8.15-ubuntu-groovy-20201022.1	
-20.3.8.15-ubuntu-impish-20211102	amd64
+20.3.8.15-ubuntu-impish-20211102	
 20.3.8.15-ubuntu-trusty-20191217	
 20.3.8.15-ubuntu-xenial-20200326	
 20.3.8.16-alpine-3.11.6	
@@ -2257,7 +2257,7 @@
 20.3.8.17-ubuntu-focal-20200423	
 20.3.8.17-ubuntu-focal-20250404	
 20.3.8.17-ubuntu-groovy-20201022.1	
-20.3.8.17-ubuntu-impish-20211102	amd64
+20.3.8.17-ubuntu-impish-20211102	
 20.3.8.17-ubuntu-trusty-20191217	
 20.3.8.17-ubuntu-xenial-20200326	
 20.3.8.18-alpine-3.11.6	
@@ -2303,7 +2303,7 @@
 20.3.8.18-ubuntu-focal-20200423	
 20.3.8.18-ubuntu-focal-20250404	
 20.3.8.18-ubuntu-groovy-20201022.1	
-20.3.8.18-ubuntu-impish-20211102	amd64
+20.3.8.18-ubuntu-impish-20211102	
 20.3.8.18-ubuntu-trusty-20191217	
 20.3.8.18-ubuntu-xenial-20200326	
 20.3.8.19-alpine-3.11.6	
@@ -2349,7 +2349,7 @@
 20.3.8.19-ubuntu-focal-20200423	
 20.3.8.19-ubuntu-focal-20250404	
 20.3.8.19-ubuntu-groovy-20201022.1	
-20.3.8.19-ubuntu-impish-20211102	amd64
+20.3.8.19-ubuntu-impish-20211102	
 20.3.8.19-ubuntu-trusty-20191217	
 20.3.8.19-ubuntu-xenial-20200326	
 20.3.8.2-alpine-3.11.6	
@@ -2395,7 +2395,7 @@
 20.3.8.2-ubuntu-focal-20200423	
 20.3.8.2-ubuntu-focal-20250404	
 20.3.8.2-ubuntu-groovy-20201022.1	
-20.3.8.2-ubuntu-impish-20211102	amd64
+20.3.8.2-ubuntu-impish-20211102	
 20.3.8.2-ubuntu-trusty-20191217	
 20.3.8.2-ubuntu-xenial-20200326	
 20.3.8.20-alpine-3.11.6	
@@ -2671,7 +2671,7 @@
 20.3.8.25-ubuntu-focal-20200423	
 20.3.8.25-ubuntu-focal-20250404	
 20.3.8.25-ubuntu-groovy-20201022.1	
-20.3.8.25-ubuntu-impish-20211102	amd64
+20.3.8.25-ubuntu-impish-20211102	
 20.3.8.25-ubuntu-trusty-20191217	
 20.3.8.25-ubuntu-xenial-20200326	
 20.3.8.26-alpine-3.11.6	
@@ -2899,7 +2899,7 @@
 20.3.8.4-ubuntu-focal-20200423	
 20.3.8.4-ubuntu-focal-20250404	
 20.3.8.4-ubuntu-groovy-20201022.1	
-20.3.8.4-ubuntu-impish-20211102	amd64
+20.3.8.4-ubuntu-impish-20211102	
 20.3.8.4-ubuntu-trusty-20191217	
 20.3.8.4-ubuntu-xenial-20200326	
 20.3.8.5-alpine-3.11.6	
@@ -2945,7 +2945,7 @@
 20.3.8.5-ubuntu-focal-20200423	
 20.3.8.5-ubuntu-focal-20250404	
 20.3.8.5-ubuntu-groovy-20201022.1	
-20.3.8.5-ubuntu-impish-20211102	amd64
+20.3.8.5-ubuntu-impish-20211102	
 20.3.8.5-ubuntu-trusty-20191217	
 20.3.8.5-ubuntu-xenial-20200326	
 20.3.8.6-alpine-3.11.6	
@@ -3083,7 +3083,7 @@
 20.3.8.8-ubuntu-focal-20200423	
 20.3.8.8-ubuntu-focal-20250404	
 20.3.8.8-ubuntu-groovy-20201022.1	
-20.3.8.8-ubuntu-impish-20211102	amd64
+20.3.8.8-ubuntu-impish-20211102	
 20.3.8.8-ubuntu-trusty-20191217	
 20.3.8.8-ubuntu-xenial-20200326	
 20.3.8.9-alpine-3.11.6	
@@ -3157,7 +3157,7 @@
 20.3.8.9-ubuntu-focal-20240530	
 20.3.8.9-ubuntu-focal-20250404	
 20.3.8.9-ubuntu-groovy-20201022.1	
-20.3.8.9-ubuntu-impish-20211102	amd64
+20.3.8.9-ubuntu-impish-20211102	
 20.3.8.9-ubuntu-trusty-20191217	
 20.3.8.9-ubuntu-xenial-20200326	
 21.0-alpine-3.11.2	
@@ -3194,7 +3194,7 @@
 21.0-debian-bullseye-20260505-slim	
 21.0-debian-bullseye-20260518	
 21.0-debian-bullseye-20260518-slim	
-21.0-debian-bullseye-20260610	amd64
+21.0-debian-bullseye-20260610	
 21.0-debian-bullseye-20260610-slim	
 21.0-debian-buster-20200224	
 21.0-debian-buster-20210902-slim	
@@ -3243,7 +3243,7 @@
 21.0-rc1-ubuntu-focal-20210325	
 21.0-rc1-ubuntu-focal-20250404	
 21.0-rc1-ubuntu-groovy-20210325	
-21.0-rc1-ubuntu-impish-20211102	amd64
+21.0-rc1-ubuntu-impish-20211102	
 21.0-rc1-ubuntu-trusty-20191217	
 21.0-rc1-ubuntu-xenial-20210114	
 21.0-rc2-alpine-3.13.3	
@@ -3295,7 +3295,7 @@
 21.0-ubuntu-focal-20200423	
 21.0-ubuntu-focal-20250404	
 21.0-ubuntu-groovy-20201022.1	
-21.0-ubuntu-impish-20211102	amd64
+21.0-ubuntu-impish-20211102	
 21.0-ubuntu-trusty-20191217	
 21.0-ubuntu-xenial-20200212	
 21.0.1-alpine-3.11.2	
@@ -3343,7 +3343,7 @@
 21.0.1-ubuntu-focal-20200423	
 21.0.1-ubuntu-focal-20250404	
 21.0.1-ubuntu-groovy-20201022.1	
-21.0.1-ubuntu-impish-20211102	amd64
+21.0.1-ubuntu-impish-20211102	
 21.0.1-ubuntu-trusty-20191217	
 21.0.1-ubuntu-xenial-20200212	
 21.0.2-alpine-3.11.2	
@@ -3391,7 +3391,7 @@
 21.0.2-ubuntu-focal-20200423	
 21.0.2-ubuntu-focal-20250404	
 21.0.2-ubuntu-groovy-20201022.1	
-21.0.2-ubuntu-impish-20211102	amd64
+21.0.2-ubuntu-impish-20211102	
 21.0.2-ubuntu-trusty-20191217	
 21.0.2-ubuntu-xenial-20200212	
 21.0.3-alpine-3.11.2	
@@ -3439,7 +3439,7 @@
 21.0.3-ubuntu-focal-20200423	
 21.0.3-ubuntu-focal-20250404	
 21.0.3-ubuntu-groovy-20201022.1	
-21.0.3-ubuntu-impish-20211102	amd64
+21.0.3-ubuntu-impish-20211102	
 21.0.3-ubuntu-trusty-20191217	
 21.0.3-ubuntu-xenial-20200212	
 21.0.4-alpine-3.11.2	
@@ -3487,7 +3487,7 @@
 21.0.4-ubuntu-focal-20200423	
 21.0.4-ubuntu-focal-20250404	
 21.0.4-ubuntu-groovy-20201022.1	
-21.0.4-ubuntu-impish-20211102	amd64
+21.0.4-ubuntu-impish-20211102	
 21.0.4-ubuntu-trusty-20191217	
 21.0.4-ubuntu-xenial-20200212	
 21.0.5-alpine-3.11.2	
@@ -3535,7 +3535,7 @@
 21.0.5-ubuntu-focal-20200423	
 21.0.5-ubuntu-focal-20250404	
 21.0.5-ubuntu-groovy-20201022.1	
-21.0.5-ubuntu-impish-20211102	amd64
+21.0.5-ubuntu-impish-20211102	
 21.0.5-ubuntu-trusty-20191217	
 21.0.5-ubuntu-xenial-20200212	
 21.0.6-alpine-3.11.2	
@@ -3583,7 +3583,7 @@
 21.0.6-ubuntu-focal-20200423	
 21.0.6-ubuntu-focal-20250404	
 21.0.6-ubuntu-groovy-20201022.1	
-21.0.6-ubuntu-impish-20211102	amd64
+21.0.6-ubuntu-impish-20211102	
 21.0.6-ubuntu-trusty-20191217	
 21.0.6-ubuntu-xenial-20200212	
 21.0.7-alpine-3.11.2	
@@ -3631,7 +3631,7 @@
 21.0.7-ubuntu-focal-20200423	
 21.0.7-ubuntu-focal-20250404	
 21.0.7-ubuntu-groovy-20201022.1	
-21.0.7-ubuntu-impish-20211102	amd64
+21.0.7-ubuntu-impish-20211102	
 21.0.7-ubuntu-trusty-20191217	
 21.0.7-ubuntu-xenial-20200212	
 21.0.8-alpine-3.11.2	
@@ -3679,7 +3679,7 @@
 21.0.8-ubuntu-focal-20200423	
 21.0.8-ubuntu-focal-20250404	
 21.0.8-ubuntu-groovy-20201022.1	
-21.0.8-ubuntu-impish-20211102	amd64
+21.0.8-ubuntu-impish-20211102	
 21.0.8-ubuntu-trusty-20191217	
 21.0.8-ubuntu-xenial-20200212	
 21.0.9-alpine-3.11.2	
@@ -3829,7 +3829,7 @@
 21.0.9-ubuntu-focal-20241011	
 21.0.9-ubuntu-focal-20250404	
 21.0.9-ubuntu-groovy-20201022.1	
-21.0.9-ubuntu-impish-20211102	amd64
+21.0.9-ubuntu-impish-20211102	
 21.0.9-ubuntu-trusty-20191217	
 21.0.9-ubuntu-xenial-20200212	
 21.1-alpine-3.11.2	
@@ -3877,7 +3877,7 @@
 21.1-ubuntu-focal-20200423	
 21.1-ubuntu-focal-20250404	
 21.1-ubuntu-groovy-20201022.1	
-21.1-ubuntu-impish-20211102	amd64
+21.1-ubuntu-impish-20211102	
 21.1-ubuntu-trusty-20191217	
 21.1-ubuntu-xenial-20200212	
 21.1.1-alpine-3.11.2	
@@ -3925,7 +3925,7 @@
 21.1.1-ubuntu-focal-20200423	
 21.1.1-ubuntu-focal-20250404	
 21.1.1-ubuntu-groovy-20201022.1	
-21.1.1-ubuntu-impish-20211102	amd64
+21.1.1-ubuntu-impish-20211102	
 21.1.1-ubuntu-trusty-20191217	
 21.1.1-ubuntu-xenial-20200212	
 21.1.2-alpine-3.11.2	
@@ -3973,7 +3973,7 @@
 21.1.2-ubuntu-focal-20200423	
 21.1.2-ubuntu-focal-20250404	
 21.1.2-ubuntu-groovy-20201022.1	
-21.1.2-ubuntu-impish-20211102	amd64
+21.1.2-ubuntu-impish-20211102	
 21.1.2-ubuntu-trusty-20191217	
 21.1.2-ubuntu-xenial-20200212	
 21.1.3-alpine-3.11.2	
@@ -4021,7 +4021,7 @@
 21.1.3-ubuntu-focal-20200423	
 21.1.3-ubuntu-focal-20250404	
 21.1.3-ubuntu-groovy-20201022.1	
-21.1.3-ubuntu-impish-20211102	amd64
+21.1.3-ubuntu-impish-20211102	
 21.1.3-ubuntu-trusty-20191217	
 21.1.3-ubuntu-xenial-20200212	
 21.1.4-alpine-3.11.2	
@@ -4171,7 +4171,7 @@
 21.1.4-ubuntu-focal-20241011	
 21.1.4-ubuntu-focal-20250404	
 21.1.4-ubuntu-groovy-20201022.1	
-21.1.4-ubuntu-impish-20211102	amd64
+21.1.4-ubuntu-impish-20211102	
 21.1.4-ubuntu-trusty-20191217	
 21.1.4-ubuntu-xenial-20200212	
 21.2-alpine-3.11.2	
@@ -4219,7 +4219,7 @@
 21.2-ubuntu-focal-20200423	
 21.2-ubuntu-focal-20250404	
 21.2-ubuntu-groovy-20201022.1	
-21.2-ubuntu-impish-20211102	amd64
+21.2-ubuntu-impish-20211102	
 21.2-ubuntu-trusty-20191217	
 21.2-ubuntu-xenial-20200212	
 21.2.1-alpine-3.11.2	
@@ -4267,7 +4267,7 @@
 21.2.1-ubuntu-focal-20200423	
 21.2.1-ubuntu-focal-20250404	
 21.2.1-ubuntu-groovy-20201022.1	
-21.2.1-ubuntu-impish-20211102	amd64
+21.2.1-ubuntu-impish-20211102	
 21.2.1-ubuntu-trusty-20191217	
 21.2.1-ubuntu-xenial-20200212	
 21.2.2-alpine-3.11.2	
@@ -4315,7 +4315,7 @@
 21.2.2-ubuntu-focal-20200423	
 21.2.2-ubuntu-focal-20250404	
 21.2.2-ubuntu-groovy-20201022.1	
-21.2.2-ubuntu-impish-20211102	amd64
+21.2.2-ubuntu-impish-20211102	
 21.2.2-ubuntu-trusty-20191217	
 21.2.2-ubuntu-xenial-20200212	
 21.2.3-alpine-3.11.2	
@@ -4363,7 +4363,7 @@
 21.2.3-ubuntu-focal-20200423	
 21.2.3-ubuntu-focal-20250404	
 21.2.3-ubuntu-groovy-20201022.1	
-21.2.3-ubuntu-impish-20211102	amd64
+21.2.3-ubuntu-impish-20211102	
 21.2.3-ubuntu-trusty-20191217	
 21.2.3-ubuntu-xenial-20200212	
 21.2.4-alpine-3.11.2	
@@ -4411,7 +4411,7 @@
 21.2.4-ubuntu-focal-20200423	
 21.2.4-ubuntu-focal-20250404	
 21.2.4-ubuntu-groovy-20201022.1	
-21.2.4-ubuntu-impish-20211102	amd64
+21.2.4-ubuntu-impish-20211102	
 21.2.4-ubuntu-trusty-20191217	
 21.2.4-ubuntu-xenial-20200212	
 21.2.5-alpine-3.11.2	
@@ -4459,7 +4459,7 @@
 21.2.5-ubuntu-focal-20200423	
 21.2.5-ubuntu-focal-20250404	
 21.2.5-ubuntu-groovy-20201022.1	
-21.2.5-ubuntu-impish-20211102	amd64
+21.2.5-ubuntu-impish-20211102	
 21.2.5-ubuntu-trusty-20191217	
 21.2.5-ubuntu-xenial-20200212	
 21.2.6-alpine-3.11.2	
@@ -4507,7 +4507,7 @@
 21.2.6-ubuntu-focal-20200423	
 21.2.6-ubuntu-focal-20250404	
 21.2.6-ubuntu-groovy-20201022.1	
-21.2.6-ubuntu-impish-20211102	amd64
+21.2.6-ubuntu-impish-20211102	
 21.2.6-ubuntu-trusty-20191217	
 21.2.6-ubuntu-xenial-20200212	
 21.2.7-alpine-3.11.2	
@@ -4657,7 +4657,7 @@
 21.2.7-ubuntu-focal-20241011	
 21.2.7-ubuntu-focal-20250404	
 21.2.7-ubuntu-groovy-20201022.1	
-21.2.7-ubuntu-impish-20211102	amd64
+21.2.7-ubuntu-impish-20211102	
 21.2.7-ubuntu-trusty-20191217	
 21.2.7-ubuntu-xenial-20200212	
 21.3-alpine-3.11.2	
@@ -4704,7 +4704,7 @@
 21.3-ubuntu-focal-20200423	
 21.3-ubuntu-focal-20250404	
 21.3-ubuntu-groovy-20201022.1	
-21.3-ubuntu-impish-20211102	amd64
+21.3-ubuntu-impish-20211102	
 21.3-ubuntu-trusty-20191217	
 21.3-ubuntu-xenial-20200212	
 21.3.1-alpine-3.11.2	
@@ -4751,7 +4751,7 @@
 21.3.1-ubuntu-focal-20200423	
 21.3.1-ubuntu-focal-20250404	
 21.3.1-ubuntu-groovy-20201022.1	
-21.3.1-ubuntu-impish-20211102	amd64
+21.3.1-ubuntu-impish-20211102	
 21.3.1-ubuntu-trusty-20191217	
 21.3.1-ubuntu-xenial-20200212	
 21.3.2-alpine-3.11.2	
@@ -4798,7 +4798,7 @@
 21.3.2-ubuntu-focal-20200423	
 21.3.2-ubuntu-focal-20250404	
 21.3.2-ubuntu-groovy-20201022.1	
-21.3.2-ubuntu-impish-20211102	amd64
+21.3.2-ubuntu-impish-20211102	
 21.3.2-ubuntu-trusty-20191217	
 21.3.2-ubuntu-xenial-20200212	
 21.3.3-alpine-3.11.2	
@@ -4845,7 +4845,7 @@
 21.3.3-ubuntu-focal-20200423	
 21.3.3-ubuntu-focal-20250404	
 21.3.3-ubuntu-groovy-20201022.1	
-21.3.3-ubuntu-impish-20211102	amd64
+21.3.3-ubuntu-impish-20211102	
 21.3.3-ubuntu-trusty-20191217	
 21.3.3-ubuntu-xenial-20200212	
 21.3.4-alpine-3.11.2	
@@ -4892,7 +4892,7 @@
 21.3.4-ubuntu-focal-20200423	
 21.3.4-ubuntu-focal-20250404	
 21.3.4-ubuntu-groovy-20201022.1	
-21.3.4-ubuntu-impish-20211102	amd64
+21.3.4-ubuntu-impish-20211102	
 21.3.4-ubuntu-trusty-20191217	
 21.3.4-ubuntu-xenial-20200212	
 21.3.5-alpine-3.11.2	
@@ -4939,7 +4939,7 @@
 21.3.5-ubuntu-focal-20200423	
 21.3.5-ubuntu-focal-20250404	
 21.3.5-ubuntu-groovy-20201022.1	
-21.3.5-ubuntu-impish-20211102	amd64
+21.3.5-ubuntu-impish-20211102	
 21.3.5-ubuntu-trusty-20191217	
 21.3.5-ubuntu-xenial-20200212	
 21.3.6-alpine-3.11.2	
@@ -4986,7 +4986,7 @@
 21.3.6-ubuntu-focal-20200423	
 21.3.6-ubuntu-focal-20250404	
 21.3.6-ubuntu-groovy-20201022.1	
-21.3.6-ubuntu-impish-20211102	amd64
+21.3.6-ubuntu-impish-20211102	
 21.3.6-ubuntu-trusty-20191217	
 21.3.6-ubuntu-xenial-20200212	
 21.3.7-alpine-3.11.2	
@@ -5033,7 +5033,7 @@
 21.3.7-ubuntu-focal-20200423	
 21.3.7-ubuntu-focal-20250404	
 21.3.7-ubuntu-groovy-20201022.1	
-21.3.7-ubuntu-impish-20211102	amd64
+21.3.7-ubuntu-impish-20211102	
 21.3.7-ubuntu-trusty-20191217	
 21.3.7-ubuntu-xenial-20200212	
 21.3.7.1-alpine-3.11.6	
@@ -5079,7 +5079,7 @@
 21.3.7.1-ubuntu-focal-20200423	
 21.3.7.1-ubuntu-focal-20250404	
 21.3.7.1-ubuntu-groovy-20201022.1	
-21.3.7.1-ubuntu-impish-20211102	amd64
+21.3.7.1-ubuntu-impish-20211102	
 21.3.7.1-ubuntu-trusty-20191217	
 21.3.7.1-ubuntu-xenial-20200326	
 21.3.8-alpine-3.11.2	
@@ -5126,7 +5126,7 @@
 21.3.8-ubuntu-focal-20200423	
 21.3.8-ubuntu-focal-20250404	
 21.3.8-ubuntu-groovy-20201022.1	
-21.3.8-ubuntu-impish-20211102	amd64
+21.3.8-ubuntu-impish-20211102	
 21.3.8-ubuntu-trusty-20191217	
 21.3.8-ubuntu-xenial-20200212	
 21.3.8.1-alpine-3.11.6	
@@ -5172,7 +5172,7 @@
 21.3.8.1-ubuntu-focal-20200423	
 21.3.8.1-ubuntu-focal-20250404	
 21.3.8.1-ubuntu-groovy-20201022.1	
-21.3.8.1-ubuntu-impish-20211102	amd64
+21.3.8.1-ubuntu-impish-20211102	
 21.3.8.1-ubuntu-trusty-20191217	
 21.3.8.1-ubuntu-xenial-20200326	
 21.3.8.10-alpine-3.11.6	
@@ -5218,7 +5218,7 @@
 21.3.8.10-ubuntu-focal-20200423	
 21.3.8.10-ubuntu-focal-20250404	
 21.3.8.10-ubuntu-groovy-20201022.1	
-21.3.8.10-ubuntu-impish-20211102	amd64
+21.3.8.10-ubuntu-impish-20211102	
 21.3.8.10-ubuntu-trusty-20191217	
 21.3.8.10-ubuntu-xenial-20200326	
 21.3.8.11-alpine-3.11.6	
@@ -5264,7 +5264,7 @@
 21.3.8.11-ubuntu-focal-20200423	
 21.3.8.11-ubuntu-focal-20250404	
 21.3.8.11-ubuntu-groovy-20201022.1	
-21.3.8.11-ubuntu-impish-20211102	amd64
+21.3.8.11-ubuntu-impish-20211102	
 21.3.8.11-ubuntu-trusty-20191217	
 21.3.8.11-ubuntu-xenial-20200326	
 21.3.8.12-alpine-3.11.6	
@@ -5310,7 +5310,7 @@
 21.3.8.12-ubuntu-focal-20200423	
 21.3.8.12-ubuntu-focal-20250404	
 21.3.8.12-ubuntu-groovy-20201022.1	
-21.3.8.12-ubuntu-impish-20211102	amd64
+21.3.8.12-ubuntu-impish-20211102	
 21.3.8.12-ubuntu-trusty-20191217	
 21.3.8.12-ubuntu-xenial-20200326	
 21.3.8.13-alpine-3.11.6	
@@ -5356,7 +5356,7 @@
 21.3.8.13-ubuntu-focal-20200423	
 21.3.8.13-ubuntu-focal-20250404	
 21.3.8.13-ubuntu-groovy-20201022.1	
-21.3.8.13-ubuntu-impish-20211102	amd64
+21.3.8.13-ubuntu-impish-20211102	
 21.3.8.13-ubuntu-trusty-20191217	
 21.3.8.13-ubuntu-xenial-20200326	
 21.3.8.14-alpine-3.11.6	
@@ -5402,7 +5402,7 @@
 21.3.8.14-ubuntu-focal-20200423	
 21.3.8.14-ubuntu-focal-20250404	
 21.3.8.14-ubuntu-groovy-20201022.1	
-21.3.8.14-ubuntu-impish-20211102	amd64
+21.3.8.14-ubuntu-impish-20211102	
 21.3.8.14-ubuntu-trusty-20191217	
 21.3.8.14-ubuntu-xenial-20200326	
 21.3.8.15-alpine-3.11.6	
@@ -5448,7 +5448,7 @@
 21.3.8.15-ubuntu-focal-20200423	
 21.3.8.15-ubuntu-focal-20250404	
 21.3.8.15-ubuntu-groovy-20201022.1	
-21.3.8.15-ubuntu-impish-20211102	amd64
+21.3.8.15-ubuntu-impish-20211102	
 21.3.8.15-ubuntu-trusty-20191217	
 21.3.8.15-ubuntu-xenial-20200326	
 21.3.8.16-alpine-3.11.6	
@@ -5494,7 +5494,7 @@
 21.3.8.16-ubuntu-focal-20200423	
 21.3.8.16-ubuntu-focal-20250404	
 21.3.8.16-ubuntu-groovy-20201022.1	
-21.3.8.16-ubuntu-impish-20211102	amd64
+21.3.8.16-ubuntu-impish-20211102	
 21.3.8.16-ubuntu-trusty-20191217	
 21.3.8.16-ubuntu-xenial-20200326	
 21.3.8.17-alpine-3.12.0	
@@ -5539,7 +5539,7 @@
 21.3.8.17-ubuntu-focal-20200703	
 21.3.8.17-ubuntu-focal-20250404	
 21.3.8.17-ubuntu-groovy-20201022.1	
-21.3.8.17-ubuntu-impish-20211102	amd64
+21.3.8.17-ubuntu-impish-20211102	
 21.3.8.17-ubuntu-trusty-20191217	
 21.3.8.17-ubuntu-xenial-20200619	
 21.3.8.18-alpine-3.12.0	
@@ -5584,7 +5584,7 @@
 21.3.8.18-ubuntu-focal-20200703	
 21.3.8.18-ubuntu-focal-20250404	
 21.3.8.18-ubuntu-groovy-20201022.1	
-21.3.8.18-ubuntu-impish-20211102	amd64
+21.3.8.18-ubuntu-impish-20211102	
 21.3.8.18-ubuntu-trusty-20191217	
 21.3.8.18-ubuntu-xenial-20200619	
 21.3.8.19-alpine-3.12.1	amd64
@@ -5629,7 +5629,7 @@
 21.3.8.19-ubuntu-focal-20201008	
 21.3.8.19-ubuntu-focal-20250404	
 21.3.8.19-ubuntu-groovy-20201022.1	
-21.3.8.19-ubuntu-impish-20211102	amd64
+21.3.8.19-ubuntu-impish-20211102	
 21.3.8.19-ubuntu-trusty-20191217	
 21.3.8.19-ubuntu-xenial-20201014	
 21.3.8.2-alpine-3.11.6	
@@ -5675,7 +5675,7 @@
 21.3.8.2-ubuntu-focal-20200423	
 21.3.8.2-ubuntu-focal-20250404	
 21.3.8.2-ubuntu-groovy-20201022.1	
-21.3.8.2-ubuntu-impish-20211102	amd64
+21.3.8.2-ubuntu-impish-20211102	
 21.3.8.2-ubuntu-trusty-20191217	
 21.3.8.2-ubuntu-xenial-20200326	
 21.3.8.20-alpine-3.12.1	amd64
@@ -5811,7 +5811,7 @@
 21.3.8.22-ubuntu-focal-20210325	
 21.3.8.22-ubuntu-focal-20250404	
 21.3.8.22-ubuntu-groovy-20210325	
-21.3.8.22-ubuntu-impish-20211102	amd64
+21.3.8.22-ubuntu-impish-20211102	
 21.3.8.22-ubuntu-trusty-20191217	
 21.3.8.22-ubuntu-xenial-20210114	
 21.3.8.23-alpine-3.13.3	
@@ -5856,7 +5856,7 @@
 21.3.8.23-ubuntu-focal-20210325	
 21.3.8.23-ubuntu-focal-20250404	
 21.3.8.23-ubuntu-groovy-20210325	
-21.3.8.23-ubuntu-impish-20211102	amd64
+21.3.8.23-ubuntu-impish-20211102	
 21.3.8.23-ubuntu-trusty-20191217	
 21.3.8.23-ubuntu-xenial-20210114	
 21.3.8.24-alpine-3.13.3	
@@ -6037,7 +6037,7 @@
 21.3.8.3-ubuntu-focal-20200423	
 21.3.8.3-ubuntu-focal-20250404	
 21.3.8.3-ubuntu-groovy-20201022.1	
-21.3.8.3-ubuntu-impish-20211102	amd64
+21.3.8.3-ubuntu-impish-20211102	
 21.3.8.3-ubuntu-trusty-20191217	
 21.3.8.3-ubuntu-xenial-20200326	
 21.3.8.4-alpine-3.11.6	
@@ -6083,7 +6083,7 @@
 21.3.8.4-ubuntu-focal-20200423	
 21.3.8.4-ubuntu-focal-20250404	
 21.3.8.4-ubuntu-groovy-20201022.1	
-21.3.8.4-ubuntu-impish-20211102	amd64
+21.3.8.4-ubuntu-impish-20211102	
 21.3.8.4-ubuntu-trusty-20191217	
 21.3.8.4-ubuntu-xenial-20200326	
 21.3.8.5-alpine-3.11.6	
@@ -6129,7 +6129,7 @@
 21.3.8.5-ubuntu-focal-20200423	
 21.3.8.5-ubuntu-focal-20250404	
 21.3.8.5-ubuntu-groovy-20201022.1	
-21.3.8.5-ubuntu-impish-20211102	amd64
+21.3.8.5-ubuntu-impish-20211102	
 21.3.8.5-ubuntu-trusty-20191217	
 21.3.8.5-ubuntu-xenial-20200326	
 21.3.8.6-alpine-3.11.6	
@@ -6175,7 +6175,7 @@
 21.3.8.6-ubuntu-focal-20200423	
 21.3.8.6-ubuntu-focal-20250404	
 21.3.8.6-ubuntu-groovy-20201022.1	
-21.3.8.6-ubuntu-impish-20211102	amd64
+21.3.8.6-ubuntu-impish-20211102	
 21.3.8.6-ubuntu-trusty-20191217	
 21.3.8.6-ubuntu-xenial-20200326	
 21.3.8.7-alpine-3.11.6	
@@ -6221,7 +6221,7 @@
 21.3.8.7-ubuntu-focal-20200423	
 21.3.8.7-ubuntu-focal-20250404	
 21.3.8.7-ubuntu-groovy-20201022.1	
-21.3.8.7-ubuntu-impish-20211102	amd64
+21.3.8.7-ubuntu-impish-20211102	
 21.3.8.7-ubuntu-trusty-20191217	
 21.3.8.7-ubuntu-xenial-20200326	
 21.3.8.8-alpine-3.11.6	
@@ -6267,7 +6267,7 @@
 21.3.8.8-ubuntu-focal-20200423	
 21.3.8.8-ubuntu-focal-20250404	
 21.3.8.8-ubuntu-groovy-20201022.1	
-21.3.8.8-ubuntu-impish-20211102	amd64
+21.3.8.8-ubuntu-impish-20211102	
 21.3.8.8-ubuntu-trusty-20191217	
 21.3.8.8-ubuntu-xenial-20200326	
 21.3.8.9-alpine-3.11.6	
@@ -6341,7 +6341,7 @@
 21.3.8.9-ubuntu-focal-20240530	
 21.3.8.9-ubuntu-focal-20250404	
 21.3.8.9-ubuntu-groovy-20201022.1	
-21.3.8.9-ubuntu-impish-20211102	amd64
+21.3.8.9-ubuntu-impish-20211102	
 21.3.8.9-ubuntu-trusty-20191217	
 21.3.8.9-ubuntu-xenial-20200326	
 22.0-alpine-3.11.2	
@@ -6425,7 +6425,7 @@
 22.0-rc1-ubuntu-focal-20210325	
 22.0-rc1-ubuntu-focal-20250404	
 22.0-rc1-ubuntu-groovy-20210325	
-22.0-rc1-ubuntu-impish-20211102	amd64
+22.0-rc1-ubuntu-impish-20211102	
 22.0-rc1-ubuntu-trusty-20191217	
 22.0-rc1-ubuntu-xenial-20210114	
 22.0-rc2-debian-bullseye-20210902	
@@ -6469,7 +6469,7 @@
 22.0-rc2-ubuntu-focal-20210325	
 22.0-rc2-ubuntu-focal-20250404	
 22.0-rc2-ubuntu-groovy-20210325	
-22.0-rc2-ubuntu-impish-20211102	amd64
+22.0-rc2-ubuntu-impish-20211102	
 22.0-rc2-ubuntu-trusty-20191217	
 22.0-rc2-ubuntu-xenial-20210114	
 22.0-rc3-debian-bullseye-20210902	
@@ -6661,7 +6661,7 @@
 22.0.3-ubuntu-focal-20200423	
 22.0.3-ubuntu-focal-20250404	
 22.0.3-ubuntu-groovy-20201022.1	
-22.0.3-ubuntu-impish-20211102	amd64
+22.0.3-ubuntu-impish-20211102	
 22.0.3-ubuntu-trusty-20191217	
 22.0.3-ubuntu-xenial-20200212	
 22.0.4-alpine-3.11.2	
@@ -6802,7 +6802,7 @@
 22.0.6-ubuntu-focal-20200423	
 22.0.6-ubuntu-focal-20250404	
 22.0.6-ubuntu-groovy-20201022.1	
-22.0.6-ubuntu-impish-20211102	amd64
+22.0.6-ubuntu-impish-20211102	
 22.0.6-ubuntu-trusty-20191217	
 22.0.6-ubuntu-xenial-20200212	
 22.0.7-alpine-3.11.2	
@@ -6998,7 +6998,7 @@
 22.1-ubuntu-focal-20200423	
 22.1-ubuntu-focal-20250404	
 22.1-ubuntu-groovy-20201022.1	
-22.1-ubuntu-impish-20211102	amd64
+22.1-ubuntu-impish-20211102	
 22.1-ubuntu-trusty-20191217	
 22.1-ubuntu-xenial-20200212	
 22.1.1-alpine-3.11.2	
@@ -7186,7 +7186,7 @@
 22.1.4-ubuntu-focal-20200423	
 22.1.4-ubuntu-focal-20250404	
 22.1.4-ubuntu-groovy-20201022.1	
-22.1.4-ubuntu-impish-20211102	amd64
+22.1.4-ubuntu-impish-20211102	
 22.1.4-ubuntu-trusty-20191217	
 22.1.4-ubuntu-xenial-20200212	
 22.1.5-alpine-3.11.2	
@@ -7233,7 +7233,7 @@
 22.1.5-ubuntu-focal-20200423	
 22.1.5-ubuntu-focal-20250404	
 22.1.5-ubuntu-groovy-20201022.1	
-22.1.5-ubuntu-impish-20211102	amd64
+22.1.5-ubuntu-impish-20211102	
 22.1.5-ubuntu-trusty-20191217	
 22.1.5-ubuntu-xenial-20200212	
 22.1.6-alpine-3.11.2	
@@ -7616,7 +7616,7 @@
 22.2.1-ubuntu-focal-20200423	
 22.2.1-ubuntu-focal-20250404	
 22.2.1-ubuntu-groovy-20201022.1	
-22.2.1-ubuntu-impish-20211102	amd64
+22.2.1-ubuntu-impish-20211102	
 22.2.1-ubuntu-trusty-20191217	
 22.2.1-ubuntu-xenial-20200212	
 22.2.2-alpine-3.11.2	
@@ -7710,7 +7710,7 @@
 22.2.3-ubuntu-focal-20200423	
 22.2.3-ubuntu-focal-20250404	
 22.2.3-ubuntu-groovy-20201022.1	
-22.2.3-ubuntu-impish-20211102	amd64
+22.2.3-ubuntu-impish-20211102	
 22.2.3-ubuntu-trusty-20191217	
 22.2.3-ubuntu-xenial-20200212	
 22.2.4-alpine-3.11.2	
@@ -7757,7 +7757,7 @@
 22.2.4-ubuntu-focal-20200423	
 22.2.4-ubuntu-focal-20250404	
 22.2.4-ubuntu-groovy-20201022.1	
-22.2.4-ubuntu-impish-20211102	amd64
+22.2.4-ubuntu-impish-20211102	
 22.2.4-ubuntu-trusty-20191217	
 22.2.4-ubuntu-xenial-20200212	
 22.2.5-alpine-3.11.2	
@@ -7898,7 +7898,7 @@
 22.2.7-ubuntu-focal-20200423	
 22.2.7-ubuntu-focal-20250404	
 22.2.7-ubuntu-groovy-20201022.1	
-22.2.7-ubuntu-impish-20211102	amd64
+22.2.7-ubuntu-impish-20211102	
 22.2.7-ubuntu-trusty-20191217	
 22.2.7-ubuntu-xenial-20200212	
 22.2.8-alpine-3.11.2	
@@ -8047,7 +8047,7 @@
 22.2.8-ubuntu-focal-20241011	
 22.2.8-ubuntu-focal-20250404	
 22.2.8-ubuntu-groovy-20201022.1	
-22.2.8-ubuntu-impish-20211102	amd64
+22.2.8-ubuntu-impish-20211102	
 22.2.8-ubuntu-trusty-20191217	
 22.2.8-ubuntu-xenial-20200212	
 22.3-alpine-3.11.3	
@@ -8141,7 +8141,7 @@
 22.3.1-ubuntu-focal-20200423	
 22.3.1-ubuntu-focal-20250404	
 22.3.1-ubuntu-groovy-20201022.1	
-22.3.1-ubuntu-impish-20211102	amd64
+22.3.1-ubuntu-impish-20211102	
 22.3.1-ubuntu-trusty-20191217	
 22.3.1-ubuntu-xenial-20200212	
 22.3.2-alpine-3.11.3	
@@ -8282,7 +8282,7 @@
 22.3.4-ubuntu-focal-20200423	
 22.3.4-ubuntu-focal-20250404	
 22.3.4-ubuntu-groovy-20201022.1	
-22.3.4-ubuntu-impish-20211102	amd64
+22.3.4-ubuntu-impish-20211102	
 22.3.4-ubuntu-trusty-20191217	
 22.3.4-ubuntu-xenial-20200212	
 22.3.4.1-alpine-3.11.6	
@@ -8329,7 +8329,7 @@
 22.3.4.1-ubuntu-focal-20200423	
 22.3.4.1-ubuntu-focal-20250404	
 22.3.4.1-ubuntu-groovy-20201022.1	
-22.3.4.1-ubuntu-impish-20211102	amd64
+22.3.4.1-ubuntu-impish-20211102	
 22.3.4.1-ubuntu-trusty-20191217	
 22.3.4.1-ubuntu-xenial-20200326	
 22.3.4.10-alpine-3.12.0	
@@ -8421,7 +8421,7 @@
 22.3.4.11-ubuntu-focal-20200703	
 22.3.4.11-ubuntu-focal-20250404	
 22.3.4.11-ubuntu-groovy-20201022.1	
-22.3.4.11-ubuntu-impish-20211102	amd64
+22.3.4.11-ubuntu-impish-20211102	
 22.3.4.11-ubuntu-trusty-20191217	
 22.3.4.11-ubuntu-xenial-20200619	
 22.3.4.12-alpine-3.12.0	
@@ -8467,7 +8467,7 @@
 22.3.4.12-ubuntu-focal-20200703	
 22.3.4.12-ubuntu-focal-20250404	
 22.3.4.12-ubuntu-groovy-20201022.1	
-22.3.4.12-ubuntu-impish-20211102	amd64
+22.3.4.12-ubuntu-impish-20211102	
 22.3.4.12-ubuntu-trusty-20191217	
 22.3.4.12-ubuntu-xenial-20200619	
 22.3.4.12.1-alpine-3.13.3	
@@ -8512,7 +8512,7 @@
 22.3.4.12.1-ubuntu-focal-20210325	
 22.3.4.12.1-ubuntu-focal-20250404	
 22.3.4.12.1-ubuntu-groovy-20210325	
-22.3.4.12.1-ubuntu-impish-20211102	amd64
+22.3.4.12.1-ubuntu-impish-20211102	
 22.3.4.12.1-ubuntu-trusty-20191217	
 22.3.4.12.1-ubuntu-xenial-20210114	
 22.3.4.13-alpine-3.12.1	amd64
@@ -8558,7 +8558,7 @@
 22.3.4.13-ubuntu-focal-20201008	
 22.3.4.13-ubuntu-focal-20250404	
 22.3.4.13-ubuntu-groovy-20201022.1	
-22.3.4.13-ubuntu-impish-20211102	amd64
+22.3.4.13-ubuntu-impish-20211102	
 22.3.4.13-ubuntu-trusty-20191217	
 22.3.4.13-ubuntu-xenial-20201014	
 22.3.4.14-alpine-3.12.1	amd64
@@ -8604,7 +8604,7 @@
 22.3.4.14-ubuntu-focal-20201008	
 22.3.4.14-ubuntu-focal-20250404	
 22.3.4.14-ubuntu-groovy-20201022.1	
-22.3.4.14-ubuntu-impish-20211102	amd64
+22.3.4.14-ubuntu-impish-20211102	
 22.3.4.14-ubuntu-trusty-20191217	
 22.3.4.14-ubuntu-xenial-20201014	
 22.3.4.15-alpine-3.12.1	amd64
@@ -8650,7 +8650,7 @@
 22.3.4.15-ubuntu-focal-20201008	
 22.3.4.15-ubuntu-focal-20250404	
 22.3.4.15-ubuntu-groovy-20201022.1	
-22.3.4.15-ubuntu-impish-20211102	amd64
+22.3.4.15-ubuntu-impish-20211102	
 22.3.4.15-ubuntu-trusty-20191217	
 22.3.4.15-ubuntu-xenial-20201014	
 22.3.4.16-alpine-3.13.1	
@@ -8695,7 +8695,7 @@
 22.3.4.16-ubuntu-focal-20210119	
 22.3.4.16-ubuntu-focal-20250404	
 22.3.4.16-ubuntu-groovy-20210115	
-22.3.4.16-ubuntu-impish-20211102	amd64
+22.3.4.16-ubuntu-impish-20211102	
 22.3.4.16-ubuntu-trusty-20191217	
 22.3.4.16-ubuntu-xenial-20201014	
 22.3.4.17-alpine-3.13.3	
@@ -8831,7 +8831,7 @@
 22.3.4.19-ubuntu-focal-20210325	
 22.3.4.19-ubuntu-focal-20250404	
 22.3.4.19-ubuntu-groovy-20210325	
-22.3.4.19-ubuntu-impish-20211102	amd64
+22.3.4.19-ubuntu-impish-20211102	
 22.3.4.19-ubuntu-trusty-20191217	
 22.3.4.19-ubuntu-xenial-20210114	
 22.3.4.2-alpine-3.11.6	
@@ -8878,7 +8878,7 @@
 22.3.4.2-ubuntu-focal-20200423	
 22.3.4.2-ubuntu-focal-20250404	
 22.3.4.2-ubuntu-groovy-20201022.1	
-22.3.4.2-ubuntu-impish-20211102	amd64
+22.3.4.2-ubuntu-impish-20211102	
 22.3.4.2-ubuntu-trusty-20191217	
 22.3.4.2-ubuntu-xenial-20200326	
 22.3.4.20-alpine-3.13.3	
@@ -8924,7 +8924,7 @@
 22.3.4.20-ubuntu-focal-20210325	
 22.3.4.20-ubuntu-focal-20250404	
 22.3.4.20-ubuntu-groovy-20210325	
-22.3.4.20-ubuntu-impish-20211102	amd64
+22.3.4.20-ubuntu-impish-20211102	
 22.3.4.20-ubuntu-trusty-20191217	
 22.3.4.20-ubuntu-xenial-20210114	
 22.3.4.21-alpine-3.13.5	
@@ -8969,7 +8969,7 @@
 22.3.4.21-ubuntu-focal-20210325	
 22.3.4.21-ubuntu-focal-20250404	
 22.3.4.21-ubuntu-groovy-20210325	
-22.3.4.21-ubuntu-impish-20211102	amd64
+22.3.4.21-ubuntu-impish-20211102	
 22.3.4.21-ubuntu-trusty-20191217	
 22.3.4.21-ubuntu-xenial-20210114	
 22.3.4.22-alpine-3.13.6	
@@ -9057,7 +9057,7 @@
 22.3.4.23-ubuntu-focal-20210325	
 22.3.4.23-ubuntu-focal-20250404	
 22.3.4.23-ubuntu-groovy-20210325	
-22.3.4.23-ubuntu-impish-20211102	amd64
+22.3.4.23-ubuntu-impish-20211102	
 22.3.4.23-ubuntu-trusty-20191217	
 22.3.4.23-ubuntu-xenial-20210114	
 22.3.4.24-debian-bullseye-20210902	
@@ -9139,7 +9139,7 @@
 22.3.4.25-debian-buster-20210902-slim	
 22.3.4.25-debian-stretch-20210902	
 22.3.4.25-debian-stretch-20210902-slim	
-22.3.4.25-ubuntu-bionic-20210930	amd64
+22.3.4.25-ubuntu-bionic-20210930	
 22.3.4.25-ubuntu-focal-20211006	
 22.3.4.25-ubuntu-focal-20250404	
 22.3.4.25-ubuntu-impish-20211102	amd64
@@ -9206,7 +9206,7 @@
 22.3.4.26-ubuntu-focal-20231128	
 22.3.4.26-ubuntu-focal-20240123	
 22.3.4.26-ubuntu-focal-20250404	
-22.3.4.26-ubuntu-impish-20211102	amd64
+22.3.4.26-ubuntu-impish-20211102	
 22.3.4.26-ubuntu-trusty-20191217	
 22.3.4.26-ubuntu-xenial-20210804	
 22.3.4.27-debian-bullseye-20240130	
@@ -9357,7 +9357,7 @@
 22.3.4.3-ubuntu-focal-20200423	
 22.3.4.3-ubuntu-focal-20250404	
 22.3.4.3-ubuntu-groovy-20201022.1	
-22.3.4.3-ubuntu-impish-20211102	amd64
+22.3.4.3-ubuntu-impish-20211102	
 22.3.4.3-ubuntu-trusty-20191217	
 22.3.4.3-ubuntu-xenial-20200326	
 22.3.4.4-alpine-3.12.0	
@@ -9449,7 +9449,7 @@
 22.3.4.5-ubuntu-focal-20200703	
 22.3.4.5-ubuntu-focal-20250404	
 22.3.4.5-ubuntu-groovy-20201022.1	
-22.3.4.5-ubuntu-impish-20211102	amd64
+22.3.4.5-ubuntu-impish-20211102	
 22.3.4.5-ubuntu-trusty-20191217	
 22.3.4.5-ubuntu-xenial-20200619	
 22.3.4.6-alpine-3.12.0	
@@ -9495,7 +9495,7 @@
 22.3.4.6-ubuntu-focal-20200703	
 22.3.4.6-ubuntu-focal-20250404	
 22.3.4.6-ubuntu-groovy-20201022.1	
-22.3.4.6-ubuntu-impish-20211102	amd64
+22.3.4.6-ubuntu-impish-20211102	
 22.3.4.6-ubuntu-trusty-20191217	
 22.3.4.6-ubuntu-xenial-20200619	
 22.3.4.7-alpine-3.12.0	
@@ -9541,7 +9541,7 @@
 22.3.4.7-ubuntu-focal-20200703	
 22.3.4.7-ubuntu-focal-20250404	
 22.3.4.7-ubuntu-groovy-20201022.1	
-22.3.4.7-ubuntu-impish-20211102	amd64
+22.3.4.7-ubuntu-impish-20211102	
 22.3.4.7-ubuntu-trusty-20191217	
 22.3.4.7-ubuntu-xenial-20200619	
 22.3.4.8-alpine-3.12.0	
@@ -9587,7 +9587,7 @@
 22.3.4.8-ubuntu-focal-20200703	
 22.3.4.8-ubuntu-focal-20250404	
 22.3.4.8-ubuntu-groovy-20201022.1	
-22.3.4.8-ubuntu-impish-20211102	amd64
+22.3.4.8-ubuntu-impish-20211102	
 22.3.4.8-ubuntu-trusty-20191217	
 22.3.4.8-ubuntu-xenial-20200619	
 22.3.4.9-alpine-3.12.0	
@@ -9661,7 +9661,7 @@
 22.3.4.9-ubuntu-focal-20240530	
 22.3.4.9-ubuntu-focal-20250404	
 22.3.4.9-ubuntu-groovy-20201022.1	
-22.3.4.9-ubuntu-impish-20211102	amd64
+22.3.4.9-ubuntu-impish-20211102	
 22.3.4.9-ubuntu-trusty-20191217	
 22.3.4.9-ubuntu-xenial-20200619	
 23.0-alpine-3.11.3	
@@ -9840,7 +9840,7 @@
 23.0-rc3-ubuntu-focal-20210325	
 23.0-rc3-ubuntu-focal-20250404	
 23.0-rc3-ubuntu-groovy-20210325	
-23.0-rc3-ubuntu-impish-20211102	amd64
+23.0-rc3-ubuntu-impish-20211102	
 23.0-rc3-ubuntu-trusty-20191217	
 23.0-rc3-ubuntu-xenial-20210114	
 23.0-ubuntu-bionic-20200219	
@@ -9903,7 +9903,7 @@
 23.0.1-ubuntu-focal-20201008	
 23.0.1-ubuntu-focal-20250404	
 23.0.1-ubuntu-groovy-20201022.1	
-23.0.1-ubuntu-impish-20211102	amd64
+23.0.1-ubuntu-impish-20211102	
 23.0.1-ubuntu-trusty-20191217	
 23.0.1-ubuntu-xenial-20200326	
 23.0.1-ubuntu-xenial-20201014	
@@ -9957,7 +9957,7 @@
 23.0.2-ubuntu-focal-20201008	
 23.0.2-ubuntu-focal-20250404	
 23.0.2-ubuntu-groovy-20201022.1	
-23.0.2-ubuntu-impish-20211102	amd64
+23.0.2-ubuntu-impish-20211102	
 23.0.2-ubuntu-trusty-20191217	
 23.0.2-ubuntu-xenial-20200326	
 23.0.2-ubuntu-xenial-20201014	
@@ -10010,7 +10010,7 @@
 23.0.3-ubuntu-focal-20201008	
 23.0.3-ubuntu-focal-20250404	
 23.0.3-ubuntu-groovy-20201022.1	
-23.0.3-ubuntu-impish-20211102	amd64
+23.0.3-ubuntu-impish-20211102	
 23.0.3-ubuntu-trusty-20191217	
 23.0.3-ubuntu-xenial-20200619	
 23.0.3-ubuntu-xenial-20201014	
@@ -10165,7 +10165,7 @@
 23.0.4-ubuntu-focal-20241011	
 23.0.4-ubuntu-focal-20250404	
 23.0.4-ubuntu-groovy-20201022.1	
-23.0.4-ubuntu-impish-20211102	amd64
+23.0.4-ubuntu-impish-20211102	
 23.0.4-ubuntu-trusty-20191217	
 23.0.4-ubuntu-xenial-20200619	
 23.0.4-ubuntu-xenial-20201014	
@@ -10218,7 +10218,7 @@
 23.1-ubuntu-focal-20201008	
 23.1-ubuntu-focal-20250404	
 23.1-ubuntu-groovy-20201022.1	
-23.1-ubuntu-impish-20211102	amd64
+23.1-ubuntu-impish-20211102	
 23.1-ubuntu-trusty-20191217	
 23.1-ubuntu-xenial-20200619	
 23.1-ubuntu-xenial-20201014	
@@ -10271,7 +10271,7 @@
 23.1.1-ubuntu-focal-20201008	
 23.1.1-ubuntu-focal-20250404	
 23.1.1-ubuntu-groovy-20201022.1	
-23.1.1-ubuntu-impish-20211102	amd64
+23.1.1-ubuntu-impish-20211102	
 23.1.1-ubuntu-trusty-20191217	
 23.1.1-ubuntu-xenial-20200619	
 23.1.1-ubuntu-xenial-20201014	
@@ -10318,7 +10318,7 @@
 23.1.2-ubuntu-focal-20201008	
 23.1.2-ubuntu-focal-20250404	
 23.1.2-ubuntu-groovy-20201022.1	
-23.1.2-ubuntu-impish-20211102	amd64
+23.1.2-ubuntu-impish-20211102	
 23.1.2-ubuntu-trusty-20191217	
 23.1.2-ubuntu-xenial-20201014	
 23.1.3-alpine-3.12.1	amd64
@@ -10364,7 +10364,7 @@
 23.1.3-ubuntu-focal-20201008	
 23.1.3-ubuntu-focal-20250404	
 23.1.3-ubuntu-groovy-20201022.1	
-23.1.3-ubuntu-impish-20211102	amd64
+23.1.3-ubuntu-impish-20211102	
 23.1.3-ubuntu-trusty-20191217	
 23.1.3-ubuntu-xenial-20201014	
 23.1.4-alpine-3.12.1	amd64
@@ -10410,7 +10410,7 @@
 23.1.4-ubuntu-focal-20201008	
 23.1.4-ubuntu-focal-20250404	
 23.1.4-ubuntu-groovy-20201022.1	
-23.1.4-ubuntu-impish-20211102	amd64
+23.1.4-ubuntu-impish-20211102	
 23.1.4-ubuntu-trusty-20191217	
 23.1.4-ubuntu-xenial-20201014	
 23.1.4.1-alpine-3.13.3	
@@ -10455,7 +10455,7 @@
 23.1.4.1-ubuntu-focal-20210325	
 23.1.4.1-ubuntu-focal-20250404	
 23.1.4.1-ubuntu-groovy-20210325	
-23.1.4.1-ubuntu-impish-20211102	amd64
+23.1.4.1-ubuntu-impish-20211102	
 23.1.4.1-ubuntu-trusty-20191217	
 23.1.4.1-ubuntu-xenial-20210114	
 23.1.5-alpine-3.12.1	amd64
@@ -10603,7 +10603,7 @@
 23.1.5-ubuntu-focal-20241011	
 23.1.5-ubuntu-focal-20250404	
 23.1.5-ubuntu-groovy-20201022.1	
-23.1.5-ubuntu-impish-20211102	amd64
+23.1.5-ubuntu-impish-20211102	
 23.1.5-ubuntu-trusty-20191217	
 23.1.5-ubuntu-xenial-20201014	
 23.2-alpine-3.12.1	amd64
@@ -10649,7 +10649,7 @@
 23.2-ubuntu-focal-20201008	
 23.2-ubuntu-focal-20250404	
 23.2-ubuntu-groovy-20201022.1	
-23.2-ubuntu-impish-20211102	amd64
+23.2-ubuntu-impish-20211102	
 23.2-ubuntu-trusty-20191217	
 23.2-ubuntu-xenial-20201014	
 23.2.1-alpine-3.12.1	amd64
@@ -10695,7 +10695,7 @@
 23.2.1-ubuntu-focal-20201008	
 23.2.1-ubuntu-focal-20250404	
 23.2.1-ubuntu-groovy-20201022.1	
-23.2.1-ubuntu-impish-20211102	amd64
+23.2.1-ubuntu-impish-20211102	
 23.2.1-ubuntu-trusty-20191217	
 23.2.1-ubuntu-xenial-20201014	
 23.2.2-alpine-3.12.1	amd64
@@ -10744,7 +10744,7 @@
 23.2.2-ubuntu-focal-20201008	
 23.2.2-ubuntu-focal-20250404	
 23.2.2-ubuntu-groovy-20201022.1	
-23.2.2-ubuntu-impish-20211102	amd64
+23.2.2-ubuntu-impish-20211102	
 23.2.2-ubuntu-trusty-20191217	
 23.2.2-ubuntu-xenial-20201014	
 23.2.3-alpine-3.12.1	amd64
@@ -10793,7 +10793,7 @@
 23.2.3-ubuntu-focal-20201008	
 23.2.3-ubuntu-focal-20250404	
 23.2.3-ubuntu-groovy-20201022.1	
-23.2.3-ubuntu-impish-20211102	amd64
+23.2.3-ubuntu-impish-20211102	
 23.2.3-ubuntu-trusty-20191217	
 23.2.3-ubuntu-xenial-20201014	
 23.2.4-alpine-3.13.1	
@@ -10842,7 +10842,7 @@
 23.2.4-ubuntu-focal-20201008	
 23.2.4-ubuntu-focal-20250404	
 23.2.4-ubuntu-groovy-20201022.1	
-23.2.4-ubuntu-impish-20211102	amd64
+23.2.4-ubuntu-impish-20211102	
 23.2.4-ubuntu-trusty-20191217	
 23.2.4-ubuntu-xenial-20201014	
 23.2.5-alpine-3.13.1	
@@ -10890,7 +10890,7 @@
 23.2.5-ubuntu-focal-20210119	
 23.2.5-ubuntu-focal-20250404	
 23.2.5-ubuntu-groovy-20210115	
-23.2.5-ubuntu-impish-20211102	amd64
+23.2.5-ubuntu-impish-20211102	
 23.2.5-ubuntu-trusty-20191217	
 23.2.5-ubuntu-xenial-20201014	
 23.2.6-alpine-3.13.2	
@@ -10938,7 +10938,7 @@
 23.2.6-ubuntu-focal-20210119	
 23.2.6-ubuntu-focal-20250404	
 23.2.6-ubuntu-groovy-20210115	
-23.2.6-ubuntu-impish-20211102	amd64
+23.2.6-ubuntu-impish-20211102	
 23.2.6-ubuntu-trusty-20191217	
 23.2.6-ubuntu-xenial-20201014	
 23.2.7-alpine-3.13.2	
@@ -10986,7 +10986,7 @@
 23.2.7-ubuntu-focal-20210119	
 23.2.7-ubuntu-focal-20250404	
 23.2.7-ubuntu-groovy-20210115	
-23.2.7-ubuntu-impish-20211102	amd64
+23.2.7-ubuntu-impish-20211102	
 23.2.7-ubuntu-trusty-20191217	
 23.2.7-ubuntu-xenial-20201014	
 23.2.7.1-alpine-3.13.3	
@@ -11034,7 +11034,7 @@
 23.2.7.1-ubuntu-focal-20210325	
 23.2.7.1-ubuntu-focal-20250404	
 23.2.7.1-ubuntu-groovy-20210325	
-23.2.7.1-ubuntu-impish-20211102	amd64
+23.2.7.1-ubuntu-impish-20211102	
 23.2.7.1-ubuntu-trusty-20191217	
 23.2.7.1-ubuntu-xenial-20210114	
 23.2.7.2-alpine-3.13.3	
@@ -11082,7 +11082,7 @@
 23.2.7.2-ubuntu-focal-20210325	
 23.2.7.2-ubuntu-focal-20250404	
 23.2.7.2-ubuntu-groovy-20210325	
-23.2.7.2-ubuntu-impish-20211102	amd64
+23.2.7.2-ubuntu-impish-20211102	
 23.2.7.2-ubuntu-trusty-20191217	
 23.2.7.2-ubuntu-xenial-20210114	
 23.2.7.3-alpine-3.13.3	
@@ -11130,7 +11130,7 @@
 23.2.7.3-ubuntu-focal-20210325	
 23.2.7.3-ubuntu-focal-20250404	
 23.2.7.3-ubuntu-groovy-20210325	
-23.2.7.3-ubuntu-impish-20211102	amd64
+23.2.7.3-ubuntu-impish-20211102	
 23.2.7.3-ubuntu-trusty-20191217	
 23.2.7.3-ubuntu-xenial-20210114	
 23.2.7.4-alpine-3.13.3	
@@ -11178,7 +11178,7 @@
 23.2.7.4-ubuntu-focal-20210325	
 23.2.7.4-ubuntu-focal-20250404	
 23.2.7.4-ubuntu-groovy-20210325	
-23.2.7.4-ubuntu-impish-20211102	amd64
+23.2.7.4-ubuntu-impish-20211102	
 23.2.7.4-ubuntu-trusty-20191217	
 23.2.7.4-ubuntu-xenial-20210114	
 23.2.7.5-alpine-3.14.6	
@@ -11315,7 +11315,7 @@
 23.2.7.5-debian-buster-20240612-slim	
 23.2.7.5-debian-stretch-20210902	
 23.2.7.5-debian-stretch-20210902-slim	
-23.2.7.5-ubuntu-bionic-20210930	amd64
+23.2.7.5-ubuntu-bionic-20210930	
 23.2.7.5-ubuntu-bionic-20230126	
 23.2.7.5-ubuntu-bionic-20230530	
 23.2.7.5-ubuntu-focal-20211006	
@@ -11377,7 +11377,7 @@
 23.3-ubuntu-focal-20210217	
 23.3-ubuntu-focal-20250404	
 23.3-ubuntu-groovy-20210325	
-23.3-ubuntu-impish-20211102	amd64
+23.3-ubuntu-impish-20211102	
 23.3-ubuntu-trusty-20191217	
 23.3-ubuntu-xenial-20210114	
 23.3.1-alpine-3.13.3	
@@ -11425,7 +11425,7 @@
 23.3.1-ubuntu-focal-20210325	
 23.3.1-ubuntu-focal-20250404	
 23.3.1-ubuntu-groovy-20210325	
-23.3.1-ubuntu-impish-20211102	amd64
+23.3.1-ubuntu-impish-20211102	
 23.3.1-ubuntu-trusty-20191217	
 23.3.1-ubuntu-xenial-20210114	
 23.3.2-alpine-3.13.3	
@@ -11473,7 +11473,7 @@
 23.3.2-ubuntu-focal-20210325	
 23.3.2-ubuntu-focal-20250404	
 23.3.2-ubuntu-groovy-20210325	
-23.3.2-ubuntu-impish-20211102	amd64
+23.3.2-ubuntu-impish-20211102	
 23.3.2-ubuntu-trusty-20191217	
 23.3.2-ubuntu-xenial-20210114	
 23.3.3-alpine-3.13.3	
@@ -11521,7 +11521,7 @@
 23.3.3-ubuntu-focal-20210325	
 23.3.3-ubuntu-focal-20250404	
 23.3.3-ubuntu-groovy-20210325	
-23.3.3-ubuntu-impish-20211102	amd64
+23.3.3-ubuntu-impish-20211102	
 23.3.3-ubuntu-trusty-20191217	
 23.3.3-ubuntu-xenial-20210114	
 23.3.4-alpine-3.13.3	
@@ -11569,7 +11569,7 @@
 23.3.4-ubuntu-focal-20210325	
 23.3.4-ubuntu-focal-20250404	
 23.3.4-ubuntu-groovy-20210325	
-23.3.4-ubuntu-impish-20211102	amd64
+23.3.4-ubuntu-impish-20211102	
 23.3.4-ubuntu-trusty-20191217	
 23.3.4-ubuntu-xenial-20210114	
 23.3.4.1-alpine-3.13.3	
@@ -11617,7 +11617,7 @@
 23.3.4.1-ubuntu-focal-20210325	
 23.3.4.1-ubuntu-focal-20250404	
 23.3.4.1-ubuntu-groovy-20210325	
-23.3.4.1-ubuntu-impish-20211102	amd64
+23.3.4.1-ubuntu-impish-20211102	
 23.3.4.1-ubuntu-trusty-20191217	
 23.3.4.1-ubuntu-xenial-20210114	
 23.3.4.10-alpine-3.14.3	
@@ -11663,7 +11663,7 @@
 23.3.4.10-ubuntu-focal-20210325	
 23.3.4.10-ubuntu-focal-20250404	
 23.3.4.10-ubuntu-groovy-20210325	
-23.3.4.10-ubuntu-impish-20211102	amd64
+23.3.4.10-ubuntu-impish-20211102	
 23.3.4.10-ubuntu-trusty-20191217	
 23.3.4.10-ubuntu-xenial-20210114	
 23.3.4.11-alpine-3.14.3	
@@ -11708,7 +11708,7 @@
 23.3.4.11-ubuntu-bionic-20210930	amd64
 23.3.4.11-ubuntu-focal-20211006	
 23.3.4.11-ubuntu-focal-20250404	
-23.3.4.11-ubuntu-impish-20211102	amd64
+23.3.4.11-ubuntu-impish-20211102	
 23.3.4.11-ubuntu-trusty-20191217	
 23.3.4.11-ubuntu-xenial-20210804	
 23.3.4.12-alpine-3.14.3	
@@ -11795,10 +11795,10 @@
 23.3.4.13-debian-buster-20210902-slim	
 23.3.4.13-debian-stretch-20210902	
 23.3.4.13-debian-stretch-20210902-slim	
-23.3.4.13-ubuntu-bionic-20210930	amd64
+23.3.4.13-ubuntu-bionic-20210930	
 23.3.4.13-ubuntu-focal-20211006	
 23.3.4.13-ubuntu-focal-20250404	
-23.3.4.13-ubuntu-impish-20211102	amd64
+23.3.4.13-ubuntu-impish-20211102	
 23.3.4.13-ubuntu-trusty-20191217	
 23.3.4.13-ubuntu-xenial-20210804	
 23.3.4.14-alpine-3.14.5	
@@ -11840,10 +11840,10 @@
 23.3.4.14-debian-buster-20210902-slim	
 23.3.4.14-debian-stretch-20210902	
 23.3.4.14-debian-stretch-20210902-slim	
-23.3.4.14-ubuntu-bionic-20210930	amd64
+23.3.4.14-ubuntu-bionic-20210930	
 23.3.4.14-ubuntu-focal-20211006	
 23.3.4.14-ubuntu-focal-20250404	
-23.3.4.14-ubuntu-impish-20211102	amd64
+23.3.4.14-ubuntu-impish-20211102	
 23.3.4.14-ubuntu-trusty-20191217	
 23.3.4.14-ubuntu-xenial-20210804	
 23.3.4.15-alpine-3.14.6	
@@ -12120,7 +12120,7 @@
 23.3.4.2-ubuntu-focal-20210325	
 23.3.4.2-ubuntu-focal-20250404	
 23.3.4.2-ubuntu-groovy-20210325	
-23.3.4.2-ubuntu-impish-20211102	amd64
+23.3.4.2-ubuntu-impish-20211102	
 23.3.4.2-ubuntu-trusty-20191217	
 23.3.4.2-ubuntu-xenial-20210114	
 23.3.4.20-alpine-3.16.9	
@@ -12273,7 +12273,7 @@
 23.3.4.3-ubuntu-focal-20210325	
 23.3.4.3-ubuntu-focal-20250404	
 23.3.4.3-ubuntu-groovy-20210325	
-23.3.4.3-ubuntu-impish-20211102	amd64
+23.3.4.3-ubuntu-impish-20211102	
 23.3.4.3-ubuntu-trusty-20191217	
 23.3.4.3-ubuntu-xenial-20210114	
 23.3.4.4-alpine-3.13.3	
@@ -12321,7 +12321,7 @@
 23.3.4.4-ubuntu-focal-20210325	
 23.3.4.4-ubuntu-focal-20250404	
 23.3.4.4-ubuntu-groovy-20210325	
-23.3.4.4-ubuntu-impish-20211102	amd64
+23.3.4.4-ubuntu-impish-20211102	
 23.3.4.4-ubuntu-trusty-20191217	
 23.3.4.4-ubuntu-xenial-20210114	
 23.3.4.5-alpine-3.13.5	
@@ -12369,7 +12369,7 @@
 23.3.4.5-ubuntu-focal-20210325	
 23.3.4.5-ubuntu-focal-20250404	
 23.3.4.5-ubuntu-groovy-20210325	
-23.3.4.5-ubuntu-impish-20211102	amd64
+23.3.4.5-ubuntu-impish-20211102	
 23.3.4.5-ubuntu-trusty-20191217	
 23.3.4.5-ubuntu-xenial-20210114	
 23.3.4.6-alpine-3.13.5	
@@ -12417,7 +12417,7 @@
 23.3.4.6-ubuntu-focal-20210325	
 23.3.4.6-ubuntu-focal-20250404	
 23.3.4.6-ubuntu-groovy-20210325	
-23.3.4.6-ubuntu-impish-20211102	amd64
+23.3.4.6-ubuntu-impish-20211102	
 23.3.4.6-ubuntu-trusty-20191217	
 23.3.4.6-ubuntu-xenial-20210114	
 23.3.4.7-alpine-3.13.5	
@@ -12465,7 +12465,7 @@
 23.3.4.7-ubuntu-focal-20210325	
 23.3.4.7-ubuntu-focal-20250404	
 23.3.4.7-ubuntu-groovy-20210325	
-23.3.4.7-ubuntu-impish-20211102	amd64
+23.3.4.7-ubuntu-impish-20211102	
 23.3.4.7-ubuntu-trusty-20191217	
 23.3.4.7-ubuntu-xenial-20210114	
 23.3.4.8-alpine-3.13.6	
@@ -12512,7 +12512,7 @@
 23.3.4.8-ubuntu-focal-20210325	
 23.3.4.8-ubuntu-focal-20250404	
 23.3.4.8-ubuntu-groovy-20210325	
-23.3.4.8-ubuntu-impish-20211102	amd64
+23.3.4.8-ubuntu-impish-20211102	
 23.3.4.8-ubuntu-trusty-20191217	
 23.3.4.8-ubuntu-xenial-20210114	
 23.3.4.9-alpine-3.13.6	
@@ -12679,7 +12679,7 @@
 24.0-rc1-ubuntu-focal-20210325	
 24.0-rc1-ubuntu-focal-20250404	
 24.0-rc1-ubuntu-groovy-20210325	
-24.0-rc1-ubuntu-impish-20211102	amd64
+24.0-rc1-ubuntu-impish-20211102	
 24.0-rc1-ubuntu-trusty-20191217	
 24.0-rc1-ubuntu-xenial-20210114	
 24.0-rc2-alpine-3.13.3	
@@ -12727,7 +12727,7 @@
 24.0-rc2-ubuntu-focal-20210325	
 24.0-rc2-ubuntu-focal-20250404	
 24.0-rc2-ubuntu-groovy-20210325	
-24.0-rc2-ubuntu-impish-20211102	amd64
+24.0-rc2-ubuntu-impish-20211102	
 24.0-rc2-ubuntu-trusty-20191217	
 24.0-rc2-ubuntu-xenial-20210114	
 24.0-rc3-alpine-3.13.3	
@@ -12775,14 +12775,14 @@
 24.0-rc3-ubuntu-focal-20210325	
 24.0-rc3-ubuntu-focal-20250404	
 24.0-rc3-ubuntu-groovy-20210325	
-24.0-rc3-ubuntu-impish-20211102	amd64
+24.0-rc3-ubuntu-impish-20211102	
 24.0-rc3-ubuntu-trusty-20191217	
 24.0-rc3-ubuntu-xenial-20210114	
 24.0-ubuntu-bionic-20210325	
 24.0-ubuntu-focal-20210325	
 24.0-ubuntu-focal-20250404	
 24.0-ubuntu-groovy-20210325	
-24.0-ubuntu-impish-20211102	amd64
+24.0-ubuntu-impish-20211102	
 24.0-ubuntu-trusty-20191217	
 24.0-ubuntu-xenial-20210114	
 24.0.1-alpine-3.13.3	
@@ -12830,7 +12830,7 @@
 24.0.1-ubuntu-focal-20210325	
 24.0.1-ubuntu-focal-20250404	
 24.0.1-ubuntu-groovy-20210325	
-24.0.1-ubuntu-impish-20211102	amd64
+24.0.1-ubuntu-impish-20211102	
 24.0.1-ubuntu-trusty-20191217	
 24.0.1-ubuntu-xenial-20210114	
 24.0.2-alpine-3.13.3	
@@ -13022,7 +13022,7 @@
 24.0.5-ubuntu-focal-20210325	
 24.0.5-ubuntu-focal-20250404	
 24.0.5-ubuntu-groovy-20210325	
-24.0.5-ubuntu-impish-20211102	amd64
+24.0.5-ubuntu-impish-20211102	
 24.0.5-ubuntu-trusty-20191217	
 24.0.5-ubuntu-xenial-20210114	
 24.0.6-alpine-3.13.5	
@@ -13177,7 +13177,7 @@
 24.0.6-ubuntu-focal-20241011	
 24.0.6-ubuntu-focal-20250404	
 24.0.6-ubuntu-groovy-20210325	
-24.0.6-ubuntu-impish-20211102	amd64
+24.0.6-ubuntu-impish-20211102	
 24.0.6-ubuntu-trusty-20191217	
 24.0.6-ubuntu-xenial-20210114	
 24.1-alpine-3.13.5	
@@ -13318,7 +13318,7 @@
 24.1.2-ubuntu-focal-20210325	
 24.1.2-ubuntu-focal-20250404	
 24.1.2-ubuntu-groovy-20210325	
-24.1.2-ubuntu-impish-20211102	amd64
+24.1.2-ubuntu-impish-20211102	
 24.1.2-ubuntu-trusty-20191217	
 24.1.2-ubuntu-xenial-20210114	
 24.1.3-alpine-3.13.6	
@@ -13365,7 +13365,7 @@
 24.1.3-ubuntu-focal-20210325	
 24.1.3-ubuntu-focal-20250404	
 24.1.3-ubuntu-groovy-20210325	
-24.1.3-ubuntu-impish-20211102	amd64
+24.1.3-ubuntu-impish-20211102	
 24.1.3-ubuntu-trusty-20191217	
 24.1.3-ubuntu-xenial-20210114	
 24.1.4-alpine-3.13.6	
@@ -13459,7 +13459,7 @@
 24.1.5-ubuntu-focal-20210325	
 24.1.5-ubuntu-focal-20250404	
 24.1.5-ubuntu-groovy-20210325	
-24.1.5-ubuntu-impish-20211102	amd64
+24.1.5-ubuntu-impish-20211102	
 24.1.5-ubuntu-trusty-20191217	
 24.1.5-ubuntu-xenial-20210114	
 24.1.6-alpine-3.13.6	
@@ -13660,7 +13660,7 @@
 24.1.7-ubuntu-focal-20241011	
 24.1.7-ubuntu-focal-20250404	
 24.1.7-ubuntu-groovy-20210325	
-24.1.7-ubuntu-impish-20211102	amd64
+24.1.7-ubuntu-impish-20211102	
 24.1.7-ubuntu-trusty-20191217	
 24.1.7-ubuntu-xenial-20210114	
 24.2-alpine-3.13.6	
@@ -13778,7 +13778,7 @@
 24.2-ubuntu-focal-20210325	
 24.2-ubuntu-focal-20250404	
 24.2-ubuntu-groovy-20210325	
-24.2-ubuntu-impish-20211102	amd64
+24.2-ubuntu-impish-20211102	
 24.2-ubuntu-jammy-20220428	amd64
 24.2-ubuntu-jammy-20251001	
 24.2-ubuntu-jammy-20251013	
@@ -13906,10 +13906,10 @@
 24.2.1-debian-trixie-20260518-slim	
 24.2.1-debian-trixie-20260610	amd64,arm64
 24.2.1-debian-trixie-20260610-slim	
-24.2.1-ubuntu-bionic-20210930	amd64
+24.2.1-ubuntu-bionic-20210930	
 24.2.1-ubuntu-focal-20211006	
 24.2.1-ubuntu-focal-20250404	
-24.2.1-ubuntu-impish-20211102	amd64
+24.2.1-ubuntu-impish-20211102	
 24.2.1-ubuntu-jammy-20220428	amd64
 24.2.1-ubuntu-jammy-20251001	
 24.2.1-ubuntu-jammy-20251013	
@@ -14270,7 +14270,7 @@
 24.2.2-ubuntu-focal-20240918	
 24.2.2-ubuntu-focal-20241011	
 24.2.2-ubuntu-focal-20250404	
-24.2.2-ubuntu-impish-20211102	amd64
+24.2.2-ubuntu-impish-20211102	
 24.2.2-ubuntu-jammy-20220428	amd64
 24.2.2-ubuntu-jammy-20230126	amd64
 24.2.2-ubuntu-jammy-20231004	
@@ -14442,7 +14442,7 @@
 24.3-ubuntu-bionic-20210930	amd64
 24.3-ubuntu-focal-20211006	
 24.3-ubuntu-focal-20250404	
-24.3-ubuntu-impish-20211102	amd64
+24.3-ubuntu-impish-20211102	
 24.3-ubuntu-jammy-20220428	amd64
 24.3-ubuntu-jammy-20251001	
 24.3-ubuntu-jammy-20251013	
@@ -14570,10 +14570,10 @@
 24.3.1-debian-trixie-20260518-slim	
 24.3.1-debian-trixie-20260610	
 24.3.1-debian-trixie-20260610-slim	amd64,arm64
-24.3.1-ubuntu-bionic-20210930	amd64
+24.3.1-ubuntu-bionic-20210930	
 24.3.1-ubuntu-focal-20211006	
 24.3.1-ubuntu-focal-20250404	
-24.3.1-ubuntu-impish-20211102	amd64
+24.3.1-ubuntu-impish-20211102	
 24.3.1-ubuntu-jammy-20220428	amd64
 24.3.1-ubuntu-jammy-20251001	
 24.3.1-ubuntu-jammy-20251013	
@@ -14704,7 +14704,7 @@
 24.3.2-ubuntu-bionic-20210930	amd64
 24.3.2-ubuntu-focal-20211006	
 24.3.2-ubuntu-focal-20250404	
-24.3.2-ubuntu-impish-20211102	amd64
+24.3.2-ubuntu-impish-20211102	
 24.3.2-ubuntu-jammy-20220428	amd64
 24.3.2-ubuntu-jammy-20251001	
 24.3.2-ubuntu-jammy-20251013	
@@ -14832,7 +14832,7 @@
 24.3.3-debian-trixie-20260518-slim	
 24.3.3-debian-trixie-20260610	
 24.3.3-debian-trixie-20260610-slim	
-24.3.3-ubuntu-bionic-20210930	amd64
+24.3.3-ubuntu-bionic-20210930	
 24.3.3-ubuntu-focal-20211006	
 24.3.3-ubuntu-focal-20250404	
 24.3.3-ubuntu-impish-20211102	amd64
@@ -14966,7 +14966,7 @@
 24.3.4-ubuntu-bionic-20210930	amd64
 24.3.4-ubuntu-focal-20211006	
 24.3.4-ubuntu-focal-20250404	
-24.3.4-ubuntu-impish-20211102	amd64
+24.3.4-ubuntu-impish-20211102	
 24.3.4-ubuntu-jammy-20220428	amd64
 24.3.4-ubuntu-jammy-20251001	
 24.3.4-ubuntu-jammy-20251013	
@@ -15097,7 +15097,7 @@
 24.3.4.1-ubuntu-bionic-20210930	amd64
 24.3.4.1-ubuntu-focal-20211006	
 24.3.4.1-ubuntu-focal-20250404	
-24.3.4.1-ubuntu-impish-20211102	amd64
+24.3.4.1-ubuntu-impish-20211102	
 24.3.4.1-ubuntu-jammy-20220428	amd64
 24.3.4.1-ubuntu-jammy-20251001	
 24.3.4.1-ubuntu-jammy-20251013	
@@ -16348,7 +16348,7 @@
 24.3.4.17-ubuntu-noble-20260410	
 24.3.4.17-ubuntu-noble-20260509.1	
 24.3.4.17-ubuntu-noble-20260610	
-24.3.4.17-ubuntu-noble-20260730.1	amd64
+24.3.4.17-ubuntu-noble-20260730.1	
 24.3.4.17-ubuntu-noble-20260810	amd64,arm64
 24.3.4.17-ubuntu-noble-20260905	amd64,arm64
 24.3.4.2-alpine-3.14.6	
@@ -16973,7 +16973,7 @@
 24.3.4.6-debian-trixie-20260518-slim	
 24.3.4.6-debian-trixie-20260610	
 24.3.4.6-debian-trixie-20260610-slim	
-24.3.4.6-ubuntu-bionic-20210930	amd64
+24.3.4.6-ubuntu-bionic-20210930	
 24.3.4.6-ubuntu-focal-20211006	
 24.3.4.6-ubuntu-focal-20250404	
 24.3.4.6-ubuntu-jammy-20220428	amd64
@@ -17667,7 +17667,7 @@
 25.0-rc1-debian-trixie-20260518-slim	
 25.0-rc1-debian-trixie-20260610	
 25.0-rc1-debian-trixie-20260610-slim	
-25.0-rc1-ubuntu-bionic-20210930	amd64
+25.0-rc1-ubuntu-bionic-20210930	
 25.0-rc1-ubuntu-focal-20211006	
 25.0-rc1-ubuntu-focal-20250404	
 25.0-rc1-ubuntu-impish-20211102	
@@ -18688,7 +18688,7 @@
 25.0.4-debian-trixie-20260803-slim	
 25.0.4-debian-trixie-20260824	amd64,arm64
 25.0.4-debian-trixie-20260824-slim	amd64,arm64
-25.0.4-ubuntu-bionic-20210930	amd64
+25.0.4-ubuntu-bionic-20210930	
 25.0.4-ubuntu-bionic-20230126	
 25.0.4-ubuntu-bionic-20230530	
 25.0.4-ubuntu-focal-20211006	
@@ -18998,7 +18998,7 @@
 25.1.1-debian-trixie-20260518-slim	
 25.1.1-debian-trixie-20260610	
 25.1.1-debian-trixie-20260610-slim	
-25.1.1-ubuntu-bionic-20210930	amd64
+25.1.1-ubuntu-bionic-20210930	
 25.1.1-ubuntu-focal-20211006	
 25.1.1-ubuntu-focal-20250404	
 25.1.1-ubuntu-jammy-20220428	amd64
@@ -19126,7 +19126,7 @@
 25.1.2-debian-trixie-20260518-slim	
 25.1.2-debian-trixie-20260610	
 25.1.2-debian-trixie-20260610-slim	
-25.1.2-ubuntu-bionic-20210930	amd64
+25.1.2-ubuntu-bionic-20210930	
 25.1.2-ubuntu-focal-20211006	
 25.1.2-ubuntu-focal-20250404	
 25.1.2-ubuntu-jammy-20220428	amd64
@@ -19143,7 +19143,7 @@
 25.1.2-ubuntu-noble-20260217	
 25.1.2-ubuntu-noble-20260324	
 25.1.2-ubuntu-noble-20260410	
-25.1.2-ubuntu-noble-20260509.1	amd64
+25.1.2-ubuntu-noble-20260509.1	
 25.1.2-ubuntu-trusty-20191217	
 25.1.2-ubuntu-xenial-20210804	
 25.1.2.1-alpine-3.15.6	
@@ -22581,7 +22581,7 @@
 25.3.2.21-debian-bullseye-20260623-slim	
 25.3.2.21-debian-bullseye-20260713	
 25.3.2.21-debian-bullseye-20260713-slim	
-25.3.2.21-debian-bullseye-20260803	amd64
+25.3.2.21-debian-bullseye-20260803	
 25.3.2.21-debian-bullseye-20260803-slim	
 25.3.2.21-debian-bullseye-20260824	amd64,arm64
 25.3.2.21-debian-bullseye-20260824-slim	amd64,arm64
@@ -23452,7 +23452,7 @@
 25.3.2.8-ubuntu-jammy-20260509	
 25.3.2.8-ubuntu-noble-20251001	
 25.3.2.8-ubuntu-noble-20251013	
-25.3.2.8-ubuntu-noble-20260113	
+25.3.2.8-ubuntu-noble-20260113	amd64
 25.3.2.8-ubuntu-noble-20260210.1	
 25.3.2.8-ubuntu-noble-20260217	
 25.3.2.8-ubuntu-noble-20260324	
@@ -24098,7 +24098,7 @@
 26.0-rc3-debian-trixie-20260505	
 26.0-rc3-debian-trixie-20260505-slim	
 26.0-rc3-debian-trixie-20260518	
-26.0-rc3-debian-trixie-20260518-slim	
+26.0-rc3-debian-trixie-20260518-slim	amd64
 26.0-rc3-debian-trixie-20260610	
 26.0-rc3-debian-trixie-20260610-slim	
 26.0-rc3-ubuntu-bionic-20230126	
@@ -25248,7 +25248,7 @@
 26.1.2-debian-trixie-20260610-slim	
 26.1.2-debian-trixie-20260623	amd64,arm64
 26.1.2-debian-trixie-20260623-slim	
-26.1.2-debian-trixie-20260713	amd64,arm64
+26.1.2-debian-trixie-20260713	
 26.1.2-debian-trixie-20260713-slim	amd64,arm64
 26.1.2-debian-trixie-20260803	
 26.1.2-debian-trixie-20260803-slim	
@@ -27670,7 +27670,7 @@
 26.2.5.21-debian-bookworm-20260623	
 26.2.5.21-debian-bookworm-20260623-slim	
 26.2.5.21-debian-bookworm-20260713	
-26.2.5.21-debian-bookworm-20260713-slim	amd64,arm64
+26.2.5.21-debian-bookworm-20260713-slim	
 26.2.5.21-debian-bookworm-20260803	
 26.2.5.21-debian-bookworm-20260803-slim	
 26.2.5.21-debian-bookworm-20260824	amd64,arm64
@@ -27683,7 +27683,7 @@
 26.2.5.21-debian-bullseye-20260623-slim	
 26.2.5.21-debian-bullseye-20260713	
 26.2.5.21-debian-bullseye-20260713-slim	
-26.2.5.21-debian-bullseye-20260803	amd64
+26.2.5.21-debian-bullseye-20260803	
 26.2.5.21-debian-bullseye-20260803-slim	
 26.2.5.21-debian-bullseye-20260824	amd64,arm64
 26.2.5.21-debian-bullseye-20260824-slim	amd64,arm64
@@ -29501,7 +29501,7 @@
 27.0.1-debian-trixie-20260610-slim	
 27.0.1-debian-trixie-20260623	
 27.0.1-debian-trixie-20260623-slim	
-27.0.1-debian-trixie-20260713	amd64,arm64
+27.0.1-debian-trixie-20260713	
 27.0.1-debian-trixie-20260713-slim	
 27.0.1-debian-trixie-20260803	
 27.0.1-debian-trixie-20260803-slim	
@@ -32024,7 +32024,7 @@
 27.3.4.14-debian-bullseye-20260623-slim	amd64,arm64
 27.3.4.14-debian-bullseye-20260713	
 27.3.4.14-debian-bullseye-20260713-slim	
-27.3.4.14-debian-trixie-20260623	
+27.3.4.14-debian-trixie-20260623	amd64,arm64
 27.3.4.14-debian-trixie-20260623-slim	amd64,arm64
 27.3.4.14-debian-trixie-20260713	
 27.3.4.14-debian-trixie-20260713-slim	
@@ -32239,7 +32239,7 @@
 27.3.4.2-ubuntu-noble-20260217	
 27.3.4.2-ubuntu-noble-20260324	
 27.3.4.2-ubuntu-noble-20260410	
-27.3.4.2-ubuntu-noble-20260509.1	arm64
+27.3.4.2-ubuntu-noble-20260509.1	
 27.3.4.2-ubuntu-resolute-20260413	amd64
 27.3.4.2-ubuntu-resolute-20260421	
 27.3.4.3-alpine-3.19.8	
@@ -35210,7 +35210,7 @@
 28.4.3-ubuntu-noble-20260905	amd64,arm64
 28.4.3-ubuntu-resolute-20260413	amd64
 28.4.3-ubuntu-resolute-20260421	
-28.4.3-ubuntu-resolute-20260610	
+28.4.3-ubuntu-resolute-20260610	amd64,arm64
 28.4.3-ubuntu-resolute-20260627	
 28.4.3-ubuntu-resolute-20260707	amd64,arm64
 28.4.3-ubuntu-resolute-20260724.1	
@@ -35297,7 +35297,7 @@
 28.5.0.2-debian-trixie-20260623-slim	
 28.5.0.2-ubuntu-jammy-20260509	
 28.5.0.2-ubuntu-jammy-20260627	
-28.5.0.2-ubuntu-noble-20260509.1	amd64
+28.5.0.2-ubuntu-noble-20260509.1	
 28.5.0.2-ubuntu-noble-20260610	
 28.5.0.2-ubuntu-resolute-20260421	
 28.5.0.2-ubuntu-resolute-20260610	
@@ -35388,8 +35388,8 @@
 29.0-debian-bookworm-20260505-slim	
 29.0-debian-bookworm-20260518	
 29.0-debian-bookworm-20260518-slim	
-29.0-debian-bookworm-20260610	amd64
-29.0-debian-bookworm-20260610-slim	amd64
+29.0-debian-bookworm-20260610	
+29.0-debian-bookworm-20260610-slim	amd64,arm64
 29.0-debian-bullseye-20260505	
 29.0-debian-bullseye-20260505-slim	
 29.0-debian-bullseye-20260518	
@@ -35400,7 +35400,7 @@
 29.0-debian-trixie-20260505-slim	
 29.0-debian-trixie-20260518	
 29.0-debian-trixie-20260518-slim	
-29.0-debian-trixie-20260610	amd64
+29.0-debian-trixie-20260610	
 29.0-debian-trixie-20260610-slim	amd64
 29.0-rc1-alpine-3.20.9	
 29.0-rc1-alpine-3.21.6	
@@ -35481,7 +35481,7 @@
 29.0-rc2-debian-bookworm-20260316-slim	
 29.0-rc2-debian-bookworm-20260406	
 29.0-rc2-debian-bookworm-20260406-slim	
-29.0-rc2-debian-bookworm-20260421	amd64,arm64
+29.0-rc2-debian-bookworm-20260421	
 29.0-rc2-debian-bookworm-20260421-slim	
 29.0-rc2-debian-bookworm-20260505	
 29.0-rc2-debian-bookworm-20260505-slim	
@@ -35648,7 +35648,7 @@
 29.0.3-ubuntu-resolute-20260707	amd64,arm64
 29.0.4-alpine-3.21.7	
 29.0.4-alpine-3.22.5	
-29.0.4-alpine-3.23.5	amd64,arm64
+29.0.4-alpine-3.23.5	
 29.0.4-alpine-3.24.1	amd64,arm64
 29.0.4-debian-bookworm-20260713	
 29.0.4-debian-bookworm-20260713-slim	amd64,arm64
