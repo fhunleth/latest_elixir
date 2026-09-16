@@ -14313,7 +14313,7 @@
 24.2.2-ubuntu-noble-20250714	
 24.2.2-ubuntu-noble-20250716	
 24.2.2-ubuntu-noble-20250805	
-24.2.2-ubuntu-noble-20250910	
+24.2.2-ubuntu-noble-20250910	amd64
 24.2.2-ubuntu-noble-20250925	
 24.2.2-ubuntu-noble-20251001	
 24.2.2-ubuntu-noble-20251013	
@@ -15632,10 +15632,10 @@
 24.3.4.14-alpine-3.20.9	
 24.3.4.14-alpine-3.21.5	
 24.3.4.14-alpine-3.21.6	
-24.3.4.14-alpine-3.21.7	amd64
+24.3.4.14-alpine-3.21.7	
 24.3.4.14-alpine-3.22.2	
 24.3.4.14-alpine-3.22.3	
-24.3.4.14-alpine-3.22.4	amd64
+24.3.4.14-alpine-3.22.4	
 24.3.4.14-debian-bookworm-20230612	
 24.3.4.14-debian-bookworm-20230612-slim	
 24.3.4.14-debian-bookworm-20231009	
@@ -15756,7 +15756,7 @@
 24.3.4.14-ubuntu-noble-20260113	
 24.3.4.14-ubuntu-noble-20260210.1	
 24.3.4.14-ubuntu-noble-20260217	
-24.3.4.14-ubuntu-noble-20260324	amd64,arm64
+24.3.4.14-ubuntu-noble-20260324	
 24.3.4.14-ubuntu-noble-20260410	
 24.3.4.14-ubuntu-noble-20260509.1	
 24.3.4.15-alpine-3.16.7	
@@ -31172,7 +31172,7 @@
 27.3-ubuntu-noble-20260113	
 27.3-ubuntu-noble-20260210.1	
 27.3-ubuntu-noble-20260217	
-27.3-ubuntu-noble-20260324	
+27.3-ubuntu-noble-20260324	amd64
 27.3-ubuntu-noble-20260410	
 27.3-ubuntu-noble-20260509.1	
 27.3-ubuntu-resolute-20260413	
@@ -34621,7 +34621,7 @@
 28.2-ubuntu-noble-20260905	amd64,arm64
 28.2-ubuntu-resolute-20260413	
 28.2-ubuntu-resolute-20260421	
-28.2-ubuntu-resolute-20260610	
+28.2-ubuntu-resolute-20260610	amd64,arm64
 28.2-ubuntu-resolute-20260627	
 28.2-ubuntu-resolute-20260707	amd64,arm64
 28.2-ubuntu-resolute-20260724.1	
