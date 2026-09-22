@@ -190056,7 +190056,7 @@
 1.16.2-erlang-26.2-debian-trixie-20260518	
 1.16.2-erlang-26.2-debian-trixie-20260518-slim	
 1.16.2-erlang-26.2-debian-trixie-20260610	
-1.16.2-erlang-26.2-debian-trixie-20260610-slim	amd64
+1.16.2-erlang-26.2-debian-trixie-20260610-slim	
 1.16.2-erlang-26.2-ubuntu-focal-20250404	
 1.16.2-erlang-26.2-ubuntu-jammy-20251001	
 1.16.2-erlang-26.2-ubuntu-jammy-20251013	
@@ -237078,7 +237078,7 @@
 1.18.2-erlang-27.2.4-ubuntu-resolute-20260421	amd64,arm64
 1.18.2-erlang-27.3-alpine-3.18.9	amd64,arm64
 1.18.2-erlang-27.3-alpine-3.19.7	
-1.18.2-erlang-27.3-alpine-3.19.9	amd64,arm64
+1.18.2-erlang-27.3-alpine-3.19.9	
 1.18.2-erlang-27.3-alpine-3.20.6	
 1.18.2-erlang-27.3-alpine-3.20.8	
 1.18.2-erlang-27.3-alpine-3.20.9	
@@ -237093,7 +237093,7 @@
 1.18.2-erlang-27.3-alpine-3.23.2	
 1.18.2-erlang-27.3-alpine-3.23.3	
 1.18.2-erlang-27.3-alpine-3.23.4	
-1.18.2-erlang-27.3-debian-bookworm-20250224	
+1.18.2-erlang-27.3-debian-bookworm-20250224	amd64
 1.18.2-erlang-27.3-debian-bookworm-20250224-slim	amd64
 1.18.2-erlang-27.3-debian-bookworm-20250929	
 1.18.2-erlang-27.3-debian-bookworm-20250929-slim	
@@ -237121,7 +237121,7 @@
 1.18.2-erlang-27.3-debian-bookworm-20260421-slim	
 1.18.2-erlang-27.3-debian-bookworm-20260505	
 1.18.2-erlang-27.3-debian-bookworm-20260505-slim	
-1.18.2-erlang-27.3-debian-bookworm-20260518	
+1.18.2-erlang-27.3-debian-bookworm-20260518	amd64
 1.18.2-erlang-27.3-debian-bookworm-20260518-slim	
 1.18.2-erlang-27.3-debian-bookworm-20260610	
 1.18.2-erlang-27.3-debian-bookworm-20260610-slim	
@@ -237659,7 +237659,7 @@
 1.18.2-erlang-27.3.4-debian-trixie-20260202	
 1.18.2-erlang-27.3.4-debian-trixie-20260202-slim	
 1.18.2-erlang-27.3.4-debian-trixie-20260223	
-1.18.2-erlang-27.3.4-debian-trixie-20260223-slim	
+1.18.2-erlang-27.3.4-debian-trixie-20260223-slim	amd64
 1.18.2-erlang-27.3.4-debian-trixie-20260316	
 1.18.2-erlang-27.3.4-debian-trixie-20260316-slim	
 1.18.2-erlang-27.3.4-debian-trixie-20260406	
@@ -238659,7 +238659,7 @@
 1.18.2-erlang-27.3.4.9-debian-bookworm-20260518	
 1.18.2-erlang-27.3.4.9-debian-bookworm-20260518-slim	
 1.18.2-erlang-27.3.4.9-debian-bookworm-20260610	
-1.18.2-erlang-27.3.4.9-debian-bookworm-20260610-slim	amd64
+1.18.2-erlang-27.3.4.9-debian-bookworm-20260610-slim	
 1.18.2-erlang-27.3.4.9-debian-bullseye-20260223	
 1.18.2-erlang-27.3.4.9-debian-bullseye-20260223-slim	
 1.18.2-erlang-27.3.4.9-debian-bullseye-20260316	
@@ -240966,7 +240966,7 @@
 1.18.3-erlang-27.3-debian-trixie-20260202	
 1.18.3-erlang-27.3-debian-trixie-20260202-slim	amd64
 1.18.3-erlang-27.3-debian-trixie-20260223	amd64,arm64
-1.18.3-erlang-27.3-debian-trixie-20260223-slim	amd64,arm64
+1.18.3-erlang-27.3-debian-trixie-20260223-slim	arm64
 1.18.3-erlang-27.3-debian-trixie-20260316	
 1.18.3-erlang-27.3-debian-trixie-20260316-slim	amd64
 1.18.3-erlang-27.3-debian-trixie-20260406	
@@ -241451,7 +241451,7 @@
 1.18.3-erlang-27.3.4-debian-bookworm-20260406-slim	
 1.18.3-erlang-27.3.4-debian-bookworm-20260421	
 1.18.3-erlang-27.3.4-debian-bookworm-20260421-slim	amd64
-1.18.3-erlang-27.3.4-debian-bookworm-20260505	amd64
+1.18.3-erlang-27.3.4-debian-bookworm-20260505	
 1.18.3-erlang-27.3.4-debian-bookworm-20260505-slim	amd64,arm64
 1.18.3-erlang-27.3.4-debian-bookworm-20260518	
 1.18.3-erlang-27.3.4-debian-bookworm-20260518-slim	amd64
@@ -241508,7 +241508,7 @@
 1.18.3-erlang-27.3.4-debian-trixie-20260202	
 1.18.3-erlang-27.3.4-debian-trixie-20260202-slim	amd64,arm64
 1.18.3-erlang-27.3.4-debian-trixie-20260223	
-1.18.3-erlang-27.3.4-debian-trixie-20260223-slim	amd64,arm64
+1.18.3-erlang-27.3.4-debian-trixie-20260223-slim	amd64
 1.18.3-erlang-27.3.4-debian-trixie-20260316	
 1.18.3-erlang-27.3.4-debian-trixie-20260316-slim	
 1.18.3-erlang-27.3.4-debian-trixie-20260406	
@@ -274062,7 +274062,7 @@
 1.19.3-erlang-28.4-debian-bullseye-20260610	
 1.19.3-erlang-28.4-debian-bullseye-20260610-slim	
 1.19.3-erlang-28.4-debian-trixie-20260223	
-1.19.3-erlang-28.4-debian-trixie-20260223-slim	
+1.19.3-erlang-28.4-debian-trixie-20260223-slim	amd64
 1.19.3-erlang-28.4-debian-trixie-20260316	
 1.19.3-erlang-28.4-debian-trixie-20260316-slim	
 1.19.3-erlang-28.4-debian-trixie-20260406	
@@ -286436,7 +286436,7 @@
 1.20.0-erlang-28.1.1-debian-bookworm-20260518	
 1.20.0-erlang-28.1.1-debian-bookworm-20260518-slim	amd64
 1.20.0-erlang-28.1.1-debian-bookworm-20260610	
-1.20.0-erlang-28.1.1-debian-bookworm-20260610-slim	amd64
+1.20.0-erlang-28.1.1-debian-bookworm-20260610-slim	
 1.20.0-erlang-28.1.1-debian-bullseye-20260518	
 1.20.0-erlang-28.1.1-debian-bullseye-20260518-slim	
 1.20.0-erlang-28.1.1-debian-bullseye-20260610	
@@ -286455,7 +286455,7 @@
 1.20.0-erlang-28.2-debian-bookworm-20260518	
 1.20.0-erlang-28.2-debian-bookworm-20260518-slim	
 1.20.0-erlang-28.2-debian-bookworm-20260610	
-1.20.0-erlang-28.2-debian-bookworm-20260610-slim	amd64
+1.20.0-erlang-28.2-debian-bookworm-20260610-slim	
 1.20.0-erlang-28.2-debian-bullseye-20260518	
 1.20.0-erlang-28.2-debian-bullseye-20260518-slim	
 1.20.0-erlang-28.2-debian-bullseye-20260610	
@@ -286503,7 +286503,7 @@
 1.20.0-erlang-28.3.1-debian-trixie-20260610	
 1.20.0-erlang-28.3.1-debian-trixie-20260610-slim	
 1.20.0-erlang-28.3.1-ubuntu-jammy-20260509	
-1.20.0-erlang-28.3.1-ubuntu-noble-20260509.1	arm64
+1.20.0-erlang-28.3.1-ubuntu-noble-20260509.1	amd64,arm64
 1.20.0-erlang-28.3.1-ubuntu-resolute-20260421	
 1.20.0-erlang-28.3.2-alpine-3.20.9	
 1.20.0-erlang-28.3.2-alpine-3.21.7	
@@ -286568,7 +286568,7 @@
 1.20.0-erlang-28.4.1-alpine-3.23.4	
 1.20.0-erlang-28.4.1-debian-bookworm-20260518	
 1.20.0-erlang-28.4.1-debian-bookworm-20260518-slim	
-1.20.0-erlang-28.4.1-debian-bookworm-20260610	
+1.20.0-erlang-28.4.1-debian-bookworm-20260610	amd64,arm64
 1.20.0-erlang-28.4.1-debian-bookworm-20260610-slim	arm64
 1.20.0-erlang-28.4.1-debian-bullseye-20260518	
 1.20.0-erlang-28.4.1-debian-bullseye-20260518-slim	
@@ -286687,7 +286687,7 @@
 1.20.0-erlang-29.0-debian-bullseye-20260518	
 1.20.0-erlang-29.0-debian-bullseye-20260518-slim	
 1.20.0-erlang-29.0-debian-bullseye-20260610	
-1.20.0-erlang-29.0-debian-bullseye-20260610-slim	amd64
+1.20.0-erlang-29.0-debian-bullseye-20260610-slim	
 1.20.0-erlang-29.0-debian-trixie-20260518	
 1.20.0-erlang-29.0-debian-trixie-20260518-slim	amd64
 1.20.0-erlang-29.0-debian-trixie-20260610	amd64
@@ -286763,7 +286763,7 @@
 1.20.0-erlang-29.0.1-debian-bullseye-20260518	
 1.20.0-erlang-29.0.1-debian-bullseye-20260518-slim	amd64
 1.20.0-erlang-29.0.1-debian-bullseye-20260610	
-1.20.0-erlang-29.0.1-debian-bullseye-20260610-slim	amd64,arm64
+1.20.0-erlang-29.0.1-debian-bullseye-20260610-slim	arm64
 1.20.0-erlang-29.0.1-debian-trixie-20260518	amd64,arm64
 1.20.0-erlang-29.0.1-debian-trixie-20260518-slim	amd64,arm64
 1.20.0-erlang-29.0.1-debian-trixie-20260610	amd64
@@ -304760,7 +304760,7 @@
 1.20.0-rc.5-erlang-29.0-rc3-debian-bullseye-20260610	
 1.20.0-rc.5-erlang-29.0-rc3-debian-bullseye-20260610-slim	
 1.20.0-rc.5-erlang-29.0-rc3-debian-trixie-20260505	
-1.20.0-rc.5-erlang-29.0-rc3-debian-trixie-20260505-slim	amd64,arm64
+1.20.0-rc.5-erlang-29.0-rc3-debian-trixie-20260505-slim	
 1.20.0-rc.5-erlang-29.0-rc3-debian-trixie-20260518	
 1.20.0-rc.5-erlang-29.0-rc3-debian-trixie-20260518-slim	
 1.20.0-rc.5-erlang-29.0-rc3-debian-trixie-20260610	
@@ -307171,7 +307171,7 @@
 1.20.1-erlang-29.0-rc3-debian-bookworm-20260610	
 1.20.1-erlang-29.0-rc3-debian-bookworm-20260610-slim	
 1.20.1-erlang-29.0-rc3-debian-bullseye-20260518	
-1.20.1-erlang-29.0-rc3-debian-bullseye-20260518-slim	amd64,arm64
+1.20.1-erlang-29.0-rc3-debian-bullseye-20260518-slim	
 1.20.1-erlang-29.0-rc3-debian-bullseye-20260610	
 1.20.1-erlang-29.0-rc3-debian-bullseye-20260610-slim	
 1.20.1-erlang-29.0-rc3-debian-trixie-20260518	amd64,arm64
@@ -307224,7 +307224,7 @@
 1.20.1-erlang-29.0.2-ubuntu-jammy-20260509	amd64,arm64
 1.20.1-erlang-29.0.2-ubuntu-noble-20260509.1	amd64,arm64
 1.20.1-erlang-29.0.2-ubuntu-resolute-20260421	
-1.20.1-erlang-29.0.2-ubuntu-resolute-20260610	amd64
+1.20.1-erlang-29.0.2-ubuntu-resolute-20260610	amd64,arm64
 1.20.2-erlang-27.0.1-alpine-3.20.9	
 1.20.2-erlang-27.0.1-alpine-3.21.7	amd64,arm64
 1.20.2-erlang-27.0.1-alpine-3.22.5	
@@ -307611,7 +307611,7 @@
 1.20.2-erlang-28.5.0.5-debian-bookworm-20260713	amd64
 1.20.2-erlang-28.5.0.5-debian-bookworm-20260713-slim	amd64,arm64
 1.20.2-erlang-28.5.0.5-debian-bullseye-20260713	
-1.20.2-erlang-28.5.0.5-debian-bullseye-20260713-slim	amd64,arm64
+1.20.2-erlang-28.5.0.5-debian-bullseye-20260713-slim	amd64
 1.20.2-erlang-28.5.0.5-debian-trixie-20260713	
 1.20.2-erlang-28.5.0.5-debian-trixie-20260713-slim	amd64,arm64
 1.20.2-erlang-28.5.0.5-ubuntu-jammy-20260627	arm64
@@ -307638,7 +307638,7 @@
 1.20.2-erlang-29.0.2-ubuntu-noble-20260509.1	amd64
 1.20.2-erlang-29.0.2-ubuntu-resolute-20260610	amd64
 1.20.2-erlang-29.0.3-alpine-3.21.7	amd64,arm64
-1.20.2-erlang-29.0.3-alpine-3.22.5	amd64,arm64
+1.20.2-erlang-29.0.3-alpine-3.22.5	amd64
 1.20.2-erlang-29.0.3-alpine-3.23.5	amd64,arm64
 1.20.2-erlang-29.0.3-alpine-3.24.1	amd64,arm64
 1.20.2-erlang-29.0.3-debian-bookworm-20260623	amd64,arm64
@@ -307663,7 +307663,7 @@
 1.20.2-erlang-29.0.4-alpine-3.24.1	amd64,arm64
 1.20.2-erlang-29.0.4-debian-bookworm-20260713	amd64,arm64
 1.20.2-erlang-29.0.4-debian-bookworm-20260713-slim	amd64,arm64
-1.20.2-erlang-29.0.4-debian-bullseye-20260713	arm64
+1.20.2-erlang-29.0.4-debian-bullseye-20260713	
 1.20.2-erlang-29.0.4-debian-bullseye-20260713-slim	amd64,arm64
 1.20.2-erlang-29.0.4-debian-trixie-20260713	amd64,arm64
 1.20.2-erlang-29.0.4-debian-trixie-20260713-slim	amd64,arm64
@@ -307766,7 +307766,7 @@
 1.20.3-erlang-27.2.4-ubuntu-jammy-20260627	amd64,arm64
 1.20.3-erlang-27.2.4-ubuntu-jammy-20260810	
 1.20.3-erlang-27.2.4-ubuntu-noble-20260730.1	amd64,arm64
-1.20.3-erlang-27.2.4-ubuntu-noble-20260810	amd64,arm64
+1.20.3-erlang-27.2.4-ubuntu-noble-20260810	amd64
 1.20.3-erlang-27.2.4-ubuntu-resolute-20260724.1	amd64,arm64
 1.20.3-erlang-27.2.4-ubuntu-resolute-20260811.1	
 1.20.3-erlang-27.3.4.16-alpine-3.21.7	amd64,arm64
@@ -307786,7 +307786,7 @@
 1.20.3-erlang-27.3.4.16-debian-bullseye-20260824	amd64,arm64
 1.20.3-erlang-27.3.4.16-debian-bullseye-20260824-slim	amd64,arm64
 1.20.3-erlang-27.3.4.16-debian-trixie-20260713	
-1.20.3-erlang-27.3.4.16-debian-trixie-20260713-slim	amd64
+1.20.3-erlang-27.3.4.16-debian-trixie-20260713-slim	
 1.20.3-erlang-27.3.4.16-debian-trixie-20260803	amd64,arm64
 1.20.3-erlang-27.3.4.16-debian-trixie-20260803-slim	amd64,arm64
 1.20.3-erlang-27.3.4.16-debian-trixie-20260824	amd64,arm64
@@ -307830,7 +307830,7 @@
 1.20.3-erlang-28.1.1-alpine-3.23.5	amd64,arm64
 1.20.3-erlang-28.1.1-alpine-3.24.1	amd64,arm64
 1.20.3-erlang-28.1.1-debian-bookworm-20260713	amd64
-1.20.3-erlang-28.1.1-debian-bookworm-20260713-slim	amd64,arm64
+1.20.3-erlang-28.1.1-debian-bookworm-20260713-slim	amd64
 1.20.3-erlang-28.1.1-debian-bookworm-20260803	
 1.20.3-erlang-28.1.1-debian-bookworm-20260803-slim	amd64
 1.20.3-erlang-28.1.1-debian-bookworm-20260824	amd64,arm64
@@ -307843,7 +307843,7 @@
 1.20.3-erlang-28.1.1-debian-bullseye-20260824-slim	amd64,arm64
 1.20.3-erlang-28.1.1-debian-trixie-20260713	
 1.20.3-erlang-28.1.1-debian-trixie-20260713-slim	
-1.20.3-erlang-28.1.1-debian-trixie-20260803	amd64,arm64
+1.20.3-erlang-28.1.1-debian-trixie-20260803	arm64
 1.20.3-erlang-28.1.1-debian-trixie-20260803-slim	amd64
 1.20.3-erlang-28.1.1-debian-trixie-20260824	amd64,arm64
 1.20.3-erlang-28.1.1-debian-trixie-20260824-slim	amd64,arm64
@@ -307928,7 +307928,7 @@
 1.20.3-erlang-28.4.3-debian-trixie-20260713	
 1.20.3-erlang-28.4.3-debian-trixie-20260713-slim	amd64
 1.20.3-erlang-28.4.3-debian-trixie-20260803	
-1.20.3-erlang-28.4.3-debian-trixie-20260803-slim	amd64
+1.20.3-erlang-28.4.3-debian-trixie-20260803-slim	
 1.20.3-erlang-28.4.3-debian-trixie-20260824	amd64,arm64
 1.20.3-erlang-28.4.3-debian-trixie-20260824-slim	amd64,arm64
 1.20.3-erlang-28.4.3-ubuntu-jammy-20260627	
@@ -361414,7 +361414,7 @@
 1.9.4-erlang-22.3.4-alpine-3.13.1	
 1.9.4-erlang-22.3.4-debian-bullseye-20210902	
 1.9.4-erlang-22.3.4-debian-bullseye-20210902-slim	
-1.9.4-erlang-22.3.4-debian-buster-20200224	amd64
+1.9.4-erlang-22.3.4-debian-buster-20200224	
 1.9.4-erlang-22.3.4-debian-buster-20210902-slim	
 1.9.4-erlang-22.3.4-debian-jessie-20200224	
 1.9.4-erlang-22.3.4-debian-stretch-20200224	
@@ -361589,7 +361589,7 @@
 1.9.4-erlang-22.3.4.18-ubuntu-xenial-20210114	
 1.9.4-erlang-22.3.4.19-alpine-3.13.3	
 1.9.4-erlang-22.3.4.19-alpine-3.14.0	
-1.9.4-erlang-22.3.4.19-debian-bullseye-20210902	amd64
+1.9.4-erlang-22.3.4.19-debian-bullseye-20210902	
 1.9.4-erlang-22.3.4.19-debian-bullseye-20210902-slim	
 1.9.4-erlang-22.3.4.19-debian-buster-20210326	
 1.9.4-erlang-22.3.4.19-debian-buster-20210902-slim	
@@ -361696,8 +361696,8 @@
 1.9.4-erlang-22.3.4.25-ubuntu-impish-20211102	
 1.9.4-erlang-22.3.4.25-ubuntu-trusty-20191217	
 1.9.4-erlang-22.3.4.25-ubuntu-xenial-20210804	
-1.9.4-erlang-22.3.4.26-debian-bullseye-20210902	amd64,arm64
-1.9.4-erlang-22.3.4.26-debian-bullseye-20210902-slim	amd64
+1.9.4-erlang-22.3.4.26-debian-bullseye-20210902	amd64
+1.9.4-erlang-22.3.4.26-debian-bullseye-20210902-slim	amd64,arm64
 1.9.4-erlang-22.3.4.26-debian-buster-20210902	amd64,arm64
 1.9.4-erlang-22.3.4.26-debian-buster-20210902-slim	
 1.9.4-erlang-22.3.4.26-debian-stretch-20210902	
