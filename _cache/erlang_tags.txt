@@ -3063,7 +3063,7 @@
 20.3.8.8-debian-bullseye-20260223	
 20.3.8.8-debian-bullseye-20260223-slim	
 20.3.8.8-debian-bullseye-20260316	
-20.3.8.8-debian-bullseye-20260316-slim	amd64,arm64
+20.3.8.8-debian-bullseye-20260316-slim	
 20.3.8.8-debian-bullseye-20260406	
 20.3.8.8-debian-bullseye-20260406-slim	
 20.3.8.8-debian-bullseye-20260421	
@@ -10880,7 +10880,7 @@
 23.2.5-debian-bullseye-20260518	
 23.2.5-debian-bullseye-20260518-slim	
 23.2.5-debian-bullseye-20260610	amd64,arm64
-23.2.5-debian-bullseye-20260610-slim	amd64,arm64
+23.2.5-debian-bullseye-20260610-slim	
 23.2.5-debian-buster-20210208	
 23.2.5-debian-buster-20210902-slim	
 23.2.5-debian-jessie-20210208	
@@ -12009,7 +12009,7 @@
 23.3.4.18-debian-bullseye-20260505-slim	
 23.3.4.18-debian-bullseye-20260518	
 23.3.4.18-debian-bullseye-20260518-slim	
-23.3.4.18-debian-bullseye-20260610	amd64
+23.3.4.18-debian-bullseye-20260610	
 23.3.4.18-debian-bullseye-20260610-slim	
 23.3.4.18-debian-buster-20220801	
 23.3.4.18-debian-buster-20220801-slim	
@@ -13783,7 +13783,7 @@
 24.2-ubuntu-jammy-20251001	
 24.2-ubuntu-jammy-20251013	
 24.2-ubuntu-jammy-20260109	
-24.2-ubuntu-jammy-20260217	amd64,arm64
+24.2-ubuntu-jammy-20260217	
 24.2-ubuntu-jammy-20260410	
 24.2-ubuntu-jammy-20260509	
 24.2-ubuntu-noble-20251001	
@@ -13914,7 +13914,7 @@
 24.2.1-ubuntu-jammy-20251001	
 24.2.1-ubuntu-jammy-20251013	
 24.2.1-ubuntu-jammy-20260109	
-24.2.1-ubuntu-jammy-20260217	
+24.2.1-ubuntu-jammy-20260217	amd64,arm64
 24.2.1-ubuntu-jammy-20260410	
 24.2.1-ubuntu-jammy-20260509	
 24.2.1-ubuntu-noble-20251001	
@@ -14297,7 +14297,7 @@
 24.2.2-ubuntu-jammy-20251001	
 24.2.2-ubuntu-jammy-20251013	
 24.2.2-ubuntu-jammy-20260109	
-24.2.2-ubuntu-jammy-20260217	amd64,arm64
+24.2.2-ubuntu-jammy-20260217	
 24.2.2-ubuntu-jammy-20260410	
 24.2.2-ubuntu-jammy-20260509	
 24.2.2-ubuntu-jammy-20260627	
@@ -15163,7 +15163,7 @@
 24.3.4.10-debian-bookworm-20260505-slim	
 24.3.4.10-debian-bookworm-20260518	
 24.3.4.10-debian-bookworm-20260518-slim	
-24.3.4.10-debian-bookworm-20260610	amd64,arm64
+24.3.4.10-debian-bookworm-20260610	
 24.3.4.10-debian-bookworm-20260610-slim	
 24.3.4.10-debian-bullseye-20230227	
 24.3.4.10-debian-bullseye-20230227-slim	
@@ -15857,7 +15857,7 @@
 24.3.4.15-debian-bullseye-20260518	
 24.3.4.15-debian-bullseye-20260518-slim	
 24.3.4.15-debian-bullseye-20260610	
-24.3.4.15-debian-bullseye-20260610-slim	amd64
+24.3.4.15-debian-bullseye-20260610-slim	
 24.3.4.15-debian-buster-20231009	
 24.3.4.15-debian-buster-20231009-slim	
 24.3.4.15-debian-buster-20231120	
@@ -16490,7 +16490,7 @@
 24.3.4.2-ubuntu-noble-20260113	
 24.3.4.2-ubuntu-noble-20260210.1	
 24.3.4.2-ubuntu-noble-20260217	
-24.3.4.2-ubuntu-noble-20260324	amd64,arm64
+24.3.4.2-ubuntu-noble-20260324	
 24.3.4.2-ubuntu-noble-20260410	
 24.3.4.2-ubuntu-noble-20260509.1	
 24.3.4.2-ubuntu-trusty-20191217	
@@ -16746,7 +16746,7 @@
 24.3.4.4-ubuntu-noble-20260113	
 24.3.4.4-ubuntu-noble-20260210.1	
 24.3.4.4-ubuntu-noble-20260217	
-24.3.4.4-ubuntu-noble-20260324	amd64,arm64
+24.3.4.4-ubuntu-noble-20260324	
 24.3.4.4-ubuntu-noble-20260410	
 24.3.4.4-ubuntu-noble-20260509.1	
 24.3.4.4-ubuntu-trusty-20191217	
@@ -17104,7 +17104,7 @@
 24.3.4.7-debian-trixie-20260223-slim	
 24.3.4.7-debian-trixie-20260316	
 24.3.4.7-debian-trixie-20260316-slim	
-24.3.4.7-debian-trixie-20260406	amd64,arm64
+24.3.4.7-debian-trixie-20260406	
 24.3.4.7-debian-trixie-20260406-slim	amd64,arm64
 24.3.4.7-debian-trixie-20260421	
 24.3.4.7-debian-trixie-20260421-slim	
@@ -27780,7 +27780,7 @@
 26.2.5.21-ubuntu-noble-20260905	amd64,arm64
 26.2.5.21-ubuntu-noble-20260911	amd64,arm64
 26.2.5.21-ubuntu-resolute-20260421	
-26.2.5.21-ubuntu-resolute-20260610	amd64,arm64
+26.2.5.21-ubuntu-resolute-20260610	
 26.2.5.21-ubuntu-resolute-20260627	
 26.2.5.21-ubuntu-resolute-20260707	amd64,arm64
 26.2.5.21-ubuntu-resolute-20260724.1	
@@ -32092,7 +32092,7 @@
 27.3.4.13-debian-bookworm-20260518	
 27.3.4.13-debian-bookworm-20260518-slim	
 27.3.4.13-debian-bookworm-20260610	
-27.3.4.13-debian-bookworm-20260610-slim	amd64
+27.3.4.13-debian-bookworm-20260610-slim	
 27.3.4.13-debian-bookworm-20260623	
 27.3.4.13-debian-bookworm-20260623-slim	
 27.3.4.13-debian-bullseye-20260518	
@@ -32134,7 +32134,7 @@
 27.3.4.14-ubuntu-noble-20260610	amd64,arm64
 27.3.4.14-ubuntu-resolute-20260627	amd64,arm64
 27.3.4.14-ubuntu-resolute-20260707	amd64,arm64
-27.3.4.15-alpine-3.21.7	amd64,arm64
+27.3.4.15-alpine-3.21.7	
 27.3.4.15-alpine-3.22.5	amd64,arm64
 27.3.4.15-alpine-3.23.5	amd64,arm64
 27.3.4.15-alpine-3.24.1	amd64,arm64
@@ -34550,7 +34550,7 @@
 28.1.1-debian-bullseye-20260505-slim	
 28.1.1-debian-bullseye-20260518	
 28.1.1-debian-bullseye-20260518-slim	
-28.1.1-debian-bullseye-20260610	amd64
+28.1.1-debian-bullseye-20260610	
 28.1.1-debian-bullseye-20260610-slim	
 28.1.1-debian-bullseye-20260623	
 28.1.1-debian-bullseye-20260623-slim	
@@ -34768,7 +34768,7 @@
 28.2-ubuntu-noble-20260509.1	
 28.2-ubuntu-noble-20260610	
 28.2-ubuntu-noble-20260730.1	
-28.2-ubuntu-noble-20260810	arm64
+28.2-ubuntu-noble-20260810	
 28.2-ubuntu-noble-20260905	amd64,arm64
 28.2-ubuntu-noble-20260911	amd64,arm64
 28.2-ubuntu-resolute-20260413	
@@ -35189,7 +35189,7 @@
 28.4-ubuntu-noble-20260217	
 28.4-ubuntu-noble-20260324	
 28.4-ubuntu-noble-20260410	
-28.4-ubuntu-noble-20260509.1	amd64
+28.4-ubuntu-noble-20260509.1	
 28.4-ubuntu-resolute-20260413	
 28.4-ubuntu-resolute-20260421	
 28.4.1-alpine-3.20.9	
@@ -35377,7 +35377,7 @@
 28.4.3-ubuntu-noble-20260509.1	
 28.4.3-ubuntu-noble-20260610	
 28.4.3-ubuntu-noble-20260730.1	
-28.4.3-ubuntu-noble-20260810	amd64
+28.4.3-ubuntu-noble-20260810	
 28.4.3-ubuntu-noble-20260905	amd64,arm64
 28.4.3-ubuntu-noble-20260911	amd64,arm64
 28.4.3-ubuntu-resolute-20260413	
@@ -35501,7 +35501,7 @@
 28.5.0.4-alpine-3.24.1	amd64
 28.5.0.4-debian-bookworm-20260713	amd64,arm64
 28.5.0.4-debian-bookworm-20260713-slim	amd64,arm64
-28.5.0.4-debian-bullseye-20260713	amd64,arm64
+28.5.0.4-debian-bullseye-20260713	
 28.5.0.4-debian-bullseye-20260713-slim	amd64,arm64
 28.5.0.4-debian-trixie-20260713	
 28.5.0.4-debian-trixie-20260713-slim	amd64,arm64
@@ -35882,7 +35882,7 @@
 29.0.5-ubuntu-noble-20260730.1	amd64,arm64
 29.0.5-ubuntu-noble-20260810	amd64
 29.0.5-ubuntu-resolute-20260724.1	
-29.0.5-ubuntu-resolute-20260811.1	amd64
+29.0.5-ubuntu-resolute-20260811.1	
 29.0.6-alpine-3.21.7	amd64,arm64
 29.0.6-alpine-3.21.8	amd64,arm64
 29.0.6-alpine-3.22.5	amd64,arm64
