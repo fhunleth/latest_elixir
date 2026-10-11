@@ -16628,7 +16628,7 @@
 24.3.4.3-ubuntu-noble-20260113	
 24.3.4.3-ubuntu-noble-20260210.1	
 24.3.4.3-ubuntu-noble-20260217	
-24.3.4.3-ubuntu-noble-20260324	amd64,arm64
+24.3.4.3-ubuntu-noble-20260324	
 24.3.4.3-ubuntu-noble-20260410	
 24.3.4.3-ubuntu-noble-20260509.1	
 24.3.4.3-ubuntu-trusty-20191217	
@@ -22987,7 +22987,7 @@
 25.3.2.4-ubuntu-noble-20260113	
 25.3.2.4-ubuntu-noble-20260210.1	
 25.3.2.4-ubuntu-noble-20260217	
-25.3.2.4-ubuntu-noble-20260324	
+25.3.2.4-ubuntu-noble-20260324	amd64,arm64
 25.3.2.4-ubuntu-noble-20260410	
 25.3.2.4-ubuntu-noble-20260509.1	
 25.3.2.5-alpine-3.16.6	
@@ -23396,10 +23396,10 @@
 25.3.2.8-alpine-3.20.9	
 25.3.2.8-alpine-3.21.5	
 25.3.2.8-alpine-3.21.6	
-25.3.2.8-alpine-3.21.7	amd64
+25.3.2.8-alpine-3.21.7	
 25.3.2.8-alpine-3.22.2	
 25.3.2.8-alpine-3.22.3	
-25.3.2.8-alpine-3.22.4	amd64
+25.3.2.8-alpine-3.22.4	
 25.3.2.8-debian-bookworm-20231009	
 25.3.2.8-debian-bookworm-20231009-slim	
 25.3.2.8-debian-bookworm-20231120	
@@ -23508,7 +23508,7 @@
 25.3.2.8-debian-trixie-20260518-slim	
 25.3.2.8-debian-trixie-20260610	
 25.3.2.8-debian-trixie-20260610-slim	
-25.3.2.8-ubuntu-bionic-20230530	amd64
+25.3.2.8-ubuntu-bionic-20230530	
 25.3.2.8-ubuntu-focal-20231003	
 25.3.2.8-ubuntu-focal-20231128	
 25.3.2.8-ubuntu-focal-20240123	
@@ -24170,7 +24170,7 @@
 26.0-rc3-debian-trixie-20260505	
 26.0-rc3-debian-trixie-20260505-slim	
 26.0-rc3-debian-trixie-20260518	
-26.0-rc3-debian-trixie-20260518-slim	amd64
+26.0-rc3-debian-trixie-20260518-slim	
 26.0-rc3-debian-trixie-20260610	
 26.0-rc3-debian-trixie-20260610-slim	
 26.0-rc3-ubuntu-bionic-20230126	
@@ -30386,7 +30386,7 @@
 27.1.3-ubuntu-noble-20260509.1	
 27.1.3-ubuntu-noble-20260610	
 27.1.3-ubuntu-noble-20260730.1	
-27.1.3-ubuntu-noble-20260810	amd64,arm64
+27.1.3-ubuntu-noble-20260810	
 27.1.3-ubuntu-noble-20260905	amd64,arm64
 27.1.3-ubuntu-noble-20260911	amd64,arm64
 27.1.3-ubuntu-noble-20260917	amd64,arm64
@@ -32238,7 +32238,7 @@
 27.3.4.16-debian-trixie-20260824	
 27.3.4.16-debian-trixie-20260824-slim	
 27.3.4.16-ubuntu-jammy-20260627	
-27.3.4.16-ubuntu-jammy-20260810	
+27.3.4.16-ubuntu-jammy-20260810	amd64
 27.3.4.16-ubuntu-noble-20260730.1	
 27.3.4.16-ubuntu-noble-20260810	amd64,arm64
 27.3.4.16-ubuntu-resolute-20260724.1	
@@ -34867,7 +34867,7 @@
 28.2-ubuntu-resolute-20260707	amd64,arm64
 28.2-ubuntu-resolute-20260724.1	
 28.2-ubuntu-resolute-20260811.1	amd64,arm64
-28.2-ubuntu-resolute-20260901	amd64,arm64
+28.2-ubuntu-resolute-20260901	
 28.2-ubuntu-resolute-20260912	amd64,arm64
 28.2-ubuntu-resolute-20260927	amd64,arm64
 28.3-alpine-3.19.9	
@@ -35214,7 +35214,7 @@
 28.3.3-ubuntu-noble-20260610	
 28.3.3-ubuntu-noble-20260730.1	
 28.3.3-ubuntu-noble-20260810	
-28.3.3-ubuntu-noble-20260905	amd64,arm64
+28.3.3-ubuntu-noble-20260905	arm64
 28.3.3-ubuntu-noble-20260911	amd64,arm64
 28.3.3-ubuntu-noble-20260917	amd64,arm64
 28.3.3-ubuntu-resolute-20260413	
@@ -35224,7 +35224,7 @@
 28.3.3-ubuntu-resolute-20260707	amd64,arm64
 28.3.3-ubuntu-resolute-20260724.1	
 28.3.3-ubuntu-resolute-20260811.1	
-28.3.3-ubuntu-resolute-20260901	amd64,arm64
+28.3.3-ubuntu-resolute-20260901	amd64
 28.3.3-ubuntu-resolute-20260912	amd64,arm64
 28.3.3-ubuntu-resolute-20260927	amd64,arm64
 28.4-alpine-3.20.9	
@@ -35488,7 +35488,7 @@
 28.4.3-ubuntu-resolute-20260707	amd64,arm64
 28.4.3-ubuntu-resolute-20260724.1	
 28.4.3-ubuntu-resolute-20260811.1	
-28.4.3-ubuntu-resolute-20260901	amd64,arm64
+28.4.3-ubuntu-resolute-20260901	arm64
 28.4.3-ubuntu-resolute-20260912	amd64,arm64
 28.4.3-ubuntu-resolute-20260927	amd64,arm64
 28.5-alpine-3.20.9	
@@ -35660,10 +35660,10 @@
 28.5.0.6-debian-trixie-20260918-slim	amd64,arm64
 28.5.0.6-ubuntu-jammy-20260810	amd64,arm64
 28.5.0.6-ubuntu-noble-20260810	amd64,arm64
-28.5.0.6-ubuntu-noble-20260905	amd64,arm64
+28.5.0.6-ubuntu-noble-20260905	amd64
 28.5.0.6-ubuntu-noble-20260911	amd64,arm64
 28.5.0.6-ubuntu-resolute-20260811.1	amd64,arm64
-28.5.0.6-ubuntu-resolute-20260901	amd64,arm64
+28.5.0.6-ubuntu-resolute-20260901	amd64
 28.5.0.6-ubuntu-resolute-20260912	amd64,arm64
 28.5.0.7-alpine-3.21.8	amd64,arm64
 28.5.0.7-alpine-3.22.6	amd64,arm64
