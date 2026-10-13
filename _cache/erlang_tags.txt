@@ -1381,7 +1381,7 @@
 20.3-alpine-3.11.3	
 20.3-alpine-3.12.0	
 20.3-debian-bullseye-20210902	
-20.3-debian-bullseye-20210902-slim	
+20.3-debian-bullseye-20210902-slim	amd64
 20.3-debian-bullseye-20250929	
 20.3-debian-bullseye-20250929-slim	
 20.3-debian-bullseye-20251020	
@@ -9639,7 +9639,7 @@
 22.3.4.9-debian-bullseye-20260518	
 22.3.4.9-debian-bullseye-20260518-slim	
 22.3.4.9-debian-bullseye-20260610	
-22.3.4.9-debian-bullseye-20260610-slim	amd64
+22.3.4.9-debian-bullseye-20260610-slim	
 22.3.4.9-debian-buster-20200607	
 22.3.4.9-debian-buster-20210902-slim	
 22.3.4.9-debian-buster-20230522	
@@ -12827,7 +12827,7 @@
 24.0.1-debian-stretch-20210326	
 24.0.1-debian-stretch-20210902-slim	
 24.0.1-ubuntu-bionic-20210325	
-24.0.1-ubuntu-focal-20210325	amd64
+24.0.1-ubuntu-focal-20210325	
 24.0.1-ubuntu-focal-20250404	
 24.0.1-ubuntu-groovy-20210325	
 24.0.1-ubuntu-impish-20211102	
@@ -14991,7 +14991,7 @@
 24.3.4-ubuntu-noble-20260113	
 24.3.4-ubuntu-noble-20260210.1	
 24.3.4-ubuntu-noble-20260217	
-24.3.4-ubuntu-noble-20260324	amd64,arm64
+24.3.4-ubuntu-noble-20260324	
 24.3.4-ubuntu-noble-20260410	
 24.3.4-ubuntu-noble-20260509.1	
 24.3.4-ubuntu-trusty-20191217	
@@ -18169,7 +18169,7 @@
 25.0.2-debian-bookworm-20260518	
 25.0.2-debian-bookworm-20260518-slim	
 25.0.2-debian-bookworm-20260610	
-25.0.2-debian-bookworm-20260610-slim	
+25.0.2-debian-bookworm-20260610-slim	amd64
 25.0.2-debian-bullseye-20210902	
 25.0.2-debian-bullseye-20210902-slim	amd64
 25.0.2-debian-bullseye-20250929	
@@ -19842,7 +19842,7 @@
 25.2.1-ubuntu-noble-20260113	
 25.2.1-ubuntu-noble-20260210.1	
 25.2.1-ubuntu-noble-20260217	
-25.2.1-ubuntu-noble-20260324	
+25.2.1-ubuntu-noble-20260324	amd64,arm64
 25.2.1-ubuntu-noble-20260410	
 25.2.1-ubuntu-noble-20260509.1	
 25.2.1-ubuntu-trusty-20191217	
@@ -24729,7 +24729,7 @@
 26.0.2-ubuntu-noble-20241011	
 26.0.2-ubuntu-noble-20241015	
 26.0.2-ubuntu-noble-20241118.1	
-26.0.2-ubuntu-noble-20250127	amd64
+26.0.2-ubuntu-noble-20250127	
 26.0.2-ubuntu-noble-20250404	
 26.0.2-ubuntu-noble-20250415.1	
 26.0.2-ubuntu-noble-20250529	
@@ -31204,7 +31204,7 @@
 27.2.4-ubuntu-resolute-20260627	
 27.2.4-ubuntu-resolute-20260707	amd64,arm64
 27.2.4-ubuntu-resolute-20260724.1	
-27.2.4-ubuntu-resolute-20260811.1	amd64,arm64
+27.2.4-ubuntu-resolute-20260811.1	
 27.2.4-ubuntu-resolute-20260901	amd64,arm64
 27.2.4-ubuntu-resolute-20260912	amd64,arm64
 27.2.4-ubuntu-resolute-20260927	amd64,arm64
@@ -34992,7 +34992,7 @@
 28.3.1-debian-bookworm-20260518	
 28.3.1-debian-bookworm-20260518-slim	
 28.3.1-debian-bookworm-20260610	
-28.3.1-debian-bookworm-20260610-slim	
+28.3.1-debian-bookworm-20260610-slim	amd64
 28.3.1-debian-bullseye-20260112	
 28.3.1-debian-bullseye-20260112-slim	
 28.3.1-debian-bullseye-20260202	
@@ -35483,7 +35483,7 @@
 28.4.3-ubuntu-noble-20260917	amd64,arm64
 28.4.3-ubuntu-resolute-20260413	
 28.4.3-ubuntu-resolute-20260421	
-28.4.3-ubuntu-resolute-20260610	amd64,arm64
+28.4.3-ubuntu-resolute-20260610	
 28.4.3-ubuntu-resolute-20260627	
 28.4.3-ubuntu-resolute-20260707	amd64,arm64
 28.4.3-ubuntu-resolute-20260724.1	
@@ -35585,7 +35585,7 @@
 28.5.0.3-debian-bookworm-20260623-slim	amd64
 28.5.0.3-debian-bookworm-20260713	
 28.5.0.3-debian-bookworm-20260713-slim	
-28.5.0.3-debian-bullseye-20260623	amd64,arm64
+28.5.0.3-debian-bullseye-20260623	
 28.5.0.3-debian-bullseye-20260623-slim	amd64,arm64
 28.5.0.3-debian-bullseye-20260713	
 28.5.0.3-debian-bullseye-20260713-slim	
@@ -35633,7 +35633,7 @@
 28.5.0.5-debian-trixie-20260803	
 28.5.0.5-debian-trixie-20260803-slim	
 28.5.0.5-debian-trixie-20260824	
-28.5.0.5-debian-trixie-20260824-slim	
+28.5.0.5-debian-trixie-20260824-slim	amd64
 28.5.0.5-ubuntu-jammy-20260627	
 28.5.0.5-ubuntu-jammy-20260810	
 28.5.0.5-ubuntu-noble-20260730.1	
@@ -35660,7 +35660,7 @@
 28.5.0.6-debian-trixie-20260918-slim	amd64,arm64
 28.5.0.6-ubuntu-jammy-20260810	amd64,arm64
 28.5.0.6-ubuntu-noble-20260810	amd64,arm64
-28.5.0.6-ubuntu-noble-20260905	amd64
+28.5.0.6-ubuntu-noble-20260905	
 28.5.0.6-ubuntu-noble-20260911	amd64,arm64
 28.5.0.6-ubuntu-resolute-20260811.1	amd64,arm64
 28.5.0.6-ubuntu-resolute-20260901	
