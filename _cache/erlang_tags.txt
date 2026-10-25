@@ -24807,7 +24807,7 @@
 26.0.2-ubuntu-noble-20260610	
 26.0.2-ubuntu-noble-20260730.1	
 26.0.2-ubuntu-noble-20260810	
-26.0.2-ubuntu-noble-20260905	amd64,arm64
+26.0.2-ubuntu-noble-20260905	
 26.0.2-ubuntu-noble-20260911	amd64,arm64
 26.0.2-ubuntu-noble-20260917	amd64,arm64
 26.0.2-ubuntu-noble-20260930.1	amd64,arm64
@@ -29788,7 +29788,7 @@
 27.0.1-ubuntu-resolute-20260707	amd64,arm64
 27.0.1-ubuntu-resolute-20260724.1	
 27.0.1-ubuntu-resolute-20260811.1	
-27.0.1-ubuntu-resolute-20260901	amd64,arm64
+27.0.1-ubuntu-resolute-20260901	
 27.0.1-ubuntu-resolute-20260912	amd64,arm64
 27.0.1-ubuntu-resolute-20260927	amd64,arm64
 27.0.1-ubuntu-resolute-20261006	amd64,arm64
@@ -32366,7 +32366,7 @@
 27.3.4.17-alpine-3.24.1	
 27.3.4.17-alpine-3.24.2	amd64
 27.3.4.17-debian-bookworm-20260824	
-27.3.4.17-debian-bookworm-20260824-slim	amd64,arm64
+27.3.4.17-debian-bookworm-20260824-slim	
 27.3.4.17-debian-bookworm-20260918	amd64
 27.3.4.17-debian-bookworm-20260918-slim	amd64
 27.3.4.17-debian-bullseye-20260824	
@@ -32375,7 +32375,7 @@
 27.3.4.17-debian-trixie-20260824-slim	amd64,arm64
 27.3.4.17-debian-trixie-20260918	amd64
 27.3.4.17-debian-trixie-20260918-slim	amd64
-27.3.4.17-ubuntu-jammy-20260810	amd64,arm64
+27.3.4.17-ubuntu-jammy-20260810	
 27.3.4.17-ubuntu-noble-20260810	
 27.3.4.17-ubuntu-noble-20260905	amd64,arm64
 27.3.4.17-ubuntu-noble-20260911	amd64,arm64
@@ -35835,11 +35835,11 @@
 28.5.0.6-alpine-3.21.8	amd64
 28.5.0.6-alpine-3.22.5	amd64,arm64
 28.5.0.6-alpine-3.22.6	amd64
-28.5.0.6-alpine-3.23.5	amd64,arm64
+28.5.0.6-alpine-3.23.5	
 28.5.0.6-alpine-3.23.6	amd64
 28.5.0.6-alpine-3.24.1	
 28.5.0.6-alpine-3.24.2	amd64,arm64
-28.5.0.6-debian-bookworm-20260824	amd64,arm64
+28.5.0.6-debian-bookworm-20260824	
 28.5.0.6-debian-bookworm-20260824-slim	amd64
 28.5.0.6-debian-bookworm-20260918	amd64
 28.5.0.6-debian-bookworm-20260918-slim	amd64,arm64
@@ -36101,7 +36101,7 @@
 29.0.1-debian-bullseye-20260518-slim	
 29.0.1-debian-bullseye-20260610	
 29.0.1-debian-bullseye-20260610-slim	
-29.0.1-debian-trixie-20260518	
+29.0.1-debian-trixie-20260518	arm64
 29.0.1-debian-trixie-20260518-slim	
 29.0.1-debian-trixie-20260610	
 29.0.1-debian-trixie-20260610-slim	amd64,arm64
