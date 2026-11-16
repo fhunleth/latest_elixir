@@ -12015,7 +12015,7 @@
 23.3.4.18-debian-buster-20220801-slim	
 23.3.4.18-ubuntu-bionic-20210930	
 23.3.4.18-ubuntu-focal-20211006	
-23.3.4.18-ubuntu-focal-20250404	
+23.3.4.18-ubuntu-focal-20250404	amd64
 23.3.4.18-ubuntu-trusty-20191217	
 23.3.4.18-ubuntu-xenial-20210804	
 23.3.4.19-alpine-3.16.6	
@@ -12207,7 +12207,7 @@
 23.3.4.20-debian-bullseye-20260803	
 23.3.4.20-debian-bullseye-20260803-slim	
 23.3.4.20-debian-bullseye-20260824	
-23.3.4.20-debian-bullseye-20260824-slim	
+23.3.4.20-debian-bullseye-20260824-slim	amd64
 23.3.4.20-debian-buster-20240130	
 23.3.4.20-debian-buster-20240130-slim	
 23.3.4.20-debian-buster-20240311	
@@ -14355,7 +14355,7 @@
 24.2.2-ubuntu-noble-20260730.1	
 24.2.2-ubuntu-noble-20260810	
 24.2.2-ubuntu-noble-20260905	amd64,arm64
-24.2.2-ubuntu-noble-20260911	amd64,arm64
+24.2.2-ubuntu-noble-20260911	
 24.2.2-ubuntu-noble-20260917	
 24.2.2-ubuntu-noble-20260930.1	amd64,arm64
 24.2.2-ubuntu-noble-20261024.1	amd64,arm64
@@ -15920,7 +15920,7 @@
 24.3.4.15-debian-trixie-20260518-slim	
 24.3.4.15-debian-trixie-20260610	
 24.3.4.15-debian-trixie-20260610-slim	
-24.3.4.15-ubuntu-bionic-20230530	amd64
+24.3.4.15-ubuntu-bionic-20230530	
 24.3.4.15-ubuntu-focal-20231003	
 24.3.4.15-ubuntu-focal-20231128	
 24.3.4.15-ubuntu-focal-20240123	
@@ -32564,7 +32564,7 @@
 27.3.4.17-ubuntu-resolute-20260912	amd64,arm64
 27.3.4.18-alpine-3.21.8	amd64,arm64
 27.3.4.18-alpine-3.22.6	amd64
-27.3.4.18-alpine-3.23.6	amd64,arm64
+27.3.4.18-alpine-3.23.6	
 27.3.4.18-alpine-3.24.2	amd64,arm64
 27.3.4.18-debian-bookworm-20260918	
 27.3.4.18-debian-bookworm-20260918-slim	amd64,arm64
@@ -33425,7 +33425,7 @@
 27.3.4.9-ubuntu-noble-20260217	
 27.3.4.9-ubuntu-noble-20260324	
 27.3.4.9-ubuntu-noble-20260410	
-27.3.4.9-ubuntu-noble-20260509.1	
+27.3.4.9-ubuntu-noble-20260509.1	amd64
 27.3.4.9-ubuntu-resolute-20260413	
 27.3.4.9-ubuntu-resolute-20260421	
 28.0-alpine-3.18.9	
